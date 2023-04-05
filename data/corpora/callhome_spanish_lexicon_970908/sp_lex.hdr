@@ -1,0 +1,46 @@
+# header file for published Spanish lexicon
+
+# Each line of the lexicon contains the following nine fields
+# in the following order.  The first field contains a name, the second
+# contains a regular expression that should match every instance of that
+# field.  Fields are tab separated, here as well as in the lexicon.
+
+# For full documentation of the lexicon, please read the file sp_lex.doc!
+
+# Usage of this file:
+#  simple syntax check:
+#	parse-lex -s sp_lex.hdr sp_lex.v04
+#  output full "parse" of fields:
+#	parse-lex sp_lex.hdr sp_lex.v04
+# The "parse-lex" tool is available via FTP from ftp.ldc.upenn.edu
+
+HEADWORD	[-a-z·ÈÌÛ˙‰ÎÔˆ¸Ò—A-Z…Õ]+
+
+# morphological and stem information
+let $morphpiece=[-a-z·ÈÌÛ˙‰ÎÔˆ¸Ò—A-Z…Õ_]+((\+$tag)|(\|Adv))+
+let $tag=(1P|2P|3P|Abrev|Acc|Acro|Adj|Adv|Affix|Apoc|Art|Aum|Card|Com|Cond|Conj|Continent|Cort|Dat|Def|Dem|Det|Dim|FSubj|Fem|For|Fut|Gen|IInd|ISubj|Imp|Indef|Inf|Interj|Interrog|Let|Lit|Loc|Lugar|MF|Masc|NP|Neut|Nom|Noun|Num|Obl|Onom|Org|PInd|PP|PSubj|PastPart|Pay|Perf|Pl|Pluperf|Poss|PostDet|PreDet|Prep|PresPart|Pron|Prop|Quant|Reas|Ref|Rel|SP|Sg|Soc|Sup|Temp|Titl|Usastate|Var|Verb|Zodiac)
+
+MORPH	$morphpiece((//|\|)$morphpiece)*
+
+# pronunciation
+let $pronpiece=[aieouhpbBfvlmwtdDsSCJnyrRxNkgG9z]+
+PRON	$pronpiece(//$pronpiece)*
+
+# stress pattern(s): 1=stressed, 0=unstressed
+STRESS	0*1[01]*(//0*1[01]*)*
+
+# number of occurrences in Callhome transcripts
+CALLH	[0-9]+
+
+# number of occurrences in Madrid Radio transcripts
+MADRAD	[0-9]+
+
+# number of occurrences in AP newswire text
+AP	[0-9]+
+
+# number of occurrences in Reuters newswire text
+REUT	[0-9]+
+
+# number of occurrences in El Norte newswire text
+NORTE	[0-9]+
+
