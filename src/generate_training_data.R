@@ -72,7 +72,7 @@ data <- data %>%
   filter(!(word %in% c('etc')),)
 
 data %>%
-  select(transcription, no_spaces_ipa) %>%
+  select(word, transcription, no_spaces_ipa) %>%
   filter(transcription != no_spaces_ipa 
          # Voicing assimilation discrepancies
          & !(str_detect(no_spaces_ipa, 'sm') & str_detect(transcription, 'zm'))
@@ -111,51 +111,47 @@ data %>%
          
          # glide-vowel differences
          # Off-glides transcribed as vowels 
-         & !(str_detect(no_spaces_ipa, 'si') & str_detect(transcription, 'sʝ'))
-         & !(str_detect(no_spaces_ipa, 'tu') & str_detect(transcription, 'tw'))
-         & !(str_detect(no_spaces_ipa, 'gi') & str_detect(transcription, 'gʝ'))
-         & !(str_detect(no_spaces_ipa, 'xi') & str_detect(transcription, 'xʝ'))
-         & !(str_detect(no_spaces_ipa, 'li') & str_detect(transcription, 'lʝ'))
-         & !(str_detect(no_spaces_ipa, 'ni') & str_detect(transcription, 'nʝ'))
-         & !(str_detect(no_spaces_ipa, 'ɾi') & str_detect(transcription, 'ɾʝ'))
-         & !(str_detect(no_spaces_ipa, 'ri') & str_detect(transcription, 'rʝ'))
-         & !(str_detect(no_spaces_ipa, 'pi') & str_detect(transcription, 'pʝ'))
-         & !(str_detect(no_spaces_ipa, 'fi') & str_detect(transcription, 'fʝ'))
-         & !(str_detect(no_spaces_ipa, 'ki') & str_detect(transcription, 'kʝ'))
-         & !(str_detect(no_spaces_ipa, 'di') & str_detect(transcription, 'dʝ'))
-         & !(str_detect(no_spaces_ipa, 'ɾu') & str_detect(transcription, 'ɾw'))
-         & !(str_detect(no_spaces_ipa, 'bu') & str_detect(transcription, 'bw'))
-         & !(str_detect(no_spaces_ipa, 'ku') & str_detect(transcription, 'kw'))
-         & !(str_detect(no_spaces_ipa, 'nu') & str_detect(transcription, 'nw'))
-         & !(str_detect(no_spaces_ipa, 'ru') & str_detect(transcription, 'rw'))
-         & !(str_detect(no_spaces_ipa, 'lu') & str_detect(transcription, 'lw'))
-         & !(str_detect(no_spaces_ipa, 'du') & str_detect(transcription, 'dw'))
-         & !(str_detect(no_spaces_ipa, 'gu') & str_detect(transcription, 'w'))
-         
-         # Intervocalic glide transcribed as vowel
+         # & !(str_detect(no_spaces_ipa, 'si') & str_detect(transcription, 'sʝ'))
+         # & !(str_detect(no_spaces_ipa, 'tu') & str_detect(transcription, 'tw'))
+         # & !(str_detect(no_spaces_ipa, 'gi') & str_detect(transcription, 'gʝ'))
+         # & !(str_detect(no_spaces_ipa, 'xi') & str_detect(transcription, 'xʝ'))
+         # & !(str_detect(no_spaces_ipa, 'li') & str_detect(transcription, 'lʝ'))
+         # & !(str_detect(no_spaces_ipa, 'ni') & str_detect(transcription, 'nʝ'))
+         # & !(str_detect(no_spaces_ipa, 'ɾi') & str_detect(transcription, 'ɾʝ'))
+         # & !(str_detect(no_spaces_ipa, 'ri') & str_detect(transcription, 'rʝ'))
+         # & !(str_detect(no_spaces_ipa, 'pi') & str_detect(transcription, 'pʝ'))
+         # & !(str_detect(no_spaces_ipa, 'fi') & str_detect(transcription, 'fʝ'))
+         # & !(str_detect(no_spaces_ipa, 'ki') & str_detect(transcription, 'kʝ'))
+         # & !(str_detect(no_spaces_ipa, 'di') & str_detect(transcription, 'dʝ'))
+         # & !(str_detect(no_spaces_ipa, 'ɾu') & str_detect(transcription, 'ɾw'))
+         # & !(str_detect(no_spaces_ipa, 'bu') & str_detect(transcription, 'bw'))
+         # & !(str_detect(no_spaces_ipa, 'ku') & str_detect(transcription, 'kw'))
+         # & !(str_detect(no_spaces_ipa, 'nu') & str_detect(transcription, 'nw'))
+         # & !(str_detect(no_spaces_ipa, 'ru') & str_detect(transcription, 'rw'))
+         # & !(str_detect(no_spaces_ipa, 'lu') & str_detect(transcription, 'lw'))
+         # & !(str_detect(no_spaces_ipa, 'du') & str_detect(transcription, 'dw'))
+         # & !(str_detect(no_spaces_ipa, 'gu') & str_detect(transcription, 'w'))
+         # 
+         # # Intervocalic glide transcribed as vowel
          # & !(str_detect(no_spaces_ipa, '[auoe]i[auoe]') & str_detect(transcription, '[auoe]ʝ[auoe]'))
          # & !(str_detect(no_spaces_ipa, '[aeiou]w[aeiou]') & str_detect(transcription, '[aeiou]u[aeiou]'))
-         
-         # Coda glides transcribed as glides
-         & !(str_detect(no_spaces_ipa, 'aʝ') & str_detect(transcription, 'ai'))
-         & !(str_detect(no_spaces_ipa, 'oʝ') & str_detect(transcription, 'oi'))
-         & !(str_detect(no_spaces_ipa, 'aʝ') & str_detect(transcription, 'ai'))
-         & !(str_detect(no_spaces_ipa, 'eʝ') & str_detect(transcription, 'ei'))
-         & !(str_detect(no_spaces_ipa, 'ew') & str_detect(transcription, 'eu'))
-         & !(str_detect(no_spaces_ipa, 'aw') & str_detect(transcription, 'au'))
-         
+         # 
+         # # Coda glides transcribed as glides
+         # & !(str_detect(no_spaces_ipa, 'aʝ') & str_detect(transcription, 'ai'))
+         # & !(str_detect(no_spaces_ipa, 'oʝ') & str_detect(transcription, 'oi'))
+         # & !(str_detect(no_spaces_ipa, 'aʝ') & str_detect(transcription, 'ai'))
+         # & !(str_detect(no_spaces_ipa, 'eʝ') & str_detect(transcription, 'ei'))
+         # & !(str_detect(no_spaces_ipa, 'ew') & str_detect(transcription, 'eu'))
+         # & !(str_detect(no_spaces_ipa, 'aw') & str_detect(transcription, 'au'))
+         # 
          # Miscellaneous
-         & !(str_detect(no_spaces_ipa, 'kua') & str_detect(transcription, 'ktwa'))
-         & !(str_detect(no_spaces_ipa, 'w') & str_detect(transcription, 'gu'))
-         & !(str_detect(no_spaces_ipa, 'wi') & str_detect(transcription, 'uʝ'))
-         & !(str_detect(no_spaces_ipa, 'tʝu') & str_detect(transcription, 'tinw'))
-         & !(str_detect(no_spaces_ipa, '^ʝ') & str_detect(transcription, '^i'))
-         & !(str_detect(no_spaces_ipa, '^i') & str_detect(transcription, '^ʝ'))
-         & !(str_detect(no_spaces_ipa, 'tuɾ') & str_detect(transcription, 'tɾw'))
-  )
-         # & !str_detect(no_spaces_ipa, 
-         #               'ia|io|ie|iu|wa|wo|we|ks|kd|kb|kn|sb|ii|zm|zn|tb|sd|sɾ|sl|zl|ŋk|sg')
-         # & !str_detect(transcription, 'ia|io|ie|ai|d$|dt|ds')
-         # & !str_detect(no_spaces_ipa, "[wʝ][^aeiou]"))
-
+         # & !(str_detect(no_spaces_ipa, 'kua') & str_detect(transcription, 'ktwa'))
+         # & !(str_detect(no_spaces_ipa, 'w') & str_detect(transcription, 'gu'))
+         # & !(str_detect(no_spaces_ipa, 'wi') & str_detect(transcription, 'uʝ'))
+         # & !(str_detect(no_spaces_ipa, 'tʝu') & str_detect(transcription, 'tinw'))
+         # & !(str_detect(no_spaces_ipa, '^ʝ') & str_detect(transcription, '^i'))
+         # & !(str_detect(no_spaces_ipa, '^i') & str_detect(transcription, '^ʝ'))
+         # & !(str_detect(no_spaces_ipa, 'tuɾ') & str_detect(transcription, 'tɾw'))
+  ) %>%
+  write_csv('E:/git_repos/spanish_phonotactics/data/glide_discrepancies.csv')
          
