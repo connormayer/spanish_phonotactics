@@ -13,7 +13,8 @@ library(tidyverse)
 # The first step is to use the Python script src/syllabify_and_transcribe.py
 # to syllabify and transcribe the orthographic representations into IPA
 
-data <- read_csv('E:/git_repos/spanish_phonotactics/data/syllabified_spanish.csv')
+# data <- read_csv('E:/git_repos/spanish_phonotactics/data/syllabified_spanish.csv')
+data <- read_csv('C:/Users/conno/git_repos/spanish_phonotactics/data/syllabified_spanish.csv')
 
 # Keep only high frequency items (> 1 per millon words). Do this in advance to 
 # avoid dealing with weird loanwords
@@ -42,7 +43,6 @@ data <- data %>%
   mutate(transcription = str_replace_all(transcription, 'L', 'ʝ')) %>%
   mutate(transcription = str_replace_all(transcription, 'H', 'ʝ')) %>%
   mutate(transcription = str_replace_all(transcription, 'j', 'ʝ')) %>%
-  
   # Remove a few annoying characters from epitrans transcriptions
   mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, 't͡ʃ', 'tʃ')) %>%
   mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, 't͡ɬ', 'tl')) %>%
@@ -66,7 +66,9 @@ data <- data %>%
   mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, '([^aeoiu])ʝ$', '\\1i')) %>%
   mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, '^w([^aeoiu])', 'u\\1')) %>%
   mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, '([^aeoiu])w$', '\\1u')) %>%
-  mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, 'll', 'ʝ'))
+  mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, 'll', 'ʝ')) %>%
+  mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, 'ʝ', 'i')) %>%
+  mutate(no_spaces_ipa = str_replace_all(no_spaces_ipa, 'w', 'u')) 
 
 data <- data %>% 
   filter(!(word %in% c('etc')),)
@@ -75,18 +77,18 @@ data %>%
   select(word, transcription, no_spaces_ipa) %>%
   filter(transcription != no_spaces_ipa 
          # Voicing assimilation discrepancies
-         & !(str_detect(no_spaces_ipa, 'sm') & str_detect(transcription, 'zm'))
-         & !(str_detect(no_spaces_ipa, 'sl') & str_detect(transcription, 'zl'))
-         & !(str_detect(no_spaces_ipa, 'kn') & str_detect(transcription, 'gn'))
-         & !(str_detect(no_spaces_ipa, 'kd') & str_detect(transcription, 'gd'))
-         & !(str_detect(no_spaces_ipa, 'tm') & str_detect(transcription, 'dm'))
-         & !(str_detect(no_spaces_ipa, 'sn') & str_detect(transcription, 'zn'))
-         & !(str_detect(no_spaces_ipa, 'sb') & str_detect(transcription, 'zb'))
-         & !(str_detect(no_spaces_ipa, 'tb') & str_detect(transcription, 'db'))
-         & !(str_detect(no_spaces_ipa, 'sd') & str_detect(transcription, 'zd'))
-         & !(str_detect(no_spaces_ipa, 'sg') & str_detect(transcription, 'zg'))
-         & !(str_detect(no_spaces_ipa, 'sr') & str_detect(transcription, 'zr'))
-         & !(str_detect(no_spaces_ipa, 'tn') & str_detect(transcription, 'dn'))
+         # & !(str_detect(no_spaces_ipa, 'sm') & str_detect(transcription, 'zm'))
+         # & !(str_detect(no_spaces_ipa, 'sl') & str_detect(transcription, 'zl'))
+         # & !(str_detect(no_spaces_ipa, 'kn') & str_detect(transcription, 'gn'))
+         # & !(str_detect(no_spaces_ipa, 'kd') & str_detect(transcription, 'gd'))
+         # & !(str_detect(no_spaces_ipa, 'tm') & str_detect(transcription, 'dm'))
+         # & !(str_detect(no_spaces_ipa, 'sn') & str_detect(transcription, 'zn'))
+         # & !(str_detect(no_spaces_ipa, 'sb') & str_detect(transcription, 'zb'))
+         # & !(str_detect(no_spaces_ipa, 'tb') & str_detect(transcription, 'db'))
+         # & !(str_detect(no_spaces_ipa, 'sd') & str_detect(transcription, 'zd'))
+         # & !(str_detect(no_spaces_ipa, 'sg') & str_detect(transcription, 'zg'))
+         # & !(str_detect(no_spaces_ipa, 'sr') & str_detect(transcription, 'zr'))
+         # & !(str_detect(no_spaces_ipa, 'tn') & str_detect(transcription, 'dn'))
          
          # Miscellaneous
          & !(str_detect(no_spaces_ipa, 'ks') & str_detect(transcription, 'gs'))
@@ -102,12 +104,12 @@ data %>%
          & !(str_detect(no_spaces_ipa, 'oti') & str_detect(transcription, 'odi'))
          
          # Place assimilation
-         & !(str_detect(no_spaces_ipa, 'nm') & str_detect(transcription, 'mm'))
-         & !(str_detect(no_spaces_ipa, 'nk') & str_detect(transcription, 'ŋk'))
-         & !(str_detect(no_spaces_ipa, 'nf') & str_detect(transcription, 'mf'))
-         & !(str_detect(no_spaces_ipa, 'nx') & str_detect(transcription, 'ŋx'))
-         & !(str_detect(no_spaces_ipa, 'ng') & str_detect(transcription, 'ŋg'))
-         & !(str_detect(no_spaces_ipa, 'nb') & str_detect(transcription, 'mb'))
+         # & !(str_detect(no_spaces_ipa, 'nm') & str_detect(transcription, 'mm'))
+         # & !(str_detect(no_spaces_ipa, 'nk') & str_detect(transcription, 'ŋk'))
+         # & !(str_detect(no_spaces_ipa, 'nf') & str_detect(transcription, 'mf'))
+         # & !(str_detect(no_spaces_ipa, 'nx') & str_detect(transcription, 'ŋx'))
+         # & !(str_detect(no_spaces_ipa, 'ng') & str_detect(transcription, 'ŋg'))
+         # & !(str_detect(no_spaces_ipa, 'nb') & str_detect(transcription, 'mb'))
          
          # glide-vowel differences
          # Off-glides transcribed as vowels 
@@ -152,6 +154,9 @@ data %>%
          # & !(str_detect(no_spaces_ipa, '^ʝ') & str_detect(transcription, '^i'))
          # & !(str_detect(no_spaces_ipa, '^i') & str_detect(transcription, '^ʝ'))
          # & !(str_detect(no_spaces_ipa, 'tuɾ') & str_detect(transcription, 'tɾw'))
-  ) %>%
-  write_csv('E:/git_repos/spanish_phonotactics/data/glide_discrepancies.csv')
-         
+  ) # %>%
+  # write_csv('E:/git_repos/spanish_phonotactics/data/glide_discrepancies.csv')
+  
+data %>%
+  select(no_spaces_ipa)
+  write_csv("C:/Users/connor/git_repos/spanish_phonotactics/data/training_data_final.csv")

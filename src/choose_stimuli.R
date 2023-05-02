@@ -1,4 +1,5 @@
 library(tidyverse)
+library(RANN)
 
 c25 <- c(
   "dodgerblue2", "#E31A1C", # red
@@ -18,7 +19,7 @@ c25 <- c(
 
 setwd("C:/Users/conno/git_repos/spanish_phonotactics")
 
-df <- read_csv("data/test_scores/test_scores_stress_high_freq.csv")
+df <- read_csv("data/wug_word_scores_stress.csv")
 
 df %>%
   ggplot(aes(x=uni_prob, y=bi_prob_smoothed)) +
@@ -77,6 +78,74 @@ df %>%
 df %>%
   group_by(bucket_q) %>%
   count()
+
+df %>%
+  select(word, bucket_q, uni_prob, bi_prob_smoothed) %>%
+  arrange(bucket_q, -uni_prob, -bi_prob_smoothed) %>%
+  write_csv('data/stimuli_with_buckets.csv')
+
+df %>%
+  ggplot(aes(x=bi_prob)) +
+  geom_histogram() +
+  facet_wrap(~ bucket_q, scale='free')
+
+tokens <- data.frame()
+for (bucket in unique(df$bucket_q)) {
+  print(bucket)
+  temp_df <- df %>% 
+    filter(bucket_q == bucket) %>%
+    select(word, bucket_q, uni_prob, bi_prob_smoothed)
+  
+  uni_range <- range(temp_df$uni_prob)
+  bi_range <- range(temp_df$bi_prob_smoothed)
+  
+  uni_diff <- uni_range[2] - uni_range[1]
+  bi_diff <- bi_range[2] - bi_range[1]
+  
+  uni_range_start <- uni_range[1] + uni_diff / 10
+  uni_range_end <- uni_range[2] - uni_diff / 10
+  
+  bi_range_start <- bi_range[1] + bi_diff / 10
+  bi_range_end <- bi_range[2] - bi_diff / 10
+  
+  uni_seq <- seq(
+    uni_range_start,
+    uni_range_end, 
+    by=(uni_range_end - uni_range_start) / 5
+  )
+  bi_seq <- seq(
+    bi_range_start, 
+    bi_range_end, 
+    by=(bi_range_end - bi_range_start) / 5
+  )
+  for (i in uni_seq) {
+    for (j in bi_seq) {
+      point = c(i, j)
+      closest_idx <- nn2(
+        temp_df %>% select(uni_prob, bi_prob_smoothed), 
+        as.data.frame(t(point)), k=100)$nn.idx
+      found_point <- FALSE
+      closest_i <- 1
+      while (!found_point) {
+        closest <- temp_df[closest_idx[closest_i],]
+        if (nrow(tokens) > 0 && 
+            nrow(anti_join(closest, tokens, by="word")) == 0) {
+          # Closest point is already in our sample
+          closest_i = closest_i + 1
+        } 
+        else {
+          found_point <- TRUE
+        }
+      }
+      tokens <- rbind(tokens, closest)
+    }
+  }
+}
+
+tokens %>%
+  ggplot(aes(x=uni_prob, y=bi_prob_smoothed, color=bucket_q)) +
+  geom_point() +
+  scale_color_manual(values=c25)
 
 # P(x1)
 
