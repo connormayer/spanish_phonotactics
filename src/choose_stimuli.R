@@ -21,6 +21,84 @@ setwd("C:/Users/conno/git_repos/spanish_phonotactics")
 
 df <- read_csv("data/wug_word_scores_stress.csv")
 
+# Filter out words we don't want
+df <- df %>% 
+  filter(!word %in% c(
+    # Real words that snuck in
+    "b1 a1 ɾ e",
+    "b a ɾ1 e1",
+    "b1 i1 s i",
+    "b i s1 i1",
+    "d1 a1 l o",
+    "d a l1 o1",
+    "m i i1 a1",
+    "m1 i1 i a",
+    "r1 e1 g o",
+    "r e g1 o1",
+    "s1 i1 d o",
+    "x1 a1 x a",
+    "x a x1 a1",
+    "b a i1 e1",
+    "b1 a1 i e",
+    "l1 i1 n o",
+    "l i n1 o1",
+    "m a ɲ1 a1",
+    "m1 a1 ɲ a",
+    "m e m1 o1",
+    "m1 e1 m o",
+    "n1 a1 s e",
+    "n a s1 e1",
+    "s1 e1 ɾ e",
+    "s e ɾ1 e1",
+    "s e r1 e1",
+    "s1 e1 r e",
+    "s e ɲ1 a1",
+    "s1 e1 ɲ a",
+    "s1 e1 t o",
+    "s e t1 o1",
+    "b1 i1 g o",
+    "b i g1 o1",
+    "l1 u1 g o",
+    "l u g1 o1",
+    "l o l1 i1",
+    "l1 o1 l i",
+    "s1 a1 r a",
+    "s a r1 a1",
+    # Words that are stress minimal pairs with real words
+    "l a t1 a1",
+    "l a g1 o1",
+    "k o k1 o1",
+    "l e x1 a1",
+    "p a ɾ1 a1",
+    "s a k1 a1",
+    "s a n1 a1",
+    "s o p1 a1",
+    "s u b1 e1",
+    "x u x1 e1",
+    "b1 e1 b i",
+    "f o f1 a1",
+    "f o s1 a1",
+    "k o r1 a1",
+    "m o r1 o1",
+    "n e n1 e1",
+    "n o ɲ1 a1",
+    "p a r1 a1",
+    "r1 o1 ɲ o",
+    "t i p1 o1",
+    "tʃ u r1 o1",
+    # Potentially offensive
+    "p u t1 o1"
+  ))
+
+# fix tS transcription
+df <- df %>%
+  mutate(word = str_replace_all(word, 'tʃ', 't͡ʃ'))
+
+# Get rid of ii/uu sequences, which sound strange in the
+# synthesizer
+df <- df %>%
+  filter(!str_detect(word, "(i1? i)|(u1? u)"))
+
 df %>%
   ggplot(aes(x=uni_prob, y=bi_prob_smoothed)) +
   geom_point()
@@ -147,11 +225,5 @@ tokens %>%
   geom_point() +
   scale_color_manual(values=c25)
 
-# P(x1)
-
-# P(x,y)
-# P(y|x)
-#
-# P(y|x) = P(x,y) / P(x)
-#
-# P(y|x)P(x) = P(x,y)
+tokens %>%
+  write_csv('data/stimuli_candidates_v3.csv')

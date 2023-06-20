@@ -9,11 +9,19 @@ import sys
 import subprocess
 from tempfile import gettempdir
 
+def change_glides(word_list):
+    foo = ' '.join(word_list)
+    foo = re.sub(r"(^)i( [aeoiu])",r"\1j\2", foo)
+    foo = re.sub(r"(^)u( [aeoiu])",r"\1w\2", foo)
+    foo = re.sub(r"([aeoiu] )i( [aeoiu])",r"\1j\2", foo)
+    foo = re.sub(r"([aeoiu] )u( [aeoiu])",r"\1w\2", foo)
+    return foo.split(' ')
 
 def convert_stress(word):
     split_word = word.split(' ')
     stress_idx = [idx for idx, s in enumerate(split_word) if '1' in s][0]
     split_word = [re.sub('1', '', s) for s in split_word]
+    split_word = change_glides(split_word)
     split_word.insert(stress_idx, 'ˈ')
     return ''.join(split_word)
 
@@ -22,12 +30,13 @@ def convert_stress(word):
 session = Session(profile_name="default")
 polly = session.client("polly")
 
-file = "../data/stimuli_candidates.csv"
+file = "../data/stimuli_candidates_v3.csv"
 with open(file) as f:
     reader = csv.DictReader(f)
 
     for row in reader:
         word = convert_stress(row['word'])
+        print(word)
         try:
             # Request speech synthesis
             response = polly.synthesize_speech(
@@ -49,21 +58,19 @@ with open(file) as f:
             # number of parallel connections. Here we are using contextlib.closing to
             # ensure the close method of the stream object will be called automatically
             # at the end of the with statement's scope.
-                with closing(response["AudioStream"]) as stream:
-                   output = os.path.join('../audio', "{}.mp3".format(word))
+            with closing(response["AudioStream"]) as stream:
+               output = os.path.join('../audio', "{}.mp3".format("_".join(row['word'].split(" "))))
 
-                   try:
-                    # Open a file for writing the output as a binary stream
-                        with open(output, "wb") as file:
-                           file.write(stream.read())
-                   except IOError as error:
-                      # Could not write to file, exit gracefully
-                      print(error)
-                      sys.exit(-1)
+               try:
+                # Open a file for writing the output as a binary stream
+                    with open(output, "wb") as file:
+                       file.write(stream.read())
+               except IOError as error:
+                  # Could not write to file, exit gracefully
+                  print(error)
+                  sys.exit(-1)
 
         else:
             # The response didn't contain audio data, exit gracefully
             print("Could not stream audio")
             sys.exit(-1)
-
-        breakpoint()
