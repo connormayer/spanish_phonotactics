@@ -30,7 +30,7 @@ def convert_stress(word):
 session = Session(profile_name="default")
 polly = session.client("polly")
 
-file = "../data/stimuli_candidates_v3.csv"
+file = "../data/stimuli_candidates_final.csv"
 with open(file) as f:
     reader = csv.DictReader(f)
 

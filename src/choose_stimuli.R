@@ -160,7 +160,7 @@ df %>%
 df %>%
   select(word, bucket_q, uni_prob, bi_prob_smoothed) %>%
   arrange(bucket_q, -uni_prob, -bi_prob_smoothed) %>%
-  write_csv('data/stimuli_with_buckets.csv')
+  write_csv('data/stimuli_with_buckets_v4.csv')
 
 df %>%
   ggplot(aes(x=bi_prob)) +
@@ -226,4 +226,62 @@ tokens %>%
   scale_color_manual(values=c25)
 
 tokens %>%
-  write_csv('data/stimuli_candidates_v3.csv')
+  write_csv('data/stimuli_candidates_v4.csv')
+
+# Final sanitation
+bogus_words <- c(
+  # Real words that crept in
+  "k e r1 a1",
+  "s1 a1 ɾ a",
+  "s1 a1 d o",
+  "s1 i1 t e",
+  "t1 a1 k i",
+  # Stress minimal pairs
+  "k i u1 i1",
+  "n a t͡ʃ1 o1",
+  "s e n1 a1",
+  "t a p1 a1",
+  "t o ɾ1 o1",
+  "x o t1 a1"
+)
+
+more_real_words <- c(
+  "t1 a1 ɾ a",
+  "u1 i1 k i",
+  "g1 i1 s a",
+  "r1 a1 k e",
+  "i o d1 a1",
+  "t1 a1 ɾ o",
+  "s1 i1 t o"
+)
+
+new_tokens <- tibble(tokens)
+
+# Remove bogus words that crept in
+for (word_str in bogus_words) {
+  word <- new_tokens %>% filter(word == word_str)
+  new_tokens <- new_tokens %>% filter(word != word_str)
+  point = c(word$uni_prob, word$bi_prob_smoothed)
+  closest_idx <- nn2(
+    df %>% select(uni_prob, bi_prob_smoothed), 
+    as.data.frame(t(point)), k=100)$nn.idx
+  found_point <- FALSE
+  # Start from 2 because closest point will always
+  # be the point itself
+  closest_i <- 2
+  while (!found_point) {
+    closest <- df[closest_idx[closest_i],]
+    if (nrow((anti_join(closest, new_tokens, by="word"))) == 0 | (closest$word %in% more_real_words)) {
+      # Closest point is already in our sample or is 
+      # real word that snuck through
+      closest_i = closest_i + 1
+    } 
+    else {
+      found_point <- TRUE
+    }
+  }
+  print(str_glue("Replacing ", word$word, " with ", closest$word))
+  new_tokens <- rbind(new_tokens, closest %>% select(word, bucket_q, uni_prob, bi_prob_smoothed))
+}
+new_tokens %>%
+  write_csv('data/stimuli_candidates_final.csv')
