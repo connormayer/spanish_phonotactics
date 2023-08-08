@@ -1,4 +1,5 @@
-"""Getting Started Example for Python 2.7+/3.3+"""
+# This script takes a list of stimuli in IPA format and synthesizes it
+# using Amazon Polly
 from boto3 import Session
 from botocore.exceptions import BotoCoreError, ClientError
 from contextlib import closing
@@ -30,9 +31,11 @@ def convert_stress(word):
 session = Session(profile_name="default")
 polly = session.client("polly")
 
-file = "../data/stimuli_candidates_final.csv"
+file = "../data/grouped_stimuli.csv"
 with open(file) as f:
     reader = csv.DictReader(f)
+
+    filenames = []
 
     for row in reader:
         word = convert_stress(row['word'])
@@ -59,17 +62,17 @@ with open(file) as f:
             # ensure the close method of the stream object will be called automatically
             # at the end of the with statement's scope.
             with closing(response["AudioStream"]) as stream:
-               output = os.path.join('../audio', "{}.mp3".format("_".join(row['word'].split(" "))))
+                output = os.path.join('../audio', "{}.mp3".format("_".join(row['word'].split(" "))))
 
-               try:
+                try:
                 # Open a file for writing the output as a binary stream
                     with open(output, "wb") as file:
                        file.write(stream.read())
-               except IOError as error:
-                  # Could not write to file, exit gracefully
-                  print(error)
-                  sys.exit(-1)
-
+                except IOError as error:
+                    # Could not write to file, exit gracefully
+                    print(error)
+                    sys.exit(-1)
+                filenames.append(output)
         else:
             # The response didn't contain audio data, exit gracefully
             print("Could not stream audio")

@@ -1,3 +1,5 @@
+# Changes transcription to IPA
+
 library(tidyverse)
 
 setwd("C:/Users/conno/git_repos/spanish_phonotactics")

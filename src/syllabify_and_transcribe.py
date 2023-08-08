@@ -1,3 +1,5 @@
+# This script syllabifies and transcribes to IPA a list of words
+# in Spanish orthography
 import epitran
 import re
 import silabeador

@@ -1,3 +1,4 @@
+# Script for generating experimental stimuli. To be tidied.
 library(tidyverse)
 library(RANN)
 
@@ -17,7 +18,8 @@ c25 <- c(
                "darkorange4", "brown"
 )
 
-setwd("C:/Users/conno/git_repos/spanish_phonotactics")
+#setwd("C:/Users/conno/git_repos/spanish_phonotactics")
+setwd("E:/git_repos/spanish_phonotactics")
 
 df <- read_csv("data/wug_word_scores_stress.csv")
 
@@ -236,15 +238,43 @@ bogus_words <- c(
   "s1 a1 d o",
   "s1 i1 t e",
   "t1 a1 k i",
+  "m o r1 i1",
+  "b1 a1 d o",
+  "d1 o1 l o",
+  "x e m1 i1",
+  "f1 i1 f i",
+  "f1 o1 f a",
+  "f1 o1 s a",
+  "f1 o1 ɾ o",
+  "r1 o1 ɲ a",
+  "s1 i1 s a",
+  "p1 e1 ɲ a",
+  "m1 a1 l i",
+  "p e r1 u1",
+  #"k e b1 a1",
+  "n1 o1 s e",
   # Stress minimal pairs
   "k i u1 i1",
   "n a t͡ʃ1 o1",
   "s e n1 a1",
   "t a p1 a1",
   "t o ɾ1 o1",
-  "x o t1 a1"
+  "x o t1 a1",
+  "b a i1 a1",
+  "b e i1 a1",
+  "k a ɾ1 o1",
+  "k a k1 a1",
+  "i a n1 o1",
+  "k u i1 a1",
+  "m e t1 o1",
+  "m i s1 a1",
+  "p i p1 a1",
+  "t a x1 o1",
+  "t͡ʃ u t͡ʃ1 e1",
+  "n a n1 a1"
 )
 
+# Real words that are already in the initial data set but not filtered out above
 more_real_words <- c(
   "t1 a1 ɾ a",
   "u1 i1 k i",
@@ -252,7 +282,21 @@ more_real_words <- c(
   "r1 a1 k e",
   "i o d1 a1",
   "t1 a1 ɾ o",
-  "s1 i1 t o"
+  "s1 i1 t o",
+  "l u s1 i1",
+  "k e b1 a1",
+  "m u d1 a1",
+  "n o t1 a1",
+  "b o r1 a1",
+  "g i s1 o1",
+  "p1 a1 x e",
+  "p a i1 o1",
+  "i e b1 o1",
+  "m1 e1 s e",
+  "l e b1 a1",
+  "t1 a1 l e",
+  "f a m1 a1",
+  "b u ɾ1 o1"
 )
 
 new_tokens <- tibble(tokens)
@@ -282,6 +326,8 @@ for (word_str in bogus_words) {
   }
   print(str_glue("Replacing ", word$word, " with ", closest$word))
   new_tokens <- rbind(new_tokens, closest %>% select(word, bucket_q, uni_prob, bi_prob_smoothed))
+  print("Done")
 }
+
 new_tokens %>%
-  write_csv('data/stimuli_candidates_final.csv')
+  write_csv('data/stimuli_candidates_final_v4.csv')

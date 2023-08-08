@@ -1,3 +1,4 @@
+# This script generates all possible Spanish CVCV words
 import csv
 
 consonants_1 = [
