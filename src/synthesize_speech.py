@@ -5,6 +5,7 @@ from botocore.exceptions import BotoCoreError, ClientError
 from contextlib import closing
 import csv
 import os
+import pandas as pd
 import re
 import sys
 import subprocess
@@ -34,46 +35,51 @@ polly = session.client("polly")
 file = "../data/grouped_stimuli.csv"
 with open(file) as f:
     reader = csv.DictReader(f)
+    df = pd.DataFrame(reader)
 
-    filenames = []
+filenames = []
 
-    for row in reader:
-        word = convert_stress(row['word'])
-        print(word)
-        try:
-            # Request speech synthesis
-            response = polly.synthesize_speech(
-                Engine = 'neural',
-                LanguageCode = 'es-US',
-                Text="<speak><phoneme alphabet='ipa' ph='{}'>Blah</phoneme></speak>".format(word), 
-                OutputFormat="mp3",
-                VoiceId="Lupe",
-                TextType="ssml"
-            )
-        except (BotoCoreError, ClientError) as error:
-            # The service returned an error, exit gracefully
-            print(error)
-            sys.exit(-1)
+for _, row in df.iterrows():
+    word = convert_stress(row['word'])
+    print(word)
+    try:
+        # Request speech synthesis
+        response = polly.synthesize_speech(
+            Engine = 'neural',
+            LanguageCode = 'es-US',
+            Text="<speak><phoneme alphabet='ipa' ph='{}'>Blah</phoneme></speak>".format(word), 
+            OutputFormat="mp3",
+            VoiceId="Lupe",
+            TextType="ssml"
+        )
+    except (BotoCoreError, ClientError) as error:
+        # The service returned an error, exit gracefully
+        print(error)
+        sys.exit(-1)
 
-        # Access the audio stream from the response
-        if "AudioStream" in response:
-            # Note: Closing the stream is important because the service throttles on the
-            # number of parallel connections. Here we are using contextlib.closing to
-            # ensure the close method of the stream object will be called automatically
-            # at the end of the with statement's scope.
-            with closing(response["AudioStream"]) as stream:
-                output = os.path.join('../audio', "{}.mp3".format("_".join(row['word'].split(" "))))
+    # Access the audio stream from the response
+    if "AudioStream" in response:
+        # Note: Closing the stream is important because the service throttles on the
+        # number of parallel connections. Here we are using contextlib.closing to
+        # ensure the close method of the stream object will be called automatically
+        # at the end of the with statement's scope.
+        with closing(response["AudioStream"]) as stream:
+            root_file = "{}.mp3".format("_".join(row['word'].split(" ")))
+            output = os.path.join('../audio', root_file)
 
-                try:
-                # Open a file for writing the output as a binary stream
-                    with open(output, "wb") as file:
-                       file.write(stream.read())
-                except IOError as error:
-                    # Could not write to file, exit gracefully
-                    print(error)
-                    sys.exit(-1)
-                filenames.append(output)
-        else:
-            # The response didn't contain audio data, exit gracefully
-            print("Could not stream audio")
-            sys.exit(-1)
+            try:
+            # Open a file for writing the output as a binary stream
+                with open(output, "wb") as file:
+                   file.write(stream.read())
+            except IOError as error:
+                # Could not write to file, exit gracefully
+                print(error)
+                sys.exit(-1)
+            filenames.append(root_file)
+    else:
+        # The response didn't contain audio data, exit gracefully
+        print("Could not stream audio")
+        sys.exit(-1)
+
+df['filename'] = filenames
+df.to_csv('../data/stimuli_with_filenames.csv')
