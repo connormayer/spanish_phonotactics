@@ -18,8 +18,8 @@ c25 <- c(
                "darkorange4", "brown"
 )
 
-#setwd("C:/Users/conno/git_repos/spanish_phonotactics")
-setwd("E:/git_repos/spanish_phonotactics")
+setwd("C:/Users/conno/git_repos/spanish_phonotactics")
+#setwd("E:/git_repos/spanish_phonotactics")
 
 df <- read_csv("data/wug_word_scores_stress.csv")
 
@@ -331,3 +331,23 @@ for (word_str in bogus_words) {
 
 new_tokens %>%
   write_csv('data/stimuli_candidates_final_v4.csv')
+
+# Find poik equivalent
+poik_df <- df %>%
+  select(
+    word, uni_prob, bi_prob_smoothed, pos_uni_score_smoothed, 
+    pos_bi_score_smoothed
+  ) %>%
+  mutate(
+    uni_prob = cume_dist(uni_prob),
+    bi_prob_smoothed = cume_dist(bi_prob_smoothed),
+    pos_uni_score_smoothed = cume_dist(pos_uni_score_smoothed),
+    pos_bi_score_smoothed = cume_dist(pos_bi_score_smoothed)
+  ) %>%
+  filter(word )
+
+closest_idx_poik <- nn2(
+  poik_df %>% 
+    select(uni_prob, bi_prob_smoothed, pos_uni_score_smoothed, 
+           pos_bi_score_smoothed), 
+  as.data.frame(t(c(0.484, 0.676, 0.834, 0.296))), k=10)$nn.idx
