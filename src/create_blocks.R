@@ -10,7 +10,7 @@ df %>%
   group_by(bucket_q) %>%
   count()
 
-num_groups <- 5
+num_groups <- 10
 
 # Set seed for reproducibility
 set.seed(123456789)
@@ -31,4 +31,4 @@ grouped_df %>%
          mean_bi = mean(bi_prob_smoothed))
 
 grouped_df %>%
-  write_csv('data/grouped_stimuli.csv')
+  write_excel_csv('data/grouped_stimuli.csv')
