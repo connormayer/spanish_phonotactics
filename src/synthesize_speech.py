@@ -34,8 +34,7 @@ polly = session.client("polly")
 
 file = "../data/grouped_stimuli.csv"
 with open(file) as f:
-    reader = csv.DictReader(f)
-    df = pd.DataFrame(reader)
+    df = pd.read_csv(file)
 
 filenames = []
 

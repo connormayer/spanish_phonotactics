@@ -159,10 +159,10 @@ df %>%
   group_by(bucket_q) %>%
   count()
 
-df %>%
-  select(word, bucket_q, uni_prob, bi_prob_smoothed) %>%
-  arrange(bucket_q, -uni_prob, -bi_prob_smoothed) %>%
-  write_csv('data/stimuli_with_buckets_v4.csv')
+# df %>%
+#   select(word, bucket_q, uni_prob, bi_prob_smoothed) %>%
+#   arrange(bucket_q, -uni_prob, -bi_prob_smoothed) %>%
+#   write_csv('data/stimuli_with_buckets_v4.csv')
 
 df %>%
   ggplot(aes(x=bi_prob)) +

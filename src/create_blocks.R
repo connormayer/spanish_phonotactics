@@ -1,7 +1,7 @@
 library(tidyverse)
 
-#setwd("C:/Users/conno/git_repos/spanish_phonotactics")
-setwd("E:/git_repos/spanish_phonotactics")
+setwd("C:/Users/conno/git_repos/spanish_phonotactics")
+#setwd("E:/git_repos/spanish_phonotactics")
 
 df <- read_csv("data/stimuli_candidates_final.csv")
 
@@ -10,7 +10,7 @@ df %>%
   group_by(bucket_q) %>%
   count()
 
-num_groups <- 10
+num_groups <- 8
 
 # Set seed for reproducibility
 set.seed(123456789)

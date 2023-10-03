@@ -1,7 +1,7 @@
 library(tidyverse)
 
-#setwd("C:/Users/conno/git_repos/spanish_phonotactics")
-setwd("E:/git_repos/spanish_phonotactics")
+setwd("C:/Users/conno/git_repos/spanish_phonotactics")
+#setwd("E:/git_repos/spanish_phonotactics")
 
 df <- read_csv('data/stimuli_with_filenames.csv')
 df$display <- 'Task'
