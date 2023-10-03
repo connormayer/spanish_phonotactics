@@ -1,7 +1,7 @@
 library(tidyverse)
 
-setwd("C:/Users/conno/git_repos/spanish_phonotactics")
-#setwd("E:/git_repos/spanish_phonotactics")
+#setwd("C:/Users/conno/git_repos/spanish_phonotactics")
+setwd("E:/git_repos/spanish_phonotactics")
 
 df <- read_csv("data/stimuli_candidates_final.csv")
 
@@ -15,7 +15,7 @@ num_groups <- 8
 # Set seed for reproducibility
 set.seed(123456789)
 
-# Randomly re-order rows with group
+# Randomly re-order rows within buckets
 df_randomized <- df %>% 
   group_by(bucket_q) %>%
   slice(sample(1:n())) %>%
