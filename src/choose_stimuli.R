@@ -137,7 +137,7 @@ df %>%
   scale_color_manual(values=c25)
 
 df %>%
-  ggplot(aes(x=pos_uni_score_freq_weighted, y=pos_bi_score_freq_weighted, color=bucket_q)) +
+  ggplot(aes(x=pos_uni_score, y=pos_bi_score, color=bucket_q)) +
   geom_point(alpha=0.25) +
   scale_color_manual(values=c25)
 

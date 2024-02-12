@@ -12,12 +12,12 @@ import subprocess
 from tempfile import gettempdir
 
 def change_glides(word_list):
-    foo = ' '.join(word_list)
-    foo = re.sub(r"(^)i( [aeoiu])",r"\1j\2", foo)
-    foo = re.sub(r"(^)u( [aeoiu])",r"\1w\2", foo)
-    foo = re.sub(r"([aeoiu] )i( [aeoiu])",r"\1j\2", foo)
-    foo = re.sub(r"([aeoiu] )u( [aeoiu])",r"\1w\2", foo)
-    return foo.split(' ')
+    tmp = ' '.join(word_list)
+    tmp = re.sub(r"(^)i( [aeoiu])",r"\1j\2", tmp)
+    tmp = re.sub(r"(^)u( [aeoiu])",r"\1w\2", tmp)
+    tmp = re.sub(r"([aeoiu] )i( [aeoiu])",r"\1j\2", tmp)
+    tmp = re.sub(r"([aeoiu] )u( [aeoiu])",r"\1w\2", tmp)
+    return tmp.split(' ')
 
 def convert_stress(word):
     split_word = word.split(' ')
@@ -32,7 +32,7 @@ def convert_stress(word):
 session = Session(profile_name="default")
 polly = session.client("polly")
 
-file = "../data/grouped_stimuli.csv"
+file = "data/grouped_stimuli.csv"
 with open(file) as f:
     df = pd.read_csv(file)
 
@@ -81,4 +81,4 @@ for _, row in df.iterrows():
         sys.exit(-1)
 
 df['filename'] = filenames
-df.to_csv('../data/stimuli_with_filenames.csv')
+df.to_csv('data/stimuli_with_filenames.csv')
