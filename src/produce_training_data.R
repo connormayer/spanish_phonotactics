@@ -13,17 +13,18 @@ library(tidyverse)
 # The first step is to use the Python script src/syllabify_and_transcribe.py
 # to syllabify and transcribe the orthographic representations into IPA
 
-# data <- read_csv('E:/git_repos/spanish_phonotactics/data/syllabified_spanish.csv')
-data <- read_csv('C:/Users/conno/git_repos/spanish_phonotactics/data/syllabified_spanish.csv')
+data <- read_csv('E:/git_repos/spanish_phonotactics/data/syllabified_spanish.csv')
+# data <- read_csv('C:/Users/conno/git_repos/spanish_phonotactics/data/syllabified_spanish.csv')
 
 # Keep only high frequency items (> 1 per millon words). Do this in advance to 
 # avoid dealing with weird loanwords
 # Remove some weird words and duplicate entries
 data <- data %>%
   select(-1,-2, -X) %>%
-  filter(frq >= 1) %>%
+  #filter(frq >= 1) %>%
   filter(!(word %in% c("nietzsche", "software", "etc", "little"))) %>%
-  distinct()
+  distinct() %>%
+  mutate(freq_per_mil = (cnt / sum(cnt)) * 1000000)
 
 # Replace IPA g character
 data <- data %>%
@@ -63,17 +64,20 @@ data <- data %>%
   mutate(unsyllabified_ipa = str_replace_all(unsyllabified_ipa, 'll', 'ʝ'),
          stressed_ipa = str_replace_all(stressed_ipa, 'll', 'ʝ'),
          syllabified_ipa = str_replace_all(syllabified_ipa, 'll', 'ʝ')) %>%
-  mutate(unsyllabified_ipa = str_replace_all(unsyllabified_ipa, 'ʝ', 'i'),
-         stressed_ipa = str_replace_all(stressed_ipa, 'ʝ', 'i'),
-         syllabified_ipa = str_replace_all(syllabified_ipa, 'ʝ', 'i')) %>%
-  mutate(unsyllabified_ipa = str_replace_all(unsyllabified_ipa, 'w', 'u'),
-         stressed_ipa = str_replace_all(stressed_ipa, 'w', 'u'),
-         syllabified_ipa = str_replace_all(syllabified_ipa, 'w', 'u')) 
+  mutate(unsyllabified_ipa = str_replace_all(unsyllabified_ipa, 'ʝ', 'j'),
+         stressed_ipa = str_replace_all(stressed_ipa, 'ʝ', 'j'),
+         syllabified_ipa = str_replace_all(syllabified_ipa, 'ʝ', 'j'))
+  # mutate(unsyllabified_ipa = str_replace_all(unsyllabified_ipa, 'w', 'u'),
+  #        stressed_ipa = str_replace_all(stressed_ipa, 'w', 'u'),
+  #        syllabified_ipa = str_replace_all(syllabified_ipa, 'w', 'u')) 
 
 data %>%
-  select(unsyllabified_ipa, frq) %>%
-  write_csv("C:/Users/conno/git_repos/spanish_phonotactics/data/training/training_data_no_stress.csv", col_names=FALSE)
+  select(unsyllabified_ipa, cnt) %>%
+  write_csv("E:/git_repos/spanish_phonotactics/data/training/training_data_no_stress.csv", col_names=FALSE)
 
 data %>%
-  select(stressed_ipa, frq) %>%
-  write_csv("C:/Users/conno/git_repos/spanish_phonotactics/data/training/training_data_stress.csv", col_names=FALSE)
+  write_csv("data/full_espal_data.csv")
+
+data %>%
+  select(stressed_ipa, cnt) %>%
+  write_csv("E:/git_repos/spanish_phonotactics/data/training/training_data_stress.csv", col_names=FALSE)
