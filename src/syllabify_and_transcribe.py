@@ -18,8 +18,19 @@ for x in df.word:
         syl = ['y', 'vonne']
     else:
         syl = silabeador.syllabify(x)
-    syllabified_ipa.append(epi.transliterate('.'.join(syl)).split('.'))
-
+    trans = epi.transliterate('.'.join(syl)).split('.')
+    breakpoint()
+    new_syl = []
+    for syllable in trans:
+      if syllable == 'ʝ':
+        new_syl.append('i')
+      elif syllable == 'w':
+        new_syl.append('u')
+      else:
+        new_syl.append(syllable)
+        
+    syllabified_ipa.append(new_syl)
+    
 # syllabified_ipa = [
 #     epi.transliterate('.'.join(x)).split('.') 
 #     for x in map(silabeador.syllabify, df.word)

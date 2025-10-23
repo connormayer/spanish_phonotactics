@@ -66,14 +66,19 @@ data <- data %>%
          syllabified_ipa = str_replace_all(syllabified_ipa, 'll', 'ʝ')) %>%
   mutate(unsyllabified_ipa = str_replace_all(unsyllabified_ipa, 'ʝ', 'j'),
          stressed_ipa = str_replace_all(stressed_ipa, 'ʝ', 'j'),
-         syllabified_ipa = str_replace_all(syllabified_ipa, 'ʝ', 'j'))
+         syllabified_ipa = str_replace_all(syllabified_ipa, 'ʝ', 'j')) %>%
+  
+  mutate(unsyllabified_ipa = str_replace_all(unsyllabified_ipa, "i( [aeiou])", "j\\1"),
+         stressed_ipa = str_replace_all(stressed_ipa, "i(1 [aeiou]1)", "j\\1"),
+         syllabified_ipa = str_replace_all(syllabified_ipa, 'ʝ', 'j')) 
+ #  mutate(str_replace_all(X1, "i(1? [aeiou]1)", "j\\1")) %>%)
   # mutate(unsyllabified_ipa = str_replace_all(unsyllabified_ipa, 'w', 'u'),
   #        stressed_ipa = str_replace_all(stressed_ipa, 'w', 'u'),
-  #        syllabified_ipa = str_replace_all(syllabified_ipa, 'w', 'u')) 
+  #        syllabified_ipa = str_replace_all(syllabified_ipa, 'w', 'u'))
 
-data %>%
-  select(unsyllabified_ipa, cnt) %>%
-  write_csv("E:/git_repos/spanish_phonotactics/data/training/training_data_no_stress.csv", col_names=FALSE)
+# data %>%
+#   select(unsyllabified_ipa, cnt) %>%
+#   write_csv("E:/git_repos/spanish_phonotactics/data/training/training_data_no_stress.csv", col_names=FALSE)
 
 data %>%
   write_csv("data/full_espal_data.csv")

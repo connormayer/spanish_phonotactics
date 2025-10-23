@@ -3877,7 +3877,7 @@ a g w s t1 i1 n1,494
 a g w s t1 i1 n a,302
 a g w s t1 i1 n o s,13
 a1,166655
-a j1,485022
+a i1,485022
 a j x1 a1 d a,220
 a j x1 a1 d o,391
 a j1 n1 k o,146
@@ -11870,8 +11870,8 @@ b a g1 a1 x e,132
 b a g1 e1 t1 t e,149
 b a g1 e1 t1 t e s,46
 b a a1 m a s,1140
-b a j1 a,5917
-b a j1 a s,110
+b a i1 a,5917
+b a i1 a s,110
 b1 a1 i1 l a,8175
 b a i l1 a1 b a,1093
 b a i l1 a1 b a m o s,246
@@ -26283,7 +26283,7 @@ d e l g1 a1 d o,4474
 d e l g1 a1 d o s,656
 d e l g a d1 u1 tʃ a,44
 d e l g a d1 u1 tʃ o,103
-d1 e1 l1 j,1711
+d1 e1 l1 i,1711
 d1 e1 l j a,1340
 d e l i b e ɾ a s1 i1 o1 n1,214
 d e l i b e ɾ a s1 i1 o1 n e s,210
@@ -28854,33 +28854,33 @@ d e s e ɾ e d1 a1 ɾ1 m e,38
 d e s e ɾ e d1 a1 ɾ o n,45
 d e s e ɾ1 e1 d o,49
 d e s e ɾ e d1 o1,59
-d e s j1 s e,736
-d e s j s1 i1 e1 ɾ a,194
-d e s j s1 i1 e1 ɾ a m o s,25
-d e s j s1 i1 e1 ɾ a s,110
-d e s j s1 i1 e1 ɾ o n,278
-d e s j s1 i1 m o s,276
-d e s j s1 i1 s1 t e,377
-d e s j d1 ɾ1 a1 t a,66
-d e s j d ɾ a t a s1 i1 o1 n1,577
-d e s j d ɾ a t1 a1 d a,225
-d e s j d ɾ a t1 a1 d a s,29
-d e s j d ɾ a t1 a1 d o,451
-d e s j d ɾ a t a d1 o1 ɾ1,14
-d e s j d ɾ a t1 a1 d o s,81
-d e s j d ɾ a t1 a1 ɾ1,42
-d e s j d ɾ a t a ɾ1 a1,6
-d e s j d1 ɾ1 a1 t a s,6
-d e s j d1 ɾ1 a1 t e,7
-d e s j d1 ɾ1 a1 t e n,8
-d e s j d1 ɾ1 a1 t o,11
-d e s j d ɾ a t1 o1,18
+d e s i1 s e,736
+d e s i s1 i1 e1 ɾ a,194
+d e s i s1 i1 e1 ɾ a m o s,25
+d e s i s1 i1 e1 ɾ a s,110
+d e s i s1 i1 e1 ɾ o n,278
+d e s i s1 i1 m o s,276
+d e s i s1 i1 s1 t e,377
+d e s i d1 ɾ1 a1 t a,66
+d e s i d ɾ a t a s1 i1 o1 n1,577
+d e s i d ɾ a t1 a1 d a,225
+d e s i d ɾ a t1 a1 d a s,29
+d e s i d ɾ a t1 a1 d o,451
+d e s i d ɾ a t a d1 o1 ɾ1,14
+d e s i d ɾ a t1 a1 d o s,81
+d e s i d ɾ a t1 a1 ɾ1,42
+d e s i d ɾ a t a ɾ1 a1,6
+d e s i d1 ɾ1 a1 t a s,6
+d e s i d1 ɾ1 a1 t e,7
+d e s i d1 ɾ1 a1 t e n,8
+d e s i d1 ɾ1 a1 t o,11
+d e s i d ɾ a t1 o1,18
 d e s j1 e1 l o,338
-d e s j l a tʃ1 a1 d o,28
-d e s j l a tʃ1 a1 d o s,14
-d e s j l a tʃ1 a1 n1 d o,2
+d e s i l a tʃ1 a1 d o,28
+d e s i l a tʃ1 a1 d o s,14
+d e s i l a tʃ1 a1 n1 d o,2
 d e s j p n o t i s1 a1 d o,3
-d e s j1 s o,1037
+d e s i1 s o,1037
 d e s o j i n a d1 o1 ɾ1,169
 d e s o n1 e1 s1 t a,299
 d e s o n e s t a m1 e1 n1 t e,30
@@ -28998,10 +28998,10 @@ d e s i n f o ɾ m a s1 i1 o1 n1,179
 d e s i n f o ɾ m1 a1 d a,32
 d e s i n f o ɾ m1 a1 d o,49
 d e s i n f o ɾ m1 a1 d o s,11
-d e s i n j b1 i1 d a,79
-d e s i n j b1 i1 d o,117
-d e s i n j b1 i1 d o s,22
-d e s i n j b1 i1 ɾ1 t e,15
+d e s i n i b1 i1 d a,79
+d e s i n i b1 i1 d o,117
+d e s i n i b1 i1 d o s,22
+d e s i n i b1 i1 ɾ1 t e,15
 d e s i n t1 e1 g ɾ a,201
 d e s i n t e g ɾ a s1 i1 o1 n1,300
 d e s i n t e g1 ɾ1 a1 d o,181
@@ -40968,53 +40968,53 @@ e k s a u s t1 i1 b o,265
 e k s a u s t1 i1 b o s,40
 e k s a1 u1 s1 t o,1749
 e k s a1 u1 s1 t o s,439
-e k s j1 b a,59
-e k s j1 b a n,44
-e k s j1 b a s,43
-e k s j1 b e,311
-e k s j1 b e n,186
-e k s j1 b e s,46
-e k s j b1 i1,19
-e k s j b1 i1 a,59
-e k s j b1 i1 a n,16
-e k s j b i s1 i1 o1 n1,3376
-e k s j b i s1 i1 o1 n e s,238
-e k s j b i s i o n1 i1 s1 m o,221
-e k s j b i s i o n1 i1 s1 t a,330
-e k s j b i s i o n1 i1 s1 t a s,117
-e k s j b1 i1 d a,73
-e k s j b1 i1 d a s,27
-e k s j b1 i1 d o,156
-e k s j b1 i1 d o s,38
-e k s j b1 j1 e1 n1 d o,213
-e k s j b1 j1 e1 ɾ a,10
-e k s j b1 j1 e1 ɾ a n,10
-e k s j b1 j1 e1 ɾ o n,48
-e k s j b1 j1 o1,140
-e k s j b1 i1 ɾ1,419
-e k s j b i ɾ1 a1,43
-e k s j b i ɾ1 a1 n1,21
-e k s j b i ɾ1 e1 m o s,14
-e k s j b1 i1 ɾ1 l a,64
-e k s j b1 i1 ɾ1 l e,10
-e k s j b1 i1 ɾ1 l o,140
-e k s j b1 i1 ɾ1 l o s,54
-e k s j b1 i1 ɾ1 m e,146
-e k s j b1 i1 ɾ1 s e,303
-e k s j b1 i1 ɾ1 t e,180
-e k s j1 b o,37
+e k s i1 b a,59
+e k s i1 b a n,44
+e k s i1 b a s,43
+e k s i1 b e,311
+e k s i1 b e n,186
+e k s i1 b e s,46
+e k s i b1 i1,19
+e k s i b1 i1 a,59
+e k s i b1 i1 a n,16
+e k s i b i s1 i1 o1 n1,3376
+e k s i b i s1 i1 o1 n e s,238
+e k s i b i s i o n1 i1 s1 m o,221
+e k s i b i s i o n1 i1 s1 t a,330
+e k s i b i s i o n1 i1 s1 t a s,117
+e k s i b1 i1 d a,73
+e k s i b1 i1 d a s,27
+e k s i b1 i1 d o,156
+e k s i b1 i1 d o s,38
+e k s i b1 j1 e1 n1 d o,213
+e k s i b1 j1 e1 ɾ a,10
+e k s i b1 j1 e1 ɾ a n,10
+e k s i b1 j1 e1 ɾ o n,48
+e k s i b1 j1 o1,140
+e k s i b1 i1 ɾ1,419
+e k s i b i ɾ1 a1,43
+e k s i b i ɾ1 a1 n1,21
+e k s i b i ɾ1 e1 m o s,14
+e k s i b1 i1 ɾ1 l a,64
+e k s i b1 i1 ɾ1 l e,10
+e k s i b1 i1 ɾ1 l o,140
+e k s i b1 i1 ɾ1 l o s,54
+e k s i b1 i1 ɾ1 m e,146
+e k s i b1 i1 ɾ1 s e,303
+e k s i b1 i1 ɾ1 t e,180
+e k s i1 b o,37
 e k s o1 ɾ1 t a,23
 e k s o ɾ t1 a1 b a,3
 e k s o ɾ t1 a1 n1 d o,12
 e k s o1 ɾ1 t o,122
 e k s o ɾ t1 o1,37
-e k s w m a s1 i1 o1 n1,173
-e k s w m1 a1 d o,73
-e k s w m1 a1 m o s,12
-e k s w m1 a1 n1 d o,19
-e k s w m1 a1 ɾ1,206
-e k s w m1 a1 ɾ o n,21
-e k s w m1 o1,11
+e k s u m a s1 i1 o1 n1,173
+e k s u m1 a1 d o,73
+e k s u m1 a1 m o s,12
+e k s u m1 a1 n1 d o,19
+e k s u m1 a1 ɾ1,206
+e k s u m1 a1 ɾ o n,21
+e k s u m1 o1,11
 e k1 s1 i1 x e,3289
 e k1 s1 i1 x e n,915
 e k s i x1 e1 n1 s i a,323
@@ -43775,7 +43775,7 @@ f o ɾ m1 a1 d o,2231
 f o ɾ m1 a1 d o s,409
 f o ɾ m1 a1 i1 s1,83
 f o ɾ m1 a1 l1,3618
-f o ɾ m a l d e j1 d o,242
+f o ɾ m a l d e i1 d o,242
 f o ɾ m1 a1 l e s,573
 f o ɾ m a l1 i1 s e,17
 f o ɾ m a l i d1 a1 d1,1426
@@ -47435,67 +47435,67 @@ e k s a g o n1 a1 l e s,14
 e k1 s1 a1 g o n o,63
 e k s a g1 ɾ1 a1 m a,20
 e1 i1,130767
-j1 a t o,21
-j b1 e1 ɾ1 n a,25
-j b e ɾ n1 a1 b a n,6
-j b e ɾ n a s1 i1 o1 n1,542
-j b e ɾ n1 a1 d o,35
-j b1 e1 ɾ1 n a n,47
-j b e ɾ n1 a1 n1 d o,185
-j b e ɾ n1 a1 ɾ1,82
-j1 b ɾ i d a,129
-j1 b ɾ i d a s,41
-j1 b ɾ i d o,1334
-j1 b ɾ i d o s,611
-j1 s e,151056
-j s1 i1 e1 ɾ a,19740
-j s1 i1 e1 ɾ a i s,132
-j s1 i1 e1 ɾ a m o s,1857
-j s1 i1 e1 ɾ a n,3504
-j s1 i1 e1 ɾ a s,7057
-j s1 i1 e1 ɾ o n,46627
-j s1 i1 e1 s e,1916
-j s1 i1 e1 s e m o s,158
-j s1 i1 e1 s e n,219
-j s1 i1 e1 s e s,425
-j s1 i1 m o s,37974
-j s1 i1 s1 t e,112017
-j s1 i1 s1 t e i s,1315
-j1 k o,49
-j d1 a1 l1 g o,273
-j1 d ɾ a,222
-j d1 ɾ1 a1 n1 t e,89
-j d1 ɾ1 a1 n1 t e s,24
-j1 d ɾ a s,4
-j d1 ɾ1 a1 t a,16
-j d ɾ a t a s1 i1 o1 n1,121
-j d ɾ a t1 a1 d a,68
-j d ɾ a t1 a1 d o,122
-j d ɾ a t1 a1 d o s,22
-j d ɾ a t1 a1 n1 d o,38
-j d ɾ a t1 a1 n1 t e,220
-j d ɾ a t1 a1 n1 t e s,16
-j d ɾ a t1 a1 ɾ1 s e,68
-j d ɾ a t1 a1 ɾ1 t e,74
-j d1 ɾ1 a1 t a t e,44
-j d1 ɾ1 a1 t o,100
-j d1 ɾ1 a1 t o s,103
-j d1 ɾ1 a1 u1 l i k a,451
-j d1 ɾ1 a1 u1 l i k a s,78
-j d1 ɾ1 a1 u1 l i k o,389
-j d1 ɾ1 a1 u1 l i k o s,190
-j1 d ɾ i k a,5
-j d ɾ o a b1 j1 o1 n1,174
-j d ɾ o k a ɾ b1 u1 ɾ o,26
-j d ɾ o k a ɾ b1 u1 ɾ o s,112
-j d ɾ o e l1 e1 k1 t ɾ i k a,107
-j d ɾ o f1 o1 b j a,36
-j d1 ɾ1 o1 x e n o,1741
-j d ɾ o m a s1 a1 x e,115
-j d ɾ o m a s1 a1 x e s,14
-j d ɾ o p1 o1 n i k a,53
-j d ɾ o t e ɾ1 a1 p j a,72
-j d1 ɾ1 o1 k s i d o,181
+i1 a t o,21
+i b1 e1 ɾ1 n a,25
+i b e ɾ n1 a1 b a n,6
+i b e ɾ n a s1 i1 o1 n1,542
+i b e ɾ n1 a1 d o,35
+i b1 e1 ɾ1 n a n,47
+i b e ɾ n1 a1 n1 d o,185
+i b e ɾ n1 a1 ɾ1,82
+i1 b ɾ i d a,129
+i1 b ɾ i d a s,41
+i1 b ɾ i d o,1334
+i1 b ɾ i d o s,611
+i1 s e,151056
+i s1 i1 e1 ɾ a,19740
+i s1 i1 e1 ɾ a i s,132
+i s1 i1 e1 ɾ a m o s,1857
+i s1 i1 e1 ɾ a n,3504
+i s1 i1 e1 ɾ a s,7057
+i s1 i1 e1 ɾ o n,46627
+i s1 i1 e1 s e,1916
+i s1 i1 e1 s e m o s,158
+i s1 i1 e1 s e n,219
+i s1 i1 e1 s e s,425
+i s1 i1 m o s,37974
+i s1 i1 s1 t e,112017
+i s1 i1 s1 t e i s,1315
+i1 k o,49
+i d1 a1 l1 g o,273
+i1 d ɾ a,222
+i d1 ɾ1 a1 n1 t e,89
+i d1 ɾ1 a1 n1 t e s,24
+i1 d ɾ a s,4
+i d1 ɾ1 a1 t a,16
+i d ɾ a t a s1 i1 o1 n1,121
+i d ɾ a t1 a1 d a,68
+i d ɾ a t1 a1 d o,122
+i d ɾ a t1 a1 d o s,22
+i d ɾ a t1 a1 n1 d o,38
+i d ɾ a t1 a1 n1 t e,220
+i d ɾ a t1 a1 n1 t e s,16
+i d ɾ a t1 a1 ɾ1 s e,68
+i d ɾ a t1 a1 ɾ1 t e,74
+i d1 ɾ1 a1 t a t e,44
+i d1 ɾ1 a1 t o,100
+i d1 ɾ1 a1 t o s,103
+i d1 ɾ1 a1 u1 l i k a,451
+i d1 ɾ1 a1 u1 l i k a s,78
+i d1 ɾ1 a1 u1 l i k o,389
+i d1 ɾ1 a1 u1 l i k o s,190
+i1 d ɾ i k a,5
+i d ɾ o a b1 j1 o1 n1,174
+i d ɾ o k a ɾ b1 u1 ɾ o,26
+i d ɾ o k a ɾ b1 u1 ɾ o s,112
+i d ɾ o e l1 e1 k1 t ɾ i k a,107
+i d ɾ o f1 o1 b j a,36
+i d1 ɾ1 o1 x e n o,1741
+i d ɾ o m a s1 a1 x e,115
+i d ɾ o m a s1 a1 x e s,14
+i d ɾ o p1 o1 n i k a,53
+i d ɾ o t e ɾ1 a1 p j a,72
+i d1 ɾ1 o1 k s i d o,181
 j1 e1 d e,98
 j1 e1 d ɾ a,661
 j1 e1 l1,129
@@ -47526,43 +47526,43 @@ j1 e1 r o s,244
 j1 e1 ɾ1 b a,370
 j1 e1 ɾ1 b e,771
 j1 e1 ɾ1 b e n,116
-j1 g a d o,7326
-j1 g a d o s,273
-j x1 i1 e1 n e,1547
-j x1 i1 e1 n i k a,83
-j x1 i1 e1 n i k a s,36
-j x1 i1 e1 n i k o,1808
-j x1 i1 e1 n i k o s,54
-j x i e n1 i1 s1 t a,137
-j1 g o,334
-j1 g o s,545
-j g1 e1 ɾ a,184
-j g1 e1 ɾ a s,55
-j1 x a,125908
-j1 x a s,10363
-j x1 a1 s1 t ɾ a,549
-j x1 a1 s1 t ɾ o,498
-j x1 a1 s1 t ɾ o s,102
-j x1 i1 t a,1859
-j x1 i1 t a s,56
-j x1 i1 t o,1616
-j x1 i1 t o s,193
-j1 x o,311843
-j1 x o s,96864
-j1 l a,60
-j l1 a1 tʃ a s,13
-j l1 a1 d o,77
-j1 l a n,14
-j l a n d e ɾ1 i1 a,22
-j l1 a1 n1 d o,26
-j l1 a1 ɾ1,117
-j l a ɾ1 a1 n1 t e,454
-j l1 e1 ɾ a,566
-j l1 e1 ɾ a s,256
-j1 l e s,16
-j1 l o,4800
-j1 l o s,1851
-j1 m e n,164
+i1 g a d o,7326
+i1 g a d o s,273
+i x1 i1 e1 n e,1547
+i x1 i1 e1 n i k a,83
+i x1 i1 e1 n i k a s,36
+i x1 i1 e1 n i k o,1808
+i x1 i1 e1 n i k o s,54
+i x i e n1 i1 s1 t a,137
+i1 g o,334
+i1 g o s,545
+i g1 e1 ɾ a,184
+i g1 e1 ɾ a s,55
+i1 x a,125908
+i1 x a s,10363
+i x1 a1 s1 t ɾ a,549
+i x1 a1 s1 t ɾ o,498
+i x1 a1 s1 t ɾ o s,102
+i x1 i1 t a,1859
+i x1 i1 t a s,56
+i x1 i1 t o,1616
+i x1 i1 t o s,193
+i1 x o,311843
+i1 x o s,96864
+i1 l a,60
+i l1 a1 tʃ a s,13
+i l1 a1 d o,77
+i1 l a n,14
+i l a n d e ɾ1 i1 a,22
+i l1 a1 n1 d o,26
+i l1 a1 ɾ1,117
+i l a ɾ1 a1 n1 t e,454
+i l1 e1 ɾ a,566
+i l1 e1 ɾ a s,256
+i1 l e s,16
+i1 l o,4800
+i1 l o s,1851
+i1 m e n,164
 j1 m1 n o,2034
 j1 m1 n o s,629
 j1 n1 k a,37
@@ -47607,47 +47607,47 @@ j1 n1 d i,409
 j n d1 u1,1628
 j n d1 u1 e s,968
 j n d1 u1 i s m o,3
-j n1 o1 x o,154
-j p1 e1 ɾ1,201
-j p e ɾ a k t1 i1 b a,108
-j p e ɾ a k t1 i1 b a s,8
-j p e ɾ a k t i b i d1 a1 d1,130
-j p e ɾ a k t1 i1 b o,187
-j p e ɾ a k t1 i1 b o s,39
-j p e ɾ b1 a1 ɾ i k a,114
-j p1 e1 ɾ1 b o l e,56
-j p e ɾ b1 o1 l i k o,13
-j p e ɾ e s p a s1 i1 a1 l1,164
-j p e ɾ e s p a s1 i1 a1 l e s,37
-j p e ɾ e s p1 a1 s i o,1095
-j p e ɾ l a n s a m1 j1 e1 n1 t o,28
-j p e ɾ m e ɾ k1 a1 d o,84
-j p e ɾ m e t ɾ o p1 i1 a,29
-j p e ɾ m o t1 o1 ɾ1,290
-j p e ɾ m o t1 o1 ɾ e s,47
-j p e ɾ p1 l1 a1 s j a,10
-j p e ɾ s e n s i b i l i d1 a1 d1,52
-j p e ɾ s e n s1 i1 b l e,143
-j p e ɾ s e n s1 i1 b l e s,17
-j p e ɾ s e k s w a l i d1 a1 d1,19
-j p e ɾ s1 o1 m1 n j a,8
-j p e ɾ s1 o1 n i k a,6
-j p e ɾ s1 o1 n i k o,12
-j p e ɾ t1 e1 n1 s a,49
-j p e ɾ t e n s1 j1 o1 n1,431
-j p e ɾ t1 e1 n1 s o,68
-j p e ɾ t i ɾ o i d1 i1 s1 m o,40
-j p e ɾ t1 ɾ1 o1 f j a,44
-j p e ɾ t1 ɾ1 o1 f i k a,64
-j p e ɾ t1 ɾ1 o1 f i k o,2
-j p e ɾ b e l o s i d1 a1 d1,159
-j p e ɾ b e n t i l a s1 i1 o1 n1,68
-j p e ɾ b e n t i l1 a1 n1 d o,117
-j p e ɾ b e n t i l1 a1 ɾ1,48
-j p e ɾ b e n t1 i1 l a s,7
+i n1 o1 x o,154
+i p1 e1 ɾ1,201
+i p e ɾ a k t1 i1 b a,108
+i p e ɾ a k t1 i1 b a s,8
+i p e ɾ a k t i b i d1 a1 d1,130
+i p e ɾ a k t1 i1 b o,187
+i p e ɾ a k t1 i1 b o s,39
+i p e ɾ b1 a1 ɾ i k a,114
+i p1 e1 ɾ1 b o l e,56
+i p e ɾ b1 o1 l i k o,13
+i p e ɾ e s p a s1 i1 a1 l1,164
+i p e ɾ e s p a s1 i1 a1 l e s,37
+i p e ɾ e s p1 a1 s i o,1095
+i p e ɾ l a n s a m1 j1 e1 n1 t o,28
+i p e ɾ m e ɾ k1 a1 d o,84
+i p e ɾ m e t ɾ o p1 i1 a,29
+i p e ɾ m o t1 o1 ɾ1,290
+i p e ɾ m o t1 o1 ɾ e s,47
+i p e ɾ p1 l1 a1 s j a,10
+i p e ɾ s e n s i b i l i d1 a1 d1,52
+i p e ɾ s e n s1 i1 b l e,143
+i p e ɾ s e n s1 i1 b l e s,17
+i p e ɾ s e k s w a l i d1 a1 d1,19
+i p e ɾ s1 o1 m1 n j a,8
+i p e ɾ s1 o1 n i k a,6
+i p e ɾ s1 o1 n i k o,12
+i p e ɾ t1 e1 n1 s a,49
+i p e ɾ t e n s1 j1 o1 n1,431
+i p e ɾ t1 e1 n1 s o,68
+i p e ɾ t i ɾ o i d1 i1 s1 m o,40
+i p e ɾ t1 ɾ1 o1 f j a,44
+i p e ɾ t1 ɾ1 o1 f i k a,64
+i p e ɾ t1 ɾ1 o1 f i k o,2
+i p e ɾ b e l o s i d1 a1 d1,159
+i p e ɾ b e n t i l a s1 i1 o1 n1,68
+i p e ɾ b e n t i l1 a1 n1 d o,117
+i p e ɾ b e n t i l1 a1 ɾ1,48
+i p e ɾ b e n t1 i1 l a s,7
 j p o1 p1,6
-j1 p i k a,106
-j1 p i k o s,18
+i1 p i k a,106
+i1 p i k o s,18
 j p n1 o1 s i s,1389
 j p n o t e ɾ a p1 e1 u1 t a,52
 j p n o t e ɾ1 a1 p j a,86
@@ -47674,82 +47674,82 @@ j p n o t i s1 a1 ɾ1 m e,224
 j p n o t i s1 a1 ɾ o n,45
 j p n o t i s1 a1 s1 t e,58
 j p n o t i s1 o1,133
-j1 p o,1048
-j p o a l e ɾ x1 e1 n i k a,30
-j p o a l e ɾ x1 e1 n i k a s,27
-j p o a l e ɾ x1 e1 n i k o,29
-j p o a l e ɾ x1 e1 n i k o s,9
-j p o k1 a1 m1 p o,226
-j p o k o n d1 ɾ1 i1 a,44
-j p o k o n d1 ɾ1 i1 a k a,86
-j p o k o n d1 ɾ1 i1 a k o,138
-j p o k o n d1 ɾ1 i1 a k o s,45
-j p o k1 ɾ1 a1 t i k o,139
-j p o k ɾ e s1 i1 a,1107
-j p o k ɾ e s1 i1 a s,74
-j p1 o1 k ɾ i t a,2916
-j p1 o1 k ɾ i t a s,891
-j p o d1 e1 ɾ1 m i k a,160
-j p o d1 e1 ɾ1 m i k a s,60
-j p1 o1 d ɾ o m o,853
-j p1 o1 f i s i s,32
-j p o g1 l1 o1 s o,19
-j p o g l u s1 e1 m j a,128
-j p o g l u s1 e1 m i k a,21
-j p o g l u s1 e1 m i k o,18
-j p o p1 o1 t a m o,602
-j p o p1 o1 t a m o s,225
-j p o t a l1 a1 m i k a,15
-j p o t a l1 a1 m i k o,19
-j p o t1 a1 l a m o,229
-j p o t1 e1 k a,3059
-j p o t e k1 a1 d a,96
-j p o t e k1 a1 d o,165
-j p o t e k1 a1 m o s,6
-j p o t1 e1 k a n,6
-j p o t e k1 a1 n1 d o,19
-j p o t e k1 a1 ɾ1,213
-j p o t e k1 a1 ɾ j a,125
-j p o t e k1 a1 ɾ j a s,53
-j p o t e k1 a1 ɾ j o,134
-j p o t e k1 a1 ɾ j o s,77
-j p o t1 e1 k a s,724
-j p o t e k1 o1,38
-j p o t e n s1 j1 o1 n1,83
-j p o t1 e1 n1 s o,72
-j p o t e k1 e,30
-j p o t1 e1 ɾ1 m j a,588
-j p o t1 e1 ɾ1 m i k o,63
-j p o t1 e1 ɾ1 m i k o s,6
-j p1 o1 t e s i s,1978
-j p o t1 e1 t i k a,351
-j p o t1 e1 t i k a m e n t e,892
-j p o t1 e1 t i k a s,54
-j p o t1 e1 t i k o,404
-j p o t1 e1 t i k o s,42
-j p o t i ɾ o i d1 i1 s1 m o,65
-j p1 o1 k s j a,137
-j p1 o1 k s i k a,25
-j p1 o1 k s i k a s,1
-j p1 o1 k s i k o,49
+i1 p o,1048
+i p o a l e ɾ x1 e1 n i k a,30
+i p o a l e ɾ x1 e1 n i k a s,27
+i p o a l e ɾ x1 e1 n i k o,29
+i p o a l e ɾ x1 e1 n i k o s,9
+i p o k1 a1 m1 p o,226
+i p o k o n d1 ɾ1 i1 a,44
+i p o k o n d1 ɾ1 i1 a k a,86
+i p o k o n d1 ɾ1 i1 a k o,138
+i p o k o n d1 ɾ1 i1 a k o s,45
+i p o k1 ɾ1 a1 t i k o,139
+i p o k ɾ e s1 i1 a,1107
+i p o k ɾ e s1 i1 a s,74
+i p1 o1 k ɾ i t a,2916
+i p1 o1 k ɾ i t a s,891
+i p o d1 e1 ɾ1 m i k a,160
+i p o d1 e1 ɾ1 m i k a s,60
+i p1 o1 d ɾ o m o,853
+i p1 o1 f i s i s,32
+i p o g1 l1 o1 s o,19
+i p o g l u s1 e1 m j a,128
+i p o g l u s1 e1 m i k a,21
+i p o g l u s1 e1 m i k o,18
+i p o p1 o1 t a m o,602
+i p o p1 o1 t a m o s,225
+i p o t a l1 a1 m i k a,15
+i p o t a l1 a1 m i k o,19
+i p o t1 a1 l a m o,229
+i p o t1 e1 k a,3059
+i p o t e k1 a1 d a,96
+i p o t e k1 a1 d o,165
+i p o t e k1 a1 m o s,6
+i p o t1 e1 k a n,6
+i p o t e k1 a1 n1 d o,19
+i p o t e k1 a1 ɾ1,213
+i p o t e k1 a1 ɾ j a,125
+i p o t e k1 a1 ɾ j a s,53
+i p o t e k1 a1 ɾ j o,134
+i p o t e k1 a1 ɾ j o s,77
+i p o t1 e1 k a s,724
+i p o t e k1 o1,38
+i p o t e n s1 j1 o1 n1,83
+i p o t1 e1 n1 s o,72
+i p o t e k1 e,30
+i p o t1 e1 ɾ1 m j a,588
+i p o t1 e1 ɾ1 m i k o,63
+i p o t1 e1 ɾ1 m i k o s,6
+i p1 o1 t e s i s,1978
+i p o t1 e1 t i k a,351
+i p o t1 e1 t i k a m e n t e,892
+i p o t1 e1 t i k a s,54
+i p o t1 e1 t i k o,404
+i p o t1 e1 t i k o s,42
+i p o t i ɾ o i d1 i1 s1 m o,65
+i p1 o1 k s j a,137
+i p1 o1 k s i k a,25
+i p1 o1 k s i k a s,1
+i p1 o1 k s i k o,49
 j1 p1 p j e,1442
 j1 p1 p j e s,1107
-j ɾ1 j1 e1 n1 d o,436
-j ɾ1 j1 e1 n1 d o l o,16
-j ɾ1 j1 e1 n1 d o t e,26
-j ɾ1 j1 e1 n1 t e,270
-j ɾ1 j1 e1 n1 t e s,112
-j ɾ1 j1 e1 ɾ a,124
-j ɾ1 j1 e1 ɾ a n,111
-j ɾ1 j1 e1 ɾ a s,30
-j ɾ1 j1 e1 ɾ o n,2139
-j ɾ1 j1 e1 s e,36
-j ɾ1 j1 o1,2049
+i ɾ1 j1 e1 n1 d o,436
+i ɾ1 j1 e1 n1 d o l o,16
+i ɾ1 j1 e1 n1 d o t e,26
+i ɾ1 j1 e1 n1 t e,270
+i ɾ1 j1 e1 n1 t e s,112
+i ɾ1 j1 e1 ɾ a,124
+i ɾ1 j1 e1 ɾ a n,111
+i ɾ1 j1 e1 ɾ a s,30
+i ɾ1 j1 e1 ɾ o n,2139
+i ɾ1 j1 e1 s e,36
+i ɾ1 j1 o1,2049
 j ɾ b1 j1 e1 n1 d o,1698
 j ɾ b1 j1 e1 n1 t e,135
 j ɾ b1 j1 e1 ɾ a,39
-j s1 o1 p o,140
-j s1 o1 p o s,87
+i s1 o1 p o,140
+i s1 o1 p o s,87
 j s p1 a1 n a,175
 j s p1 a1 n a s,59
 j s p1 a1 n j a,80
@@ -47783,9 +47783,9 @@ j s t1 o1 ɾ i k o s,781
 j s t o ɾ1 j1 e1 t a,510
 j s t o ɾ1 j1 e1 t a s,1277
 j1 t1,1047
-j1 t o,384
+i1 t o,384
 j1 t1 s1,350
-j1 s o,199378
+i1 s o,199378
 o1 b1 b j e s,326
 o1 b1 b i,1522
 o1 k1,135
@@ -48142,20 +48142,20 @@ o1 i o s,1784
 o i1 w1 e1 l o,137
 o i1 w1 e1 l o s,374
 o1 s1,271
-w b1 j1 e1 ɾ a,112134
-w b1 j1 e1 ɾ a i s,417
-w b1 j1 e1 ɾ a m o s,6132
-w b1 j1 e1 ɾ a n,13502
-w b1 j1 e1 ɾ a s,21057
-w b1 j1 e1 ɾ e,54
-w b1 j1 e1 ɾ o n,749
-w b1 j1 e1 s e,27042
-w b1 j1 e1 s e i s,145
-w b j e s1 e1 m o s,237
-w b1 j1 e1 s e m o s,1836
-w b1 j1 e1 s e n,3106
-w b1 j1 e1 s e s,4127
-w1 b o,47144
+u b1 j1 e1 ɾ a,112134
+u b1 j1 e1 ɾ a i s,417
+u b1 j1 e1 ɾ a m o s,6132
+u b1 j1 e1 ɾ a n,13502
+u b1 j1 e1 ɾ a s,21057
+u b1 j1 e1 ɾ e,54
+u b1 j1 e1 ɾ o n,749
+u b1 j1 e1 s e,27042
+u b1 j1 e1 s e i s,145
+u b j e s1 e1 m o s,237
+u b1 j1 e1 s e m o s,1836
+u b1 j1 e1 s e n,3106
+u b1 j1 e1 s e s,4127
+u1 b o,47144
 w1 e1 k a,1553
 w1 e1 k a s,372
 w1 e1 k o,4923
@@ -48211,131 +48211,131 @@ w e b1 o1 n1,310
 w e b1 o1 n a,15
 w e b1 o1 n e s,73
 w1 e1 b o s,22242
-w1 g o,4520
-w1 i,1212
-w1 i a,651
-w1 i a m o s,52
-w1 i a n,219
-w1 i a s,138
+u1 g o,4520
+u1 i,1212
+u1 i a,651
+u1 i a m o s,52
+u1 i a n,219
+u1 i a s,138
 w1 i1 d1,213
-w1 i d a,1425
-w1 i d a s,122
+u1 i d a,1425
+u1 i d a s,122
 w i d1 i1 s o,45
-w1 i d o,2831
-w1 i m o s,742
-w1 i ɾ,15300
-w i1 ɾ a,307
+u1 i d o,2831
+u1 i m o s,742
+u1 i ɾ,15300
+u i1 ɾ a,307
 w i ɾ1 a1 n1,189
-w i1 ɾ a s,150
-w i1 ɾ e,305
-w i1 ɾ e m o s,245
-u j1 ɾ i a,269
-u j1 ɾ i a m o s,39
-u j1 ɾ i a n,46
-u j1 ɾ i a s,71
-w1 i s t e,992
-w1 i s t e,96
-w1 l e,492
-w m1 a1 n a,23960
-w m a n a m1 e1 n1 t e,470
-w m1 a1 n a s,4129
-w m a n i d1 a1 d1,14566
-w m a n i d1 a1 d e s,84
-w m a n1 i1 s1 m o,116
-w m a n1 i1 s1 t a,154
-w m a n1 i1 s1 t a s,56
-w m a n i t1 a1 ɾ j a,493
-w m a n i t1 a1 ɾ j a s,197
-w m a n i t1 a1 ɾ j o,641
-w m a n i t1 a1 ɾ j o s,220
-w m1 a1 n o,38092
-w m a n1 o1 i1 d e,447
-w m a n1 o1 i1 d e s,413
-w m1 a1 n o s,31659
+u i1 ɾ a s,150
+u i1 ɾ e,305
+u i1 ɾ e m o s,245
+u i1 ɾ i a,269
+u i1 ɾ i a m o s,39
+u i1 ɾ i a n,46
+u i1 ɾ i a s,71
+u1 i s t e,992
+u1 i s t e,96
+u1 l e,492
+u m1 a1 n a,23960
+u m a n a m1 e1 n1 t e,470
+u m1 a1 n a s,4129
+u m a n i d1 a1 d1,14566
+u m a n i d1 a1 d e s,84
+u m a n1 i1 s1 m o,116
+u m a n1 i1 s1 t a,154
+u m a n1 i1 s1 t a s,56
+u m a n i t1 a1 ɾ j a,493
+u m a n i t1 a1 ɾ j a s,197
+u m a n i t1 a1 ɾ j o,641
+u m a n i t1 a1 ɾ j o s,220
+u m1 a1 n o,38092
+u m a n1 o1 i1 d e,447
+u m a n1 o1 i1 d e s,413
+u m1 a1 n o s,31659
 w m b1 e1 ɾ1 t o,111
-w m e a1 b a,22
-w m e a1 n1 d o,101
-w m e a1 n1 t e,553
-w m e a1 n1 t e s,246
-w m e a1 ɾ1,26
-w m e k t1 a1 n1 t e,147
-w1 m e d a,1835
-w m e d1 a1 d1,2555
-w1 m e d a s,580
-w m e d1 e1 s e,94
-w m e d e s e d1 o1 ɾ1,3
-w m e d1 e1 s e n,89
-w m e d e s1 e1 ɾ1,96
-w m e d e s1 i1 a s,2
-w m e d e s1 i1 d a s,7
-w m e d e s1 i1 d o,31
-w m e d e s1 i1 e1 n1 d o,13
-w m e d e s1 i1 e1 n1 d o s e,4
-w m e d e s1 i1 e1 ɾ o n,9
-w m e d1 e1 s1 k a,37
-w1 m e d o,2461
-w1 m e d o s,611
-w1 m e ɾ o,201
-w m i d i f i k a d1 o1 ɾ1,88
-w m i d i f i k a d1 o1 ɾ e s,12
-w m i l d1 a1 d1,1848
-w m1 i1 l1 d e,5303
-w m i l d e m1 e1 n1 t e,1074
-w m1 i1 l1 d e s,1122
-w m1 i1 j a,307
-w m i j1 a1 b a n,23
-w m i j a s1 i1 o1 n1,2755
-w m i j a s1 i1 o1 n e s,296
-w m i j1 a1 d a,757
-w m i j1 a1 d a s,53
-w m i j1 a1 d1 l o,2
-w m i j1 a1 d o,1870
-w m i j1 a1 d o s,287
-w m i j1 a1 m o s,35
-w m1 i1 j a n,139
-w m i j1 a1 n1 d o,192
-w m i j1 a1 n1 d o m e,110
-w m i j1 a1 n1 d o t e,70
-w m i j1 a1 n1 t e,2501
-w m i j1 a1 n1 t e s,148
-w m i j1 a1 ɾ1,611
-w m i j1 a1 ɾ a,25
-w m i j a ɾ1 a1,50
-w m i j a ɾ1 a1 n1,22
-w m i j1 a1 ɾ a s,26
-w m i j a ɾ1 a1 s1,24
-w m i j a ɾ1 e1,40
-w m i j a ɾ1 i1 a,45
-w m i j a ɾ1 i1 a n,15
-w m i j1 a1 ɾ1 l a,151
-w m i j1 a1 ɾ1 l a s,10
-w m i j1 a1 ɾ1 l o,338
-w m i j1 a1 ɾ1 l o s,100
-w m i j1 a1 ɾ1 m e,1718
-w m i j1 a1 ɾ1 n o s,236
-w m i j1 a1 ɾ o n,159
-w m i j1 a1 ɾ1 s e,208
-w m i j1 a1 ɾ1 t e,618
-w m1 i1 j a s,155
-w m i j1 a1 s1 t e,273
-w m1 i1 j e,181
-w m i j1 e1,91
-w m1 i1 j e n,201
-w m1 i1 j e n s e,4
-w m1 i1 j e s,139
-w m1 i1 j o,99
-w m i j1 o1,405
+u m e a1 b a,22
+u m e a1 n1 d o,101
+u m e a1 n1 t e,553
+u m e a1 n1 t e s,246
+u m e a1 ɾ1,26
+u m e k t1 a1 n1 t e,147
+u1 m e d a,1835
+u m e d1 a1 d1,2555
+u1 m e d a s,580
+u m e d1 e1 s e,94
+u m e d e s e d1 o1 ɾ1,3
+u m e d1 e1 s e n,89
+u m e d e s1 e1 ɾ1,96
+u m e d e s1 i1 a s,2
+u m e d e s1 i1 d a s,7
+u m e d e s1 i1 d o,31
+u m e d e s1 i1 e1 n1 d o,13
+u m e d e s1 i1 e1 n1 d o s e,4
+u m e d e s1 i1 e1 ɾ o n,9
+u m e d1 e1 s1 k a,37
+u1 m e d o,2461
+u1 m e d o s,611
+u1 m e ɾ o,201
+u m i d i f i k a d1 o1 ɾ1,88
+u m i d i f i k a d1 o1 ɾ e s,12
+u m i l d1 a1 d1,1848
+u m1 i1 l1 d e,5303
+u m i l d e m1 e1 n1 t e,1074
+u m1 i1 l1 d e s,1122
+u m1 i1 j a,307
+u m i j1 a1 b a n,23
+u m i j a s1 i1 o1 n1,2755
+u m i j a s1 i1 o1 n e s,296
+u m i j1 a1 d a,757
+u m i j1 a1 d a s,53
+u m i j1 a1 d1 l o,2
+u m i j1 a1 d o,1870
+u m i j1 a1 d o s,287
+u m i j1 a1 m o s,35
+u m1 i1 j a n,139
+u m i j1 a1 n1 d o,192
+u m i j1 a1 n1 d o m e,110
+u m i j1 a1 n1 d o t e,70
+u m i j1 a1 n1 t e,2501
+u m i j1 a1 n1 t e s,148
+u m i j1 a1 ɾ1,611
+u m i j1 a1 ɾ a,25
+u m i j a ɾ1 a1,50
+u m i j a ɾ1 a1 n1,22
+u m i j1 a1 ɾ a s,26
+u m i j a ɾ1 a1 s1,24
+u m i j a ɾ1 e1,40
+u m i j a ɾ1 i1 a,45
+u m i j a ɾ1 i1 a n,15
+u m i j1 a1 ɾ1 l a,151
+u m i j1 a1 ɾ1 l a s,10
+u m i j1 a1 ɾ1 l o,338
+u m i j1 a1 ɾ1 l o s,100
+u m i j1 a1 ɾ1 m e,1718
+u m i j1 a1 ɾ1 n o s,236
+u m i j1 a1 ɾ o n,159
+u m i j1 a1 ɾ1 s e,208
+u m i j1 a1 ɾ1 t e,618
+u m1 i1 j a s,155
+u m i j1 a1 s1 t e,273
+u m1 i1 j e,181
+u m i j1 e1,91
+u m1 i1 j e n,201
+u m1 i1 j e n s e,4
+u m1 i1 j e s,139
+u m1 i1 j o,99
+u m i j1 o1,405
 w1 m1 m u s,226
-w1 m o,13404
-w m1 o1 ɾ1,20972
-w m1 o1 ɾ e s,120
-w m o ɾ1 i1 s1 t a,337
-w m o ɾ1 i1 s1 t a s,64
-w m o ɾ1 i1 s1 t i k a s,15
-w m o ɾ1 i1 s1 t i k o,60
-w m o ɾ1 i1 s1 t i k o s,23
-w1 m o s,700
-w1 m u s,180
+u1 m o,13404
+u m1 o1 ɾ1,20972
+u m1 o1 ɾ e s,120
+u m o ɾ1 i1 s1 t a,337
+u m o ɾ1 i1 s1 t a s,64
+u m o ɾ1 i1 s1 t i k a s,15
+u m o ɾ1 i1 s1 t i k o,60
+u m o ɾ1 i1 s1 t i k o s,23
+u1 m o s,700
+u1 m u s,180
 w1 n1 d a,614
 w n d1 a1 m o s,101
 w1 n1 d a n,150
@@ -48385,13 +48385,13 @@ w1 n1 g a ɾ a s,50
 w1 n1 g a ɾ o,1065
 w1 n1 g a ɾ o s,589
 w n g1 ɾ1 i1 a,1046
-w1 n o,201
-w1 n o s,375
-w ɾ a k1 a1 n1,3333
-w ɾ a k a n1 a1 d o s,84
-w ɾ a k1 a1 n e s,791
-w ɾ1 a1 ɲ a,39
-w ɾ1 a1 ɲ o,81
+u1 n o,201
+u1 n o s,375
+u ɾ a k1 a1 n1,3333
+u ɾ a k a n1 a1 d o s,84
+u ɾ a k1 a1 n e s,791
+u ɾ1 a1 ɲ a,39
+u ɾ1 a1 ɲ o,81
 w1 ɾ1 g a,90
 w ɾ g1 a1 b a,36
 w ɾ g1 a1 d o,48
@@ -48411,10 +48411,10 @@ w ɾ g1 o1,51
 w ɾ g1 e1,9
 w1 ɾ1 g e n,13
 w1 ɾ1 g e s,51
-w ɾ1 o1 n1,484
-w ɾ1 o1 n e s,149
-w1 r a,3770
-w1 r a s,290
+u ɾ1 o1 n1,484
+u ɾ1 o1 n e s,149
+u1 r a,3770
+u1 r a s,290
 w ɾ t a d1 i1 j a s,988
 w ɾ t1 a1 d o,57
 w ɾ t1 a1 n1 d o,26
@@ -48440,21 +48440,21 @@ w s m e e1,6
 w s m1 e1 e s,12
 w s m1 e1 o,44
 w s m e o1,16
-w1 i a,839
-w i1 a1 m o s,671
-w1 i a n,1092
-w1 i a s,1020
-w1 i e,4291
-w1 i e n,1438
-w i1 e1 n1 d o,6624
-w i1 e1 ɾ a,435
-w i1 e1 ɾ a m o s,54
-w i1 e1 ɾ a n,84
-w i1 e1 ɾ a s,103
-w i1 e1 ɾ o n,1614
-w1 i e s,1303
-w1 i o,855
-w i1 o1,4721
+u1 i a,839
+u i1 a1 m o s,671
+u1 i a n,1092
+u1 i a s,1020
+u1 i e,4291
+u1 i e n,1438
+u i1 e1 n1 d o,6624
+u i1 e1 ɾ a,435
+u i1 e1 ɾ a m o s,54
+u i1 e1 ɾ a n,84
+u i1 e1 ɾ a s,103
+u i1 e1 ɾ o n,1614
+u1 i e s,1303
+u1 i o,855
+u i1 o1,4721
 i1,95161
 i1 b a,140029
 i1 b a i s,553
@@ -51109,31 +51109,31 @@ i n a l1 o1,161
 i n e ɾ1 e1 n1 t e,434
 i n e ɾ e n t e m1 e1 n1 t e,118
 i n e ɾ1 e1 n1 t e s,117
-i n j1 b a,11
-i n j1 b a s,11
-i n j1 b e,107
-i n j1 b e n,38
-i n j b i s1 i1 o1 n1,168
-i n j b i s1 i1 o1 n e s,356
-i n j b1 i1 d a,55
-i n j b1 i1 d a s,16
-i n j b1 i1 d o,54
-i n j b i d1 o1 ɾ1,464
-i n j b i d1 o1 ɾ e s,249
-i n j b1 i1 d o s,16
-i n j b1 j1 e1 n1 d o m e,4
-i n j b1 i1 ɾ1,91
-i n j b i ɾ1 i1 a n,5
-i n j b1 i1 ɾ1 m e,6
-i n j b i t1 o1 ɾ j a,108
+i n i1 b a,11
+i n i1 b a s,11
+i n i1 b e,107
+i n i1 b e n,38
+i n i b i s1 i1 o1 n1,168
+i n i b i s1 i1 o1 n e s,356
+i n i b1 i1 d a,55
+i n i b1 i1 d a s,16
+i n i b1 i1 d o,54
+i n i b i d1 o1 ɾ1,464
+i n i b i d1 o1 ɾ e s,249
+i n i b1 i1 d o s,16
+i n i b1 j1 e1 n1 d o m e,4
+i n i b1 i1 ɾ1,91
+i n i b i ɾ1 i1 a n,5
+i n i b1 i1 ɾ1 m e,6
+i n i b i t1 o1 ɾ j a,108
 i n o1 s1 p i t a,83
 i n o1 s1 p i t a s,41
 i n o1 s1 p i t o,108
 i n o1 s1 p i t o s,61
-i n w m1 a1 n a,323
-i n w m1 a1 n a s,110
-i n w m1 a1 n o,917
-i n w m1 a1 n o s,212
+i n u m1 a1 n a,323
+i n u m1 a1 n a s,110
+i n u m1 a1 n o,917
+i n u m1 a1 n o s,212
 i n1 i1 s i a,1528
 i n i s1 i1 a1 b a,70
 i n i s1 i1 a1 b a n,34
@@ -57159,11 +57159,11 @@ m a l e tʃ1 o1 ɾ e s,405
 m a l e ɾ1 i1 d a,179
 m a l e ɾ1 i1 d o,1014
 m a l e ɾ1 i1 d o s,98
-m a l w m1 o1 ɾ1,135
-m a l w m o ɾ1 a1 d a,308
-m a l w m o ɾ1 a1 d a s,29
-m a l w m o ɾ1 a1 d o,619
-m a l w m o ɾ1 a1 d o s,64
+m a l u m1 o1 ɾ1,135
+m a l u m o ɾ1 a1 d a,308
+m a l u m o ɾ1 a1 d a s,29
+m a l u m o ɾ1 a1 d o,619
+m a l u m o ɾ1 a1 d o s,64
 m a l i b1 u1,1039
 m a l1 i1 s i a,841
 m a l i s1 i1 o1 s a,295
@@ -71617,9 +71617,9 @@ p ɾ o g ɾ e s1 i1 b o s,36
 p ɾ o g1 ɾ1 e1 s o,7520
 p ɾ o g ɾ e s1 o1,59
 p ɾ o g1 ɾ1 e1 s o s,1729
-p ɾ o j1 b a,317
-p ɾ o j1 b a l o,6
-p ɾ o j1 b a n,74
+p ɾ o i1 b a,317
+p ɾ o i1 b a l o,6
+p ɾ o i1 b a n,74
 p1 ɾ1 o1 j1 b e,525
 p1 ɾ1 o1 j1 b e n,135
 p1 ɾ1 o1 j1 b e s,52
@@ -71654,7 +71654,7 @@ p ɾ o j b1 i1 ɾ1 n o s,28
 p ɾ o j b1 i1 ɾ1 s e l o,78
 p ɾ o j b1 i1 ɾ1 t e,106
 p ɾ o j b1 i1 s1 t e,66
-p ɾ o j1 b o,1223
+p ɾ o i1 b o,1223
 p1 ɾ1 o1 x i m o,1216
 p1 ɾ1 o1 x i m o s,48
 p ɾ o l a k t1 i1 n a,20
@@ -76935,11 +76935,11 @@ r e w i1 a s,5
 r e w i1 d o,19
 r e w i1 ɾ1,47
 r e w1 i1 ɾ1 l e,24
-r e w1 s a,741
+r e u1 s a,741
 r e w s1 a1 b a,105
 r e w s1 a1 d o,207
 r e w s1 a1 m o s,86
-r e w1 s a n,203
+r e u1 s a n,203
 r e w s1 a1 n1 d o,66
 r e w s1 a1 n1 d o s e,76
 r e w s1 a1 ɾ1,383
@@ -76951,14 +76951,14 @@ r e w s1 a1 ɾ1 n o s,24
 r e w s1 a1 ɾ o n,167
 r e w s1 a1 ɾ1 s e,162
 r e w s1 a1 ɾ1 t e,74
-r e w1 s a s,220
+r e u1 s a s,220
 r e w s1 a1 s1 t e,91
-r e w1 s a t e,24
+r e u1 s a t e,24
 r e w s1 e1,185
-r e w1 s e,60
+r e u1 s e,60
 r e w s1 o1,665
-r e w1 s o,441
-r e w1 i e,28
+r e u1 s o,441
+r e u1 i e,28
 r e i1,711
 r e i1 a,1690
 r e i1 a m o s,392
@@ -82203,7 +82203,7 @@ s1 a1 ɾ1 t a,444
 s a ɾ t1 e1 n1,1226
 s a ɾ t1 e1 n e s,270
 s1 a1 s1 a,3062
-s a s j1 m i,151
+s a s i1 m i,151
 s1 a1 s1 t ɾ e,2132
 s a s t ɾ e ɾ1 i1 a,181
 s1 a1 s1 t ɾ e s,238
@@ -86629,7 +86629,7 @@ s u s k ɾ i p s1 i1 o1 n e s,117
 s u s k ɾ i p t1 o1 ɾ1,50
 s u s k1 ɾ1 i1 t a,30
 s u s k1 ɾ1 i1 t o,89
-s1 u1 s1 j,2512
+s1 u1 s1 i,2512
 s u s o d1 i1 tʃ a,61
 s u s o d1 i1 tʃ o s,42
 s u s p1 e1 n1 d a,298
@@ -91784,8 +91784,8 @@ b e e m1 e1 n1 s i a,135
 b e e m1 e1 n1 t e,124
 b e e m e n t e m1 e1 n1 t e,56
 b e e m1 e1 n1 t e s,13
-b e j1 k u l o,11548
-b e j1 k u l o s,4517
+b e i1 k u l o,11548
+b e i1 k u l o s,4517
 b e i1 a,17689
 b e i1 a m o s,1799
 b e i1 a n,2290

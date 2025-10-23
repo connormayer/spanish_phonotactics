@@ -3881,7 +3881,7 @@
 3879,3880,agustina,302,0.652815,aGustina,VCVCCVCV,3,4,0.293443,,a ɡ w s t1 i1 n a,a ɡ w s t i n a,a.ɡws.ti.na,aɡwstina
 3880,3881,agustinos,13,0.028101,aGustinos,VCVCCVCVC,3,2,0.009727,,a ɡ w s t1 i1 n o s,a ɡ w s t i n o s,a.ɡws.ti.nos,aɡwstinos
 3881,3882,ah,166655,360.248136,a,V,1,59,1049.399673,,a1,a,a,a
-3882,3883,ahí,485022,1048.443019,ai,VV,2,99,814.682251,,a ʝ1,a ʝ,a.ʝ,aʝ
+3882,3883,ahí,485022,1048.443019,ai,VV,2,99,814.682251,,a i1,a i,a.i,ai
 3883,3884,ahijada,220,0.475561,aixaDa,VVCVCV,2,10,0.325975,,a ʝ x1 a1 d a,a ʝ x a d a,aʝ.xa.da,aʝxada
 3884,3885,ahijado,391,0.845201,aixaDo,VVCVCV,2,8,1.128106,,a ʝ x1 a1 d o,a ʝ x a d o,aʝ.xa.do,aʝxado
 3885,3886,ahínco,146,0.315599,aiNko,VVCCV,2,8,32.229244,,a ʝ1 n1 k o,a ʝ n k o,a.ʝn.ko,aʝnko
@@ -11886,8 +11886,8 @@
 11884,11885,baguette,149,0.322084,baGeDte,CVCVCCV,2,1,0.099435,,b a ɡ1 e1 t1 t e,b a ɡ e t t e,ba.ɡet.te,baɡette
 11885,11886,baguettes,46,0.099435,baGeDtes,CVCVCCVC,2,1,0.322084,,b a ɡ1 e1 t1 t e s,b a ɡ e t t e s,ba.ɡet.tes,baɡettes
 11886,11887,bahamas,1140,2.46427,baamas,CVVCVC,2,1,0.004323,,b a a1 m a s,b a a m a s,ba.a.mas,baamas
-11887,11888,bahía,5917,12.790425,baia,CVVV,2,43,17.711474,,b a ʝ1 a,b a ʝ a,ba.ʝ.a,baʝa
-11888,11889,bahías,110,0.23778,baias,CVVVC,2,32,7.819598,,b a ʝ1 a s,b a ʝ a s,ba.ʝ.as,baʝas
+11887,11888,bahía,5917,12.790425,baia,CVVV,2,43,17.711474,,b a i1 a,b a i a,ba.i.a,baia
+11888,11889,bahías,110,0.23778,baias,CVVVC,2,32,7.819598,,b a i1 a s,b a i a s,ba.i.as,baias
 11889,11890,baila,8175,17.671408,baila,CVVCV,1,26,9.127359,,b1 a1 i1 l a,b a i l a,bai.la,baila
 11890,11891,bailaba,1093,2.362673,bailaBa,CVVCVCV,2,8,0.380449,,b a i l1 a1 b a,b a i l a b a,bai.la.ba,bailaba
 11891,11892,bailábamos,246,0.531763,bailaBamos,CVVCVCVCVC,2,1,0.10592,,b a i l1 a1 b a m o s,b a i l a b a m o s,bai.la.ba.mos,bailabamos
@@ -26316,7 +26316,7 @@
 26314,26315,delgados,656,1.418036,delGaDos,CVCCVCVC,2,4,3.521312,,d e l ɡ1 a1 d o s,d e l ɡ a d o s,del.ɡa.dos,delɡados
 26315,26316,delgaducha,44,0.095112,delGaDuCa,CVCCVCVCV,3,2,0.129699,,d e l ɡ a d1 u1 t ͡ ʃ a,d e l ɡ a d u t ͡ ʃ a,del.ɡa.du.t͡ʃa,delɡadut͡ʃa
 26316,26317,delgaducho,103,0.222649,delGaDuCo,CVCCVCVCV,3,2,0.061607,,d e l ɡ a d1 u1 t ͡ ʃ o,d e l ɡ a d u t ͡ ʃ o,del.ɡa.du.t͡ʃo,delɡadut͡ʃo
-26317,26318,delhi,1711,3.698566,deli,CVCV,1,23,338.006363,,d1 e1 l1 ʝ,d e l ʝ,del.ʝ,delʝ
+26317,26318,delhi,1711,3.698566,deli,CVCV,1,23,338.006363,,d1 e1 l1 i,d e l i,del.i,deli
 26318,26319,delia,1340,2.896598,delja,CVCVV,1,16,1.565027,,d1 e1 l j a,d e l j a,de.lja,delja
 26319,26320,deliberación,214,0.462591,deliBerasjon,CVCVCVCVCVVC,5,0,0.0,,d e l i b e ɾ a s1 i1 o1 n1,d e l i b e ɾ a s i o n,de.li.be.ɾa.sion,delibeɾasion
 26320,26321,deliberaciones,210,0.453944,deliBerasjones,CVCVCVCVCVVCVC,5,0,0.0,,d e l i b e ɾ a s1 i1 o1 n e s,d e l i b e ɾ a s i o n e s,de.li.be.ɾa.sio.nes,delibeɾasiones
@@ -28891,33 +28891,33 @@
 28889,28890,desheredaron,45,0.097274,desereDaron,CVCVCVCVCVC,4,3,0.006485,,d e s e ɾ e d1 a1 ɾ o n,d e s e ɾ e d a ɾ o n,des.e.ɾe.da.ɾon,deseɾedaɾon
 28890,28891,desheredo,49,0.10592,desereDo,CVCVCVCV,3,3,0.030983,,d e s e ɾ1 e1 d o,d e s e ɾ e d o,des.e.ɾe.do,deseɾedo
 28891,28892,desheredó,59,0.127537,desereDo,CVCVCVCV,4,3,0.030983,,d e s e ɾ e d1 o1,d e s e ɾ e d o,des.e.ɾe.do,deseɾedo
-28892,28893,deshice,736,1.590967,desise,CVCVCV,2,10,4.113385,,d e s ʝ1 s e,d e s ʝ s e,des.ʝ.se,desʝse
-28893,28894,deshiciera,194,0.419358,desisjera,CVCVCVVCV,3,5,0.395148,,d e s ʝ s1 i1 e1 ɾ a,d e s ʝ s i e ɾ a,des.ʝ.sie.ɾa,desʝsieɾa
-28894,28895,deshiciéramos,25,0.054041,desisjeramos,CVCVCVVCVCVC,3,2,0.094032,,d e s ʝ s1 i1 e1 ɾ a m o s,d e s ʝ s i e ɾ a m o s,des.ʝ.sie.ɾa.mos,desʝsieɾamos
-28895,28896,deshicieras,110,0.23778,desisjeras,CVCVCVVCVC,3,5,0.254641,,d e s ʝ s1 i1 e1 ɾ a s,d e s ʝ s i e ɾ a s,des.ʝ.sie.ɾas,desʝsieɾas
-28896,28897,deshicieron,278,0.600936,desisjeron,CVCVCVVCVC,3,3,2.68836,,d e s ʝ s1 i1 e1 ɾ o n,d e s ʝ s i e ɾ o n,des.ʝ.sie.ɾon,desʝsieɾon
-28897,28898,deshicimos,276,0.596613,desisimos,CVCVCVCVC,3,3,4.78443,,d e s ʝ s1 i1 m o s,d e s ʝ s i m o s,des.ʝ.si.mos,desʝsimos
-28898,28899,deshiciste,377,0.814938,desisiste,CVCVCVCCV,3,3,2.67539,,d e s ʝ s1 i1 s1 t e,d e s ʝ s i s t e,des.ʝ.sis.te,desʝsiste
-28899,28900,deshidrata,66,0.142668,desiDrata,CVCVCCVCV,3,7,0.029954,,d e s ʝ d1 ɾ1 a1 t a,d e s ʝ d ɾ a t a,des.ʝ.dɾa.ta,desʝdɾata
-28900,28901,deshidratación,577,1.247266,desiDratasjon,CVCVCCVCVCVVC,5,0,0.0,,d e s ʝ d ɾ a t a s1 i1 o1 n1,d e s ʝ d ɾ a t a s i o n,des.ʝ.dɾa.ta.sion,desʝdɾatasion
-28901,28902,deshidratada,225,0.486369,desiDrataDa,CVCVCCVCVCV,4,5,0.214002,,d e s ʝ d ɾ a t1 a1 d a,d e s ʝ d ɾ a t a d a,des.ʝ.dɾa.ta.da,desʝdɾatada
-28902,28903,deshidratadas,29,0.062688,desiDrataDas,CVCVCCVCVCVC,4,5,0.138777,,d e s ʝ d ɾ a t1 a1 d a s,d e s ʝ d ɾ a t a d a s,des.ʝ.dɾa.ta.das,desʝdɾatadas
-28903,28904,deshidratado,451,0.9749,desiDrataDo,CVCVCCVCVCV,4,3,0.230575,,d e s ʝ d ɾ a t1 a1 d o,d e s ʝ d ɾ a t a d o,des.ʝ.dɾa.ta.do,desʝdɾatado
-28904,28905,deshidratador,14,0.030263,desiDrataDor,CVCVCCVCVCVC,5,2,0.574997,,d e s ʝ d ɾ a t a d1 o1 ɾ1,d e s ʝ d ɾ a t a d o ɾ,des.ʝ.dɾa.ta.doɾ,desʝdɾatadoɾ
-28905,28906,deshidratados,81,0.175093,desiDrataDos,CVCVCCVCVCVC,4,4,0.270205,,d e s ʝ d ɾ a t1 a1 d o s,d e s ʝ d ɾ a t a d o s,des.ʝ.dɾa.ta.dos,desʝdɾatados
-28906,28907,deshidratar,42,0.090789,desiDratar,CVCVCCVCVC,4,6,0.033145,,d e s ʝ d ɾ a t1 a1 ɾ1,d e s ʝ d ɾ a t a ɾ,des.ʝ.dɾa.taɾ,desʝdɾataɾ
-28907,28908,deshidratará,6,0.01297,desiDratara,CVCVCCVCVCV,5,7,0.090171,,d e s ʝ d ɾ a t a ɾ1 a1,d e s ʝ d ɾ a t a ɾ a,des.ʝ.dɾa.ta.ɾa,desʝdɾataɾa
-28908,28909,deshidratas,6,0.01297,desiDratas,CVCVCCVCVC,3,4,0.069713,,d e s ʝ d1 ɾ1 a1 t a s,d e s ʝ d ɾ a t a s,des.ʝ.dɾa.tas,desʝdɾatas
-28909,28910,deshidrate,7,0.015131,desiDrate,CVCVCCVCV,3,5,0.049285,,d e s ʝ d1 ɾ1 a1 t e,d e s ʝ d ɾ a t e,des.ʝ.dɾa.te,desʝdɾate
-28910,28911,deshidraten,8,0.017293,desiDraten,CVCVCCVCVC,3,4,0.016753,,d e s ʝ d1 ɾ1 a1 t e n,d e s ʝ d ɾ a t e n,des.ʝ.dɾa.ten,desʝdɾaten
-28911,28912,deshidrato,11,0.023778,desiDrato,CVCVCCVCV,3,3,0.054761,,d e s ʝ d1 ɾ1 a1 t o,d e s ʝ d ɾ a t o,des.ʝ.dɾa.to,desʝdɾato
-28912,28913,deshidrató,18,0.03891,desiDrato,CVCVCCVCV,4,3,0.054761,,d e s ʝ d ɾ a t1 o1,d e s ʝ d ɾ a t o,des.ʝ.dɾa.to,desʝdɾato
+28892,28893,deshice,736,1.590967,desise,CVCVCV,2,10,4.113385,,d e s i1 s e,d e s i s e,des.i.se,desise
+28893,28894,deshiciera,194,0.419358,desisjera,CVCVCVVCV,3,5,0.395148,,d e s i s1 i1 e1 ɾ a,d e s i s i e ɾ a,des.i.sie.ɾa,desisieɾa
+28894,28895,deshiciéramos,25,0.054041,desisjeramos,CVCVCVVCVCVC,3,2,0.094032,,d e s i s1 i1 e1 ɾ a m o s,d e s i s i e ɾ a m o s,des.i.sie.ɾa.mos,desisieɾamos
+28895,28896,deshicieras,110,0.23778,desisjeras,CVCVCVVCVC,3,5,0.254641,,d e s i s1 i1 e1 ɾ a s,d e s i s i e ɾ a s,des.i.sie.ɾas,desisieɾas
+28896,28897,deshicieron,278,0.600936,desisjeron,CVCVCVVCVC,3,3,2.68836,,d e s i s1 i1 e1 ɾ o n,d e s i s i e ɾ o n,des.i.sie.ɾon,desisieɾon
+28897,28898,deshicimos,276,0.596613,desisimos,CVCVCVCVC,3,3,4.78443,,d e s i s1 i1 m o s,d e s i s i m o s,des.i.si.mos,desisimos
+28898,28899,deshiciste,377,0.814938,desisiste,CVCVCVCCV,3,3,2.67539,,d e s i s1 i1 s1 t e,d e s i s i s t e,des.i.sis.te,desisiste
+28899,28900,deshidrata,66,0.142668,desiDrata,CVCVCCVCV,3,7,0.029954,,d e s i d1 ɾ1 a1 t a,d e s i d ɾ a t a,des.i.dɾa.ta,desidɾata
+28900,28901,deshidratación,577,1.247266,desiDratasjon,CVCVCCVCVCVVC,5,0,0.0,,d e s i d ɾ a t a s1 i1 o1 n1,d e s i d ɾ a t a s i o n,des.i.dɾa.ta.sion,desidɾatasion
+28901,28902,deshidratada,225,0.486369,desiDrataDa,CVCVCCVCVCV,4,5,0.214002,,d e s i d ɾ a t1 a1 d a,d e s i d ɾ a t a d a,des.i.dɾa.ta.da,desidɾatada
+28902,28903,deshidratadas,29,0.062688,desiDrataDas,CVCVCCVCVCVC,4,5,0.138777,,d e s i d ɾ a t1 a1 d a s,d e s i d ɾ a t a d a s,des.i.dɾa.ta.das,desidɾatadas
+28903,28904,deshidratado,451,0.9749,desiDrataDo,CVCVCCVCVCV,4,3,0.230575,,d e s i d ɾ a t1 a1 d o,d e s i d ɾ a t a d o,des.i.dɾa.ta.do,desidɾatado
+28904,28905,deshidratador,14,0.030263,desiDrataDor,CVCVCCVCVCVC,5,2,0.574997,,d e s i d ɾ a t a d1 o1 ɾ1,d e s i d ɾ a t a d o ɾ,des.i.dɾa.ta.doɾ,desidɾatadoɾ
+28905,28906,deshidratados,81,0.175093,desiDrataDos,CVCVCCVCVCVC,4,4,0.270205,,d e s i d ɾ a t1 a1 d o s,d e s i d ɾ a t a d o s,des.i.dɾa.ta.dos,desidɾatados
+28906,28907,deshidratar,42,0.090789,desiDratar,CVCVCCVCVC,4,6,0.033145,,d e s i d ɾ a t1 a1 ɾ1,d e s i d ɾ a t a ɾ,des.i.dɾa.taɾ,desidɾataɾ
+28907,28908,deshidratará,6,0.01297,desiDratara,CVCVCCVCVCV,5,7,0.090171,,d e s i d ɾ a t a ɾ1 a1,d e s i d ɾ a t a ɾ a,des.i.dɾa.ta.ɾa,desidɾataɾa
+28908,28909,deshidratas,6,0.01297,desiDratas,CVCVCCVCVC,3,4,0.069713,,d e s i d1 ɾ1 a1 t a s,d e s i d ɾ a t a s,des.i.dɾa.tas,desidɾatas
+28909,28910,deshidrate,7,0.015131,desiDrate,CVCVCCVCV,3,5,0.049285,,d e s i d1 ɾ1 a1 t e,d e s i d ɾ a t e,des.i.dɾa.te,desidɾate
+28910,28911,deshidraten,8,0.017293,desiDraten,CVCVCCVCVC,3,4,0.016753,,d e s i d1 ɾ1 a1 t e n,d e s i d ɾ a t e n,des.i.dɾa.ten,desidɾaten
+28911,28912,deshidrato,11,0.023778,desiDrato,CVCVCCVCV,3,3,0.054761,,d e s i d1 ɾ1 a1 t o,d e s i d ɾ a t o,des.i.dɾa.to,desidɾato
+28912,28913,deshidrató,18,0.03891,desiDrato,CVCVCCVCV,4,3,0.054761,,d e s i d ɾ a t1 o1,d e s i d ɾ a t o,des.i.dɾa.to,desidɾato
 28913,28914,deshielo,338,0.730634,desHelo,CVCCVCV,2,6,0.463311,,d e s ʝ1 e1 l o,d e s ʝ e l o,des.ʝe.lo,desʝelo
-28914,28915,deshilachado,28,0.060526,desilaCaDo,CVCVCVCVCV,4,2,0.043233,,d e s ʝ l a t1 ͡1 ʃ1 a1 d o,d e s ʝ l a t ͡ ʃ a d o,des.ʝ.la.t͡ʃa.do,desʝlat͡ʃado
-28915,28916,deshilachados,14,0.030263,desilaCaDos,CVCVCVCVCVC,4,3,0.030984,,d e s ʝ l a t1 ͡1 ʃ1 a1 d o s,d e s ʝ l a t ͡ ʃ a d o s,des.ʝ.la.t͡ʃa.dos,desʝlat͡ʃados
-28916,28917,deshilachando,2,0.004323,desilaCando,CVCVCVCVCCV,4,0,0.0,,d e s ʝ l a t1 ͡1 ʃ1 a1 n1 d o,d e s ʝ l a t ͡ ʃ a n d o,des.ʝ.la.t͡ʃan.do,desʝlat͡ʃando
+28914,28915,deshilachado,28,0.060526,desilaCaDo,CVCVCVCVCV,4,2,0.043233,,d e s i l a t1 ͡1 ʃ1 a1 d o,d e s i l a t ͡ ʃ a d o,des.i.la.t͡ʃa.do,desilat͡ʃado
+28915,28916,deshilachados,14,0.030263,desilaCaDos,CVCVCVCVCVC,4,3,0.030984,,d e s i l a t1 ͡1 ʃ1 a1 d o s,d e s i l a t ͡ ʃ a d o s,des.i.la.t͡ʃa.dos,desilat͡ʃados
+28916,28917,deshilachando,2,0.004323,desilaCando,CVCVCVCVCCV,4,0,0.0,,d e s i l a t1 ͡1 ʃ1 a1 n1 d o,d e s i l a t ͡ ʃ a n d o,des.i.la.t͡ʃan.do,desilat͡ʃando
 28917,28918,deshipnotizado,3,0.006485,desipnotisaDo,CVCVCCVCVCVCV,5,0,0.0,,d e s ʝ p n o t i s1 a1 d o,d e s ʝ p n o t i s a d o,des.ʝp.no.ti.sa.do,desʝpnotisado
-28918,28919,deshizo,1037,2.241621,desiso,CVCVCV,2,8,2.407527,,d e s ʝ1 s o,d e s ʝ s o,des.ʝ.so,desʝso
+28918,28919,deshizo,1037,2.241621,desiso,CVCVCV,2,8,2.407527,,d e s i1 s o,d e s i s o,des.i.so,desiso
 28919,28920,deshollinador,169,0.365317,desoLinaDor,CVCVCVCVCVC,5,0,0.0,,d e s o ʝ i n a d1 o1 ɾ1,d e s o ʝ i n a d o ɾ,des.o.ʝi.na.doɾ,desoʝinadoɾ
 28920,28921,deshonesta,299,0.64633,desonesta,CVCVCVCCV,3,2,1.298065,,d e s o n1 e1 s1 t a,d e s o n e s t a,des.o.nes.ta,desonesta
 28921,28922,deshonestamente,30,0.064849,desonestamente,CVCVCVCCVCVCCV,5,0,0.0,,d e s o n e s t a m1 e1 n1 t e,d e s o n e s t a m e n t e,des.o.nes.ta.men.te,desonestamente
@@ -29035,10 +29035,10 @@
 29033,29034,desinformada,32,0.069172,desimformaDa,CVCVCCVCCVCV,4,2,0.057284,,d e s i n f o ɾ m1 a1 d a,d e s i n f o ɾ m a d a,de.sin.foɾ.ma.da,desinfoɾmada
 29034,29035,desinformado,49,0.10592,desimformaDo,CVCVCCVCCVCV,4,2,0.046475,,d e s i n f o ɾ m1 a1 d o,d e s i n f o ɾ m a d o,de.sin.foɾ.ma.do,desinfoɾmado
 29035,29036,desinformados,11,0.023778,desimformaDos,CVCVCCVCCVCVC,4,3,0.03891,,d e s i n f o ɾ m1 a1 d o s,d e s i n f o ɾ m a d o s,de.sin.foɾ.ma.dos,desinfoɾmados
-29036,29037,desinhibida,79,0.17077,desiniBiDa,CVCVCVCVCV,4,3,0.087186,,d e s i n ʝ b1 i1 d a,d e s i n ʝ b i d a,de.sin.ʝ.bi.da,desinʝbida
-29037,29038,desinhibido,117,0.252912,desiniBiDo,CVCVCVCVCV,4,2,0.109163,,d e s i n ʝ b1 i1 d o,d e s i n ʝ b i d o,de.sin.ʝ.bi.do,desinʝbido
-29038,29039,desinhibidos,22,0.047556,desiniBiDos,CVCVCVCVCVC,4,2,0.129699,,d e s i n ʝ b1 i1 d o s,d e s i n ʝ b i d o s,de.sin.ʝ.bi.dos,desinʝbidos
-29039,29040,desinhibirte,15,0.032425,desiniBirte,CVCVCVCVCCV,4,1,0.021616,,d e s i n ʝ b1 i1 ɾ1 t e,d e s i n ʝ b i ɾ t e,de.sin.ʝ.biɾ.te,desinʝbiɾte
+29036,29037,desinhibida,79,0.17077,desiniBiDa,CVCVCVCVCV,4,3,0.087186,,d e s i n i b1 i1 d a,d e s i n i b i d a,de.sin.i.bi.da,desinibida
+29037,29038,desinhibido,117,0.252912,desiniBiDo,CVCVCVCVCV,4,2,0.109163,,d e s i n i b1 i1 d o,d e s i n i b i d o,de.sin.i.bi.do,desinibido
+29038,29039,desinhibidos,22,0.047556,desiniBiDos,CVCVCVCVCVC,4,2,0.129699,,d e s i n i b1 i1 d o s,d e s i n i b i d o s,de.sin.i.bi.dos,desinibidos
+29039,29040,desinhibirte,15,0.032425,desiniBirte,CVCVCVCVCCV,4,1,0.021616,,d e s i n i b1 i1 ɾ1 t e,d e s i n i b i ɾ t e,de.sin.i.biɾ.te,desinibiɾte
 29040,29041,desintegra,201,0.43449,desinteGra,CVCVCCVCCV,3,7,0.151315,,d e s i n t1 e1 ɡ ɾ a,d e s i n t e ɡ ɾ a,de.sin.te.ɡɾa,desinteɡɾa
 29041,29042,desintegración,300,0.648492,desinteGrasjon,CVCVCCVCCVCVVC,5,0,0.0,,d e s i n t e ɡ ɾ a s1 i1 o1 n1,d e s i n t e ɡ ɾ a s i o n,de.sin.te.ɡɾa.sion,desinteɡɾasion
 29042,29043,desintegrado,181,0.391257,desinteGraDo,CVCVCCVCCVCV,4,4,0.067011,,d e s i n t e ɡ1 ɾ1 a1 d o,d e s i n t e ɡ ɾ a d o,de.sin.te.ɡɾa.do,desinteɡɾado
@@ -41010,53 +41010,53 @@
 41008,41009,exhaustivos,40,0.086466,esaustiBos,VCVVCCVCVC,3,2,0.349105,,e k s a u s t1 i1 b o s,e k s a u s t i b o s,eks.aus.ti.bos,eksaustibos
 41009,41010,exhausto,1749,3.780709,esausto,VCVVCCV,2,2,1.719585,,e k s a1 u1 s1 t o,e k s a u s t o,eks.aus.to,eksausto
 41010,41011,exhaustos,439,0.94896,esaustos,VCVVCCVC,2,2,1.961689,,e k s a1 u1 s1 t o s,e k s a u s t o s,eks.aus.tos,eksaustos
-41011,41012,exhiba,59,0.127537,esiBa,VCVCV,2,14,0.727083,,e k s ʝ1 b a,e k s ʝ b a,eks.ʝ.ba,eksʝba
-41012,41013,exhiban,44,0.095112,esiBan,VCVCVC,2,7,0.432328,,e k s ʝ1 b a n,e k s ʝ b a n,eks.ʝ.ban,eksʝban
-41013,41014,exhibas,43,0.092951,esiBas,VCVCVC,2,7,0.393727,,e k s ʝ1 b a s,e k s ʝ b a s,eks.ʝ.bas,eksʝbas
-41014,41015,exhibe,311,0.67227,esiBe,VCVCV,2,11,1.919536,,e k s ʝ1 b e,e k s ʝ b e,eks.ʝ.be,eksʝbe
-41015,41016,exhiben,186,0.402065,esiBen,VCVCVC,2,8,1.078658,,e k s ʝ1 b e n,e k s ʝ b e n,eks.ʝ.ben,eksʝben
-41016,41017,exhibes,46,0.099435,esiBes,VCVCVC,2,7,1.322924,,e k s ʝ1 b e s,e k s ʝ b e s,eks.ʝ.bes,eksʝbes
-41017,41018,exhibí,19,0.041071,esiBi,VCVCV,3,7,4.233109,,e k s ʝ b1 i1,e k s ʝ b i,eks.ʝ.bi,eksʝbi
-41018,41019,exhibía,59,0.127537,esiBia,VCVCVV,3,9,0.473159,,e k s ʝ b1 i1 a,e k s ʝ b i a,eks.ʝ.bi.a,eksʝbia
-41019,41020,exhibían,16,0.034586,esiBian,VCVCVVC,3,5,0.192386,,e k s ʝ b1 i1 a n,e k s ʝ b i a n,eks.ʝ.bi.an,eksʝbian
-41020,41021,exhibición,3376,7.297697,esiBisjon,VCVCVCVVC,4,0,0.0,,e k s ʝ b i s1 i1 o1 n1,e k s ʝ b i s i o n,eks.ʝ.bi.sion,eksʝbision
-41021,41022,exhibiciones,238,0.51447,esiBisjones,VCVCVCVVCVC,4,0,0.0,,e k s ʝ b i s1 i1 o1 n e s,e k s ʝ b i s i o n e s,eks.ʝ.bi.sio.nes,eksʝbisiones
-41022,41023,exhibicionismo,221,0.477722,esiBisjonizmo,VCVCVCVVCVCCV,5,1,0.004323,,e k s ʝ b i s i o n1 i1 s1 m o,e k s ʝ b i s i o n i s m o,eks.ʝ.bi.sio.nis.mo,eksʝbisionismo
-41023,41024,exhibicionista,330,0.713341,esiBisjonista,VCVCVCVVCVCCV,5,1,0.252912,,e k s ʝ b i s i o n1 i1 s1 t a,e k s ʝ b i s i o n i s t a,eks.ʝ.bi.sio.nis.ta,eksʝbisionista
-41024,41025,exhibicionistas,117,0.252912,esiBisjonistas,VCVCVCVVCVCCVC,5,1,0.713341,,e k s ʝ b i s i o n1 i1 s1 t a s,e k s ʝ b i s i o n i s t a s,eks.ʝ.bi.sio.nis.tas,eksʝbisionistas
-41025,41026,exhibida,73,0.1578,esiBiDa,VCVCVCV,3,6,0.433769,,e k s ʝ b1 i1 d a,e k s ʝ b i d a,eks.ʝ.bi.da,eksʝbida
-41026,41027,exhibidas,27,0.058364,esiBiDas,VCVCVCVC,3,5,0.238645,,e k s ʝ b1 i1 d a s,e k s ʝ b i d a s,eks.ʝ.bi.das,eksʝbidas
-41027,41028,exhibido,156,0.337216,esiBiDo,VCVCVCV,3,4,10.961137,,e k s ʝ b1 i1 d o,e k s ʝ b i d o,eks.ʝ.bi.do,eksʝbido
-41028,41029,exhibidos,38,0.082142,esiBiDos,VCVCVCVC,3,5,0.329434,,e k s ʝ b1 i1 d o s,e k s ʝ b i d o s,eks.ʝ.bi.dos,eksʝbidos
-41029,41030,exhibiendo,213,0.460429,esiBjendo,VCVCVVCCV,3,1,13.064953,,e k s ʝ b1 j1 e1 n1 d o,e k s ʝ b j e n d o,eks.ʝ.bjen.do,eksʝbjendo
-41030,41031,exhibiera,10,0.021616,esiBjera,VCVCVVCV,3,3,0.390536,,e k s ʝ b1 j1 e1 ɾ a,e k s ʝ b j e ɾ a,eks.ʝ.bje.ɾa,eksʝbjeɾa
-41031,41032,exhibieran,10,0.021616,esiBjeran,VCVCVVCVC,3,5,0.06312,,e k s ʝ b1 j1 e1 ɾ a n,e k s ʝ b j e ɾ a n,eks.ʝ.bje.ɾan,eksʝbjeɾan
-41032,41033,exhibieron,48,0.103759,esiBjeron,VCVCVVCVC,3,3,1.705534,,e k s ʝ b1 j1 e1 ɾ o n,e k s ʝ b j e ɾ o n,eks.ʝ.bje.ɾon,eksʝbjeɾon
-41033,41034,exhibió,140,0.30263,esiBjo,VCVCVV,3,2,12.684505,,e k s ʝ b1 j1 o1,e k s ʝ b j o,eks.ʝ.bjo,eksʝbjo
-41034,41035,exhibir,419,0.905727,esiBir,VCVCVC,3,6,7.211952,,e k s ʝ b1 i1 ɾ1,e k s ʝ b i ɾ,eks.ʝ.biɾ,eksʝbiɾ
-41035,41036,exhibirá,43,0.092951,esiBira,VCVCVCV,4,9,1.283774,,e k s ʝ b i ɾ1 a1,e k s ʝ b i ɾ a,eks.ʝ.bi.ɾa,eksʝbiɾa
-41036,41037,exhibirán,21,0.045394,esiBiran,VCVCVCVC,4,5,0.854712,,e k s ʝ b i ɾ1 a1 n1,e k s ʝ b i ɾ a n,eks.ʝ.bi.ɾan,eksʝbiɾan
-41037,41038,exhibiremos,14,0.030263,esiBiremos,VCVCVCVCVC,4,1,1.560704,,e k s ʝ b i ɾ1 e1 m o s,e k s ʝ b i ɾ e m o s,eks.ʝ.bi.ɾe.mos,eksʝbiɾemos
-41038,41039,exhibirla,64,0.138345,esiBirla,VCVCVCCV,3,6,0.482766,,e k s ʝ b1 i1 ɾ1 l a,e k s ʝ b i ɾ l a,eks.ʝ.biɾ.la,eksʝbiɾla
-41039,41040,exhibirle,10,0.021616,esiBirle,VCVCVCCV,3,7,0.490692,,e k s ʝ b1 i1 ɾ1 l e,e k s ʝ b i ɾ l e,eks.ʝ.biɾ.le,eksʝbiɾle
-41040,41041,exhibirlo,140,0.30263,esiBirlo,VCVCVCCV,3,4,1.107841,,e k s ʝ b1 i1 ɾ1 l o,e k s ʝ b i ɾ l o,eks.ʝ.biɾ.lo,eksʝbiɾlo
-41041,41042,exhibirlos,54,0.116729,esiBirlos,VCVCVCCVC,3,5,0.408982,,e k s ʝ b1 i1 ɾ1 l o s,e k s ʝ b i ɾ l o s,eks.ʝ.biɾ.los,eksʝbiɾlos
-41042,41043,exhibirme,146,0.315599,esiBirme,VCVCVCCV,3,5,1.164259,,e k s ʝ b1 i1 ɾ1 m e,e k s ʝ b i ɾ m e,eks.ʝ.biɾ.me,eksʝbiɾme
-41043,41044,exhibirse,303,0.654977,esiBirse,VCVCVCCV,3,5,0.193683,,e k s ʝ b1 i1 ɾ1 s e,e k s ʝ b i ɾ s e,eks.ʝ.biɾ.se,eksʝbiɾse
-41044,41045,exhibirte,180,0.389095,esiBirte,VCVCVCCV,3,6,0.449982,,e k s ʝ b1 i1 ɾ1 t e,e k s ʝ b i ɾ t e,eks.ʝ.biɾ.te,eksʝbiɾte
-41045,41046,exhibo,37,0.079981,esiBo,VCVCV,2,11,1.998142,,e k s ʝ1 b o,e k s ʝ b o,eks.ʝ.bo,eksʝbo
+41011,41012,exhiba,59,0.127537,esiBa,VCVCV,2,14,0.727083,,e k s i1 b a,e k s i b a,eks.i.ba,eksiba
+41012,41013,exhiban,44,0.095112,esiBan,VCVCVC,2,7,0.432328,,e k s i1 b a n,e k s i b a n,eks.i.ban,eksiban
+41013,41014,exhibas,43,0.092951,esiBas,VCVCVC,2,7,0.393727,,e k s i1 b a s,e k s i b a s,eks.i.bas,eksibas
+41014,41015,exhibe,311,0.67227,esiBe,VCVCV,2,11,1.919536,,e k s i1 b e,e k s i b e,eks.i.be,eksibe
+41015,41016,exhiben,186,0.402065,esiBen,VCVCVC,2,8,1.078658,,e k s i1 b e n,e k s i b e n,eks.i.ben,eksiben
+41016,41017,exhibes,46,0.099435,esiBes,VCVCVC,2,7,1.322924,,e k s i1 b e s,e k s i b e s,eks.i.bes,eksibes
+41017,41018,exhibí,19,0.041071,esiBi,VCVCV,3,7,4.233109,,e k s i b1 i1,e k s i b i,eks.i.bi,eksibi
+41018,41019,exhibía,59,0.127537,esiBia,VCVCVV,3,9,0.473159,,e k s i b1 i1 a,e k s i b i a,eks.i.bi.a,eksibia
+41019,41020,exhibían,16,0.034586,esiBian,VCVCVVC,3,5,0.192386,,e k s i b1 i1 a n,e k s i b i a n,eks.i.bi.an,eksibian
+41020,41021,exhibición,3376,7.297697,esiBisjon,VCVCVCVVC,4,0,0.0,,e k s i b i s1 i1 o1 n1,e k s i b i s i o n,eks.i.bi.sion,eksibision
+41021,41022,exhibiciones,238,0.51447,esiBisjones,VCVCVCVVCVC,4,0,0.0,,e k s i b i s1 i1 o1 n e s,e k s i b i s i o n e s,eks.i.bi.sio.nes,eksibisiones
+41022,41023,exhibicionismo,221,0.477722,esiBisjonizmo,VCVCVCVVCVCCV,5,1,0.004323,,e k s i b i s i o n1 i1 s1 m o,e k s i b i s i o n i s m o,eks.i.bi.sio.nis.mo,eksibisionismo
+41023,41024,exhibicionista,330,0.713341,esiBisjonista,VCVCVCVVCVCCV,5,1,0.252912,,e k s i b i s i o n1 i1 s1 t a,e k s i b i s i o n i s t a,eks.i.bi.sio.nis.ta,eksibisionista
+41024,41025,exhibicionistas,117,0.252912,esiBisjonistas,VCVCVCVVCVCCVC,5,1,0.713341,,e k s i b i s i o n1 i1 s1 t a s,e k s i b i s i o n i s t a s,eks.i.bi.sio.nis.tas,eksibisionistas
+41025,41026,exhibida,73,0.1578,esiBiDa,VCVCVCV,3,6,0.433769,,e k s i b1 i1 d a,e k s i b i d a,eks.i.bi.da,eksibida
+41026,41027,exhibidas,27,0.058364,esiBiDas,VCVCVCVC,3,5,0.238645,,e k s i b1 i1 d a s,e k s i b i d a s,eks.i.bi.das,eksibidas
+41027,41028,exhibido,156,0.337216,esiBiDo,VCVCVCV,3,4,10.961137,,e k s i b1 i1 d o,e k s i b i d o,eks.i.bi.do,eksibido
+41028,41029,exhibidos,38,0.082142,esiBiDos,VCVCVCVC,3,5,0.329434,,e k s i b1 i1 d o s,e k s i b i d o s,eks.i.bi.dos,eksibidos
+41029,41030,exhibiendo,213,0.460429,esiBjendo,VCVCVVCCV,3,1,13.064953,,e k s i b1 j1 e1 n1 d o,e k s i b j e n d o,eks.i.bjen.do,eksibjendo
+41030,41031,exhibiera,10,0.021616,esiBjera,VCVCVVCV,3,3,0.390536,,e k s i b1 j1 e1 ɾ a,e k s i b j e ɾ a,eks.i.bje.ɾa,eksibjeɾa
+41031,41032,exhibieran,10,0.021616,esiBjeran,VCVCVVCVC,3,5,0.06312,,e k s i b1 j1 e1 ɾ a n,e k s i b j e ɾ a n,eks.i.bje.ɾan,eksibjeɾan
+41032,41033,exhibieron,48,0.103759,esiBjeron,VCVCVVCVC,3,3,1.705534,,e k s i b1 j1 e1 ɾ o n,e k s i b j e ɾ o n,eks.i.bje.ɾon,eksibjeɾon
+41033,41034,exhibió,140,0.30263,esiBjo,VCVCVV,3,2,12.684505,,e k s i b1 j1 o1,e k s i b j o,eks.i.bjo,eksibjo
+41034,41035,exhibir,419,0.905727,esiBir,VCVCVC,3,6,7.211952,,e k s i b1 i1 ɾ1,e k s i b i ɾ,eks.i.biɾ,eksibiɾ
+41035,41036,exhibirá,43,0.092951,esiBira,VCVCVCV,4,9,1.283774,,e k s i b i ɾ1 a1,e k s i b i ɾ a,eks.i.bi.ɾa,eksibiɾa
+41036,41037,exhibirán,21,0.045394,esiBiran,VCVCVCVC,4,5,0.854712,,e k s i b i ɾ1 a1 n1,e k s i b i ɾ a n,eks.i.bi.ɾan,eksibiɾan
+41037,41038,exhibiremos,14,0.030263,esiBiremos,VCVCVCVCVC,4,1,1.560704,,e k s i b i ɾ1 e1 m o s,e k s i b i ɾ e m o s,eks.i.bi.ɾe.mos,eksibiɾemos
+41038,41039,exhibirla,64,0.138345,esiBirla,VCVCVCCV,3,6,0.482766,,e k s i b1 i1 ɾ1 l a,e k s i b i ɾ l a,eks.i.biɾ.la,eksibiɾla
+41039,41040,exhibirle,10,0.021616,esiBirle,VCVCVCCV,3,7,0.490692,,e k s i b1 i1 ɾ1 l e,e k s i b i ɾ l e,eks.i.biɾ.le,eksibiɾle
+41040,41041,exhibirlo,140,0.30263,esiBirlo,VCVCVCCV,3,4,1.107841,,e k s i b1 i1 ɾ1 l o,e k s i b i ɾ l o,eks.i.biɾ.lo,eksibiɾlo
+41041,41042,exhibirlos,54,0.116729,esiBirlos,VCVCVCCVC,3,5,0.408982,,e k s i b1 i1 ɾ1 l o s,e k s i b i ɾ l o s,eks.i.biɾ.los,eksibiɾlos
+41042,41043,exhibirme,146,0.315599,esiBirme,VCVCVCCV,3,5,1.164259,,e k s i b1 i1 ɾ1 m e,e k s i b i ɾ m e,eks.i.biɾ.me,eksibiɾme
+41043,41044,exhibirse,303,0.654977,esiBirse,VCVCVCCV,3,5,0.193683,,e k s i b1 i1 ɾ1 s e,e k s i b i ɾ s e,eks.i.biɾ.se,eksibiɾse
+41044,41045,exhibirte,180,0.389095,esiBirte,VCVCVCCV,3,6,0.449982,,e k s i b1 i1 ɾ1 t e,e k s i b i ɾ t e,eks.i.biɾ.te,eksibiɾte
+41045,41046,exhibo,37,0.079981,esiBo,VCVCV,2,11,1.998142,,e k s i1 b o,e k s i b o,eks.i.bo,eksibo
 41046,41047,exhorta,23,0.049718,esorta,VCVCCV,2,8,0.080521,,e k s o1 ɾ1 t a,e k s o ɾ t a,eks.oɾ.ta,eksoɾta
 41047,41048,exhortaba,3,0.006485,esortaBa,VCVCCVCV,3,6,0.017654,,e k s o ɾ t1 a1 b a,e k s o ɾ t a b a,eks.oɾ.ta.ba,eksoɾtaba
 41048,41049,exhortando,12,0.02594,esortando,VCVCCVCCV,3,1,0.088627,,e k s o ɾ t1 a1 n1 d o,e k s o ɾ t a n d o,eks.oɾ.tan.do,eksoɾtando
 41049,41050,exhorto,122,0.26372,esorto,VCVCCV,2,5,0.022049,,e k s o1 ɾ1 t o,e k s o ɾ t o,eks.oɾ.to,eksoɾto
 41050,41051,exhortó,37,0.079981,esorto,VCVCCV,3,5,0.022049,,e k s o ɾ t1 o1,e k s o ɾ t o,eks.oɾ.to,eksoɾto
-41051,41052,exhumación,173,0.373964,esumasjon,VCVCVCVVC,4,0,0.0,,e k s w m a s1 i1 o1 n1,e k s w m a s i o n,eks.w.ma.sion,ekswmasion
-41052,41053,exhumado,73,0.1578,esumaDo,VCVCVCV,3,7,0.310967,,e k s w m1 a1 d o,e k s w m a d o,eks.w.ma.do,ekswmado
-41053,41054,exhumamos,12,0.02594,esumamos,VCVCVCVC,3,6,0.233097,,e k s w m1 a1 m o s,e k s w m a m o s,eks.w.ma.mos,ekswmamos
-41054,41055,exhumando,19,0.041071,esumando,VCVCVCCV,3,4,0.167527,,e k s w m1 a1 n1 d o,e k s w m a n d o,eks.w.man.do,ekswmando
-41055,41056,exhumar,206,0.445298,esumar,VCVCVC,3,8,0.206707,,e k s w m1 a1 ɾ1,e k s w m a ɾ,eks.w.maɾ,ekswmaɾ
-41056,41057,exhumaron,21,0.045394,esumaron,VCVCVCVC,3,4,0.114567,,e k s w m1 a1 ɾ o n,e k s w m a ɾ o n,eks.w.ma.ɾon,ekswmaɾon
-41057,41058,exhumó,11,0.023778,esumo,VCVCV,3,12,1.888553,,e k s w m1 o1,e k s w m o,eks.w.mo,ekswmo
+41051,41052,exhumación,173,0.373964,esumasjon,VCVCVCVVC,4,0,0.0,,e k s u m a s1 i1 o1 n1,e k s u m a s i o n,eks.u.ma.sion,eksumasion
+41052,41053,exhumado,73,0.1578,esumaDo,VCVCVCV,3,7,0.310967,,e k s u m1 a1 d o,e k s u m a d o,eks.u.ma.do,eksumado
+41053,41054,exhumamos,12,0.02594,esumamos,VCVCVCVC,3,6,0.233097,,e k s u m1 a1 m o s,e k s u m a m o s,eks.u.ma.mos,eksumamos
+41054,41055,exhumando,19,0.041071,esumando,VCVCVCCV,3,4,0.167527,,e k s u m1 a1 n1 d o,e k s u m a n d o,eks.u.man.do,eksumando
+41055,41056,exhumar,206,0.445298,esumar,VCVCVC,3,8,0.206707,,e k s u m1 a1 ɾ1,e k s u m a ɾ,eks.u.maɾ,eksumaɾ
+41056,41057,exhumaron,21,0.045394,esumaron,VCVCVCVC,3,4,0.114567,,e k s u m1 a1 ɾ o n,e k s u m a ɾ o n,eks.u.ma.ɾon,eksumaɾon
+41057,41058,exhumó,11,0.023778,esumo,VCVCV,3,12,1.888553,,e k s u m1 o1,e k s u m o,eks.u.mo,eksumo
 41058,41059,exige,3289,7.109634,eGsixe,VCCVCV,2,6,1.635281,,e k1 s1 i1 x e,e k s i x e,e.ksi.xe,eksixe
 41059,41060,exigen,915,1.977901,eGsixen,VCCVCVC,2,4,1.983305,,e k1 s1 i1 x e n,e k s i x e n,e.ksi.xen,eksixen
 41060,41061,exigencia,323,0.69821,eGsixensja,VCCVCVCCVV,3,1,2.354026,,e k s i x1 e1 n1 s i a,e k s i x e n s i a,e.ksi.xen.sia,eksixensia
@@ -43817,7 +43817,7 @@
 43815,43816,formados,409,0.884111,formaDos,CVCCVCVC,2,10,1.216355,,f o ɾ m1 a1 d o s,f o ɾ m a d o s,foɾ.ma.dos,foɾmados
 43816,43817,formáis,83,0.179416,formais,CVCCVVC,2,4,18.183176,,f o ɾ m1 a1 i1 s1,f o ɾ m a i s,foɾ.mais,foɾmais
 43817,43818,formal,3618,7.820814,formal,CVCCVC,2,9,59.764066,,f o ɾ m1 a1 l1,f o ɾ m a l,foɾ.mal,foɾmal
-43818,43819,formaldehído,242,0.523117,formaldeiDo,CVCCVCCVVCV,4,0,0.0,,f o ɾ m a l d e ʝ1 d o,f o ɾ m a l d e ʝ d o,foɾ.mal.de.ʝ.do,foɾmaldeʝdo
+43818,43819,formaldehído,242,0.523117,formaldeiDo,CVCCVCCVVCV,4,0,0.0,,f o ɾ m a l d e i1 d o,f o ɾ m a l d e i d o,foɾ.mal.de.i.do,foɾmaldeido
 43819,43820,formales,573,1.23862,formales,CVCCVCVC,2,7,2.391083,,f o ɾ m1 a1 l e s,f o ɾ m a l e s,foɾ.ma.les,foɾmales
 43820,43821,formalice,17,0.036748,formalise,CVCCVCVCV,3,6,0.023778,,f o ɾ m a l1 i1 s e,f o ɾ m a l i s e,foɾ.ma.li.se,foɾmalise
 43821,43822,formalidad,1426,3.082499,formaliDaD,CVCCVCVCVC,4,1,7.931058,,f o ɾ m a l i d1 a1 d1,f o ɾ m a l i d a d,foɾ.ma.li.dad,foɾmalidad
@@ -47481,67 +47481,67 @@
 47479,47480,hexágono,63,0.136183,eGsaGono,VCCVCVCV,2,1,0.017293,,e k1 s1 a1 ɡ o n o,e k s a ɡ o n o,e.ksa.ɡo.no,eksaɡono
 47480,47481,hexagrama,20,0.043233,eGsaGrama,VCCVCCVCV,3,0,0.0,,e k s a ɡ1 ɾ1 a1 m a,e k s a ɡ ɾ a m a,e.ksa.ɡɾa.ma,eksaɡɾama
 47481,47482,hey,130767,282.671195,ei,VV,1,83,1165.170935,,e1 i1,e i,ei,ei
-47482,47483,hiato,21,0.045394,jato,VVCV,1,22,14.243636,,ʝ1 a t o,ʝ a t o,ʝ.a.to,ʝato
-47483,47484,hiberna,25,0.054041,iBerna,VCVCCV,2,10,0.044746,,ʝ b1 e1 ɾ1 n a,ʝ b e ɾ n a,ʝ.beɾ.na,ʝbeɾna
-47484,47485,hibernaban,6,0.01297,iBernaBan,VCVCCVCVC,3,2,0.005405,,ʝ b e ɾ n1 a1 b a n,ʝ b e ɾ n a b a n,ʝ.beɾ.na.ban,ʝbeɾnaban
-47485,47486,hibernación,542,1.171609,iBernasjon,VCVCCVCVVC,4,0,0.0,,ʝ b e ɾ n a s1 i1 o1 n1,ʝ b e ɾ n a s i o n,ʝ.beɾ.na.sion,ʝbeɾnasion
-47486,47487,hibernado,35,0.075657,iBernaDo,VCVCCVCV,3,2,0.006485,,ʝ b e ɾ n1 a1 d o,ʝ b e ɾ n a d o,ʝ.beɾ.na.do,ʝbeɾnado
-47487,47488,hibernan,47,0.101597,iBernan,VCVCCVC,2,3,0.078539,,ʝ b1 e1 ɾ1 n a n,ʝ b e ɾ n a n,ʝ.beɾ.nan,ʝbeɾnan
-47488,47489,hibernando,185,0.399903,iBernando,VCVCCVCCV,3,0,0.0,,ʝ b e ɾ n1 a1 n1 d o,ʝ b e ɾ n a n d o,ʝ.beɾ.nan.do,ʝbeɾnando
-47489,47490,hibernar,82,0.177254,iBernar,VCVCCVC,3,5,0.035019,,ʝ b e ɾ n1 a1 ɾ1,ʝ b e ɾ n a ɾ,ʝ.beɾ.naɾ,ʝbeɾnaɾ
-47490,47491,híbrida,129,0.278852,iBriDa,VCCVCV,1,2,1.486127,,ʝ1 b ɾ i d a,ʝ b ɾ i d a,ʝ.bɾi.da,ʝbɾida
-47491,47492,híbridas,41,0.088627,iBriDas,VCCVCVC,1,2,0.799807,,ʝ1 b ɾ i d a s,ʝ b ɾ i d a s,ʝ.bɾi.das,ʝbɾidas
-47492,47493,híbrido,1334,2.883628,iBriDo,VCCVCV,1,3,0.534646,,ʝ1 b ɾ i d o,ʝ b ɾ i d o,ʝ.bɾi.do,ʝbɾido
-47493,47494,híbridos,611,1.320762,iBriDos,VCCVCVC,1,2,1.486127,,ʝ1 b ɾ i d o s,ʝ b ɾ i d o s,ʝ.bɾi.dos,ʝbɾidos
-47494,47495,hice,151056,326.528711,ise,VCV,1,54,255.530842,,ʝ1 s e,ʝ s e,ʝ.se,ʝse
-47495,47496,hiciera,19740,42.670776,isjera,VCVVCV,2,6,24.721958,,ʝ s1 i1 e1 ɾ a,ʝ s i e ɾ a,ʝ.sie.ɾa,ʝsieɾa
-47496,47497,hicierais,132,0.285336,isjerais,VCVVCVVC,2,2,7.719217,,ʝ s1 i1 e1 ɾ a i s,ʝ s i e ɾ a i s,ʝ.sie.ɾais,ʝsieɾais
-47497,47498,hiciéramos,1857,4.014166,isjeramos,VCVVCVCVC,2,3,1.87126,,ʝ s1 i1 e1 ɾ a m o s,ʝ s i e ɾ a m o s,ʝ.sie.ɾa.mos,ʝsieɾamos
-47498,47499,hicieran,3504,7.574387,isjeran,VCVVCVC,2,7,23.447928,,ʝ s1 i1 e1 ɾ a n,ʝ s i e ɾ a n,ʝ.sie.ɾan,ʝsieɾan
-47499,47500,hicieras,7057,15.254694,isjeras,VCVVCVC,2,7,9.415487,,ʝ s1 i1 e1 ɾ a s,ʝ s i e ɾ a s,ʝ.sie.ɾas,ʝsieɾas
-47500,47501,hicieron,46627,100.790794,isjeron,VCVVCVC,2,5,3.415391,,ʝ s1 i1 e1 ɾ o n,ʝ s i e ɾ o n,ʝ.sie.ɾon,ʝsieɾon
-47501,47502,hiciese,1916,4.141702,isjese,VCVVCV,2,5,0.59791,,ʝ s1 i1 e1 s e,ʝ s i e s e,ʝ.sie.se,ʝsiese
-47502,47503,hiciésemos,158,0.341539,isjesemos,VCVVCVCVC,2,2,0.032425,,ʝ s1 i1 e1 s e m o s,ʝ s i e s e m o s,ʝ.sie.se.mos,ʝsiesemos
-47503,47504,hiciesen,219,0.473399,isjesen,VCVVCVC,2,5,1.046666,,ʝ s1 i1 e1 s e n,ʝ s i e s e n,ʝ.sie.sen,ʝsiesen
-47504,47505,hicieses,425,0.918697,isjeses,VCVVCVC,2,6,0.850605,,ʝ s1 i1 e1 s e s,ʝ s i e s e s,ʝ.sie.ses,ʝsieses
-47505,47506,hicimos,37974,82.086122,isimos,VCVCVC,2,6,0.664344,,ʝ s1 i1 m o s,ʝ s i m o s,ʝ.si.mos,ʝsimos
-47506,47507,hiciste,112017,242.140442,isiste,VCVCCV,2,5,5.075531,,ʝ s1 i1 s1 t e,ʝ s i s t e,ʝ.sis.te,ʝsiste
-47507,47508,hicisteis,1315,2.842557,isisteis,VCVCCVVC,2,2,0.905727,,ʝ s1 i1 s1 t e i s,ʝ s i s t e i s,ʝ.sis.teis,ʝsisteis
-47508,47509,hico,49,0.10592,iko,VCV,1,29,66.701506,,ʝ1 k o,ʝ k o,ʝ.ko,ʝko
-47509,47510,hidalgo,273,0.590128,iDalGo,VCVCCV,2,3,0.043233,,ʝ d1 a1 l1 ɡ o,ʝ d a l ɡ o,ʝ.dal.ɡo,ʝdalɡo
-47510,47511,hidra,222,0.479884,iDra,VCCV,1,9,61.578402,,ʝ1 d ɾ a,ʝ d ɾ a,ʝ.dɾa,ʝdɾa
-47511,47512,hidrante,89,0.192386,iDrante,VCCVCCV,2,3,0.028822,,ʝ d1 ɾ1 a1 n1 t e,ʝ d ɾ a n t e,ʝ.dɾan.te,ʝdɾante
-47512,47513,hidrantes,24,0.051879,iDrantes,VCCVCCVC,2,2,0.100517,,ʝ d1 ɾ1 a1 n1 t e s,ʝ d ɾ a n t e s,ʝ.dɾan.tes,ʝdɾantes
-47513,47514,hidras,4,0.008647,iDras,VCCVC,1,10,9.975105,,ʝ1 d ɾ a s,ʝ d ɾ a s,ʝ.dɾas,ʝdɾas
-47514,47515,hidrata,16,0.034586,iDrata,VCCVCV,2,7,0.050644,,ʝ d1 ɾ1 a1 t a,ʝ d ɾ a t a,ʝ.dɾa.ta,ʝdɾata
-47515,47516,hidratación,121,0.261558,iDratasjon,VCCVCVCVVC,4,0,0.0,,ʝ d ɾ a t a s1 i1 o1 n1,ʝ d ɾ a t a s i o n,ʝ.dɾa.ta.sion,ʝdɾatasion
-47516,47517,hidratada,68,0.146992,iDrataDa,VCCVCVCV,3,4,0.073496,,ʝ d ɾ a t1 a1 d a,ʝ d ɾ a t a d a,ʝ.dɾa.ta.da,ʝdɾatada
-47517,47518,hidratado,122,0.26372,iDrataDo,VCCVCVCV,3,2,0.097274,,ʝ d ɾ a t1 a1 d o,ʝ d ɾ a t a d o,ʝ.dɾa.ta.do,ʝdɾatado
-47518,47519,hidratados,22,0.047556,iDrataDos,VCCVCVCVC,3,3,0.099435,,ʝ d ɾ a t1 a1 d o s,ʝ d ɾ a t a d o s,ʝ.dɾa.ta.dos,ʝdɾatados
-47519,47520,hidratando,38,0.082142,iDratando,VCCVCVCCV,3,0,0.0,,ʝ d ɾ a t1 a1 n1 d o,ʝ d ɾ a t a n d o,ʝ.dɾa.tan.do,ʝdɾatando
-47520,47521,hidratante,220,0.475561,iDratante,VCCVCVCCV,3,4,0.073496,,ʝ d ɾ a t1 a1 n1 t e,ʝ d ɾ a t a n t e,ʝ.dɾa.tan.te,ʝdɾatante
-47521,47522,hidratantes,16,0.034586,iDratantes,VCCVCVCCVC,3,1,0.475561,,ʝ d ɾ a t1 a1 n1 t e s,ʝ d ɾ a t a n t e s,ʝ.dɾa.tan.tes,ʝdɾatantes
-47522,47523,hidratarse,68,0.146992,iDratarse,VCCVCVCCV,3,1,0.159961,,ʝ d ɾ a t1 a1 ɾ1 s e,ʝ d ɾ a t a ɾ s e,ʝ.dɾa.taɾ.se,ʝdɾataɾse
-47523,47524,hidratarte,74,0.159961,iDratarte,VCCVCVCCV,3,4,0.180497,,ʝ d ɾ a t1 a1 ɾ1 t e,ʝ d ɾ a t a ɾ t e,ʝ.dɾa.taɾ.te,ʝdɾataɾte
-47524,47525,hidrátate,44,0.095112,iDratate,VCCVCVCV,2,3,0.213282,,ʝ d1 ɾ1 a1 t a t e,ʝ d ɾ a t a t e,ʝ.dɾa.ta.te,ʝdɾatate
-47525,47526,hidrato,100,0.216164,iDrato,VCCVCV,2,4,0.072955,,ʝ d1 ɾ1 a1 t o,ʝ d ɾ a t o,ʝ.dɾa.to,ʝdɾato
-47526,47527,hidratos,103,0.222649,iDratos,VCCVCVC,2,4,0.060526,,ʝ d1 ɾ1 a1 t o s,ʝ d ɾ a t o s,ʝ.dɾa.tos,ʝdɾatos
-47527,47528,hidráulica,451,0.9749,iDraulika,VCCVVCVCV,2,2,0.504743,,ʝ d1 ɾ1 a1 u1 l i k a,ʝ d ɾ a u l i k a,ʝ.dɾau.li.ka,ʝdɾaulika
-47528,47529,hidráulicas,78,0.168608,iDraulikas,VCCVVCVCVC,2,2,0.692806,,ʝ d1 ɾ1 a1 u1 l i k a s,ʝ d ɾ a u l i k a s,ʝ.dɾau.li.kas,ʝdɾaulikas
-47529,47530,hidráulico,389,0.840878,iDrauliko,VCCVVCVCV,2,2,0.692806,,ʝ d1 ɾ1 a1 u1 l i k o,ʝ d ɾ a u l i k o,ʝ.dɾau.li.ko,ʝdɾauliko
-47530,47531,hidráulicos,190,0.410712,iDraulikos,VCCVVCVCVC,2,2,0.504743,,ʝ d1 ɾ1 a1 u1 l i k o s,ʝ d ɾ a u l i k o s,ʝ.dɾau.li.kos,ʝdɾaulikos
-47531,47532,hídrica,5,0.010808,iDrika,VCCVCV,1,1,0.010808,,ʝ1 d ɾ i k a,ʝ d ɾ i k a,ʝ.dɾi.ka,ʝdɾika
-47532,47533,hidroavión,174,0.376125,iDroaBjon,VCCVVCVVC,4,0,0.0,,ʝ d ɾ o a b1 j1 o1 n1,ʝ d ɾ o a b j o n,ʝ.dɾo.a.bjon,ʝdɾoabjon
-47533,47534,hidrocarburo,26,0.056203,iDrokarBuro,VCCVCVCCVCV,4,1,0.242104,,ʝ d ɾ o k a ɾ b1 u1 ɾ o,ʝ d ɾ o k a ɾ b u ɾ o,ʝ.dɾo.kaɾ.bu.ɾo,ʝdɾokaɾbuɾo
-47534,47535,hidrocarburos,112,0.242104,iDrokarBuros,VCCVCVCCVCVC,4,1,0.056203,,ʝ d ɾ o k a ɾ b1 u1 ɾ o s,ʝ d ɾ o k a ɾ b u ɾ o s,ʝ.dɾo.kaɾ.bu.ɾos,ʝdɾokaɾbuɾos
-47535,47536,hidroeléctrica,107,0.231295,iDroelektrika,VCCVVCVCCCVCV,4,2,0.031344,,ʝ d ɾ o e l1 e1 k1 t ɾ i k a,ʝ d ɾ o e l e k t ɾ i k a,ʝ.dɾo.e.lek.tɾi.ka,ʝdɾoelektɾika
-47536,47537,hidrofobia,36,0.077819,iDrofoBja,VCCVCVCVV,3,0,0.0,,ʝ d ɾ o f1 o1 b j a,ʝ d ɾ o f o b j a,ʝ.dɾo.fo.bja,ʝdɾofobja
-47537,47538,hidrógeno,1741,3.763415,iDroxeno,VCCVCVCV,2,1,0.006485,,ʝ d1 ɾ1 o1 x e n o,ʝ d ɾ o x e n o,ʝ.dɾo.xe.no,ʝdɾoxeno
-47538,47539,hidromasaje,115,0.248589,iDromasaxe,VCCVCVCVCV,4,1,0.030263,,ʝ d ɾ o m a s1 a1 x e,ʝ d ɾ o m a s a x e,ʝ.dɾo.ma.sa.xe,ʝdɾomasaxe
-47539,47540,hidromasajes,14,0.030263,iDromasaxes,VCCVCVCVCVC,4,1,0.248589,,ʝ d ɾ o m a s1 a1 x e s,ʝ d ɾ o m a s a x e s,ʝ.dɾo.ma.sa.xes,ʝdɾomasaxes
-47540,47541,hidropónica,53,0.114567,iDroponika,VCCVCVCVCV,3,2,0.103759,,ʝ d ɾ o p1 o1 n i k a,ʝ d ɾ o p o n i k a,ʝ.dɾo.po.ni.ka,ʝdɾoponika
-47541,47542,hidroterapia,72,0.155638,iDroterapja,VCCVCVCVCVV,4,0,0.0,,ʝ d ɾ o t e ɾ1 a1 p j a,ʝ d ɾ o t e ɾ a p j a,ʝ.dɾo.te.ɾa.pja,ʝdɾoteɾapja
-47542,47543,hidróxido,181,0.391257,iDroGsiDo,VCCVCCVCV,2,2,0.008647,,ʝ d1 ɾ1 o1 k s i d o,ʝ d ɾ o k s i d o,ʝ.dɾo.ksi.do,ʝdɾoksido
+47482,47483,hiato,21,0.045394,jato,VVCV,1,22,14.243636,,i1 a t o,i a t o,i.a.to,iato
+47483,47484,hiberna,25,0.054041,iBerna,VCVCCV,2,10,0.044746,,i b1 e1 ɾ1 n a,i b e ɾ n a,i.beɾ.na,ibeɾna
+47484,47485,hibernaban,6,0.01297,iBernaBan,VCVCCVCVC,3,2,0.005405,,i b e ɾ n1 a1 b a n,i b e ɾ n a b a n,i.beɾ.na.ban,ibeɾnaban
+47485,47486,hibernación,542,1.171609,iBernasjon,VCVCCVCVVC,4,0,0.0,,i b e ɾ n a s1 i1 o1 n1,i b e ɾ n a s i o n,i.beɾ.na.sion,ibeɾnasion
+47486,47487,hibernado,35,0.075657,iBernaDo,VCVCCVCV,3,2,0.006485,,i b e ɾ n1 a1 d o,i b e ɾ n a d o,i.beɾ.na.do,ibeɾnado
+47487,47488,hibernan,47,0.101597,iBernan,VCVCCVC,2,3,0.078539,,i b1 e1 ɾ1 n a n,i b e ɾ n a n,i.beɾ.nan,ibeɾnan
+47488,47489,hibernando,185,0.399903,iBernando,VCVCCVCCV,3,0,0.0,,i b e ɾ n1 a1 n1 d o,i b e ɾ n a n d o,i.beɾ.nan.do,ibeɾnando
+47489,47490,hibernar,82,0.177254,iBernar,VCVCCVC,3,5,0.035019,,i b e ɾ n1 a1 ɾ1,i b e ɾ n a ɾ,i.beɾ.naɾ,ibeɾnaɾ
+47490,47491,híbrida,129,0.278852,iBriDa,VCCVCV,1,2,1.486127,,i1 b ɾ i d a,i b ɾ i d a,i.bɾi.da,ibɾida
+47491,47492,híbridas,41,0.088627,iBriDas,VCCVCVC,1,2,0.799807,,i1 b ɾ i d a s,i b ɾ i d a s,i.bɾi.das,ibɾidas
+47492,47493,híbrido,1334,2.883628,iBriDo,VCCVCV,1,3,0.534646,,i1 b ɾ i d o,i b ɾ i d o,i.bɾi.do,ibɾido
+47493,47494,híbridos,611,1.320762,iBriDos,VCCVCVC,1,2,1.486127,,i1 b ɾ i d o s,i b ɾ i d o s,i.bɾi.dos,ibɾidos
+47494,47495,hice,151056,326.528711,ise,VCV,1,54,255.530842,,i1 s e,i s e,i.se,ise
+47495,47496,hiciera,19740,42.670776,isjera,VCVVCV,2,6,24.721958,,i s1 i1 e1 ɾ a,i s i e ɾ a,i.sie.ɾa,isieɾa
+47496,47497,hicierais,132,0.285336,isjerais,VCVVCVVC,2,2,7.719217,,i s1 i1 e1 ɾ a i s,i s i e ɾ a i s,i.sie.ɾais,isieɾais
+47497,47498,hiciéramos,1857,4.014166,isjeramos,VCVVCVCVC,2,3,1.87126,,i s1 i1 e1 ɾ a m o s,i s i e ɾ a m o s,i.sie.ɾa.mos,isieɾamos
+47498,47499,hicieran,3504,7.574387,isjeran,VCVVCVC,2,7,23.447928,,i s1 i1 e1 ɾ a n,i s i e ɾ a n,i.sie.ɾan,isieɾan
+47499,47500,hicieras,7057,15.254694,isjeras,VCVVCVC,2,7,9.415487,,i s1 i1 e1 ɾ a s,i s i e ɾ a s,i.sie.ɾas,isieɾas
+47500,47501,hicieron,46627,100.790794,isjeron,VCVVCVC,2,5,3.415391,,i s1 i1 e1 ɾ o n,i s i e ɾ o n,i.sie.ɾon,isieɾon
+47501,47502,hiciese,1916,4.141702,isjese,VCVVCV,2,5,0.59791,,i s1 i1 e1 s e,i s i e s e,i.sie.se,isiese
+47502,47503,hiciésemos,158,0.341539,isjesemos,VCVVCVCVC,2,2,0.032425,,i s1 i1 e1 s e m o s,i s i e s e m o s,i.sie.se.mos,isiesemos
+47503,47504,hiciesen,219,0.473399,isjesen,VCVVCVC,2,5,1.046666,,i s1 i1 e1 s e n,i s i e s e n,i.sie.sen,isiesen
+47504,47505,hicieses,425,0.918697,isjeses,VCVVCVC,2,6,0.850605,,i s1 i1 e1 s e s,i s i e s e s,i.sie.ses,isieses
+47505,47506,hicimos,37974,82.086122,isimos,VCVCVC,2,6,0.664344,,i s1 i1 m o s,i s i m o s,i.si.mos,isimos
+47506,47507,hiciste,112017,242.140442,isiste,VCVCCV,2,5,5.075531,,i s1 i1 s1 t e,i s i s t e,i.sis.te,isiste
+47507,47508,hicisteis,1315,2.842557,isisteis,VCVCCVVC,2,2,0.905727,,i s1 i1 s1 t e i s,i s i s t e i s,i.sis.teis,isisteis
+47508,47509,hico,49,0.10592,iko,VCV,1,29,66.701506,,i1 k o,i k o,i.ko,iko
+47509,47510,hidalgo,273,0.590128,iDalGo,VCVCCV,2,3,0.043233,,i d1 a1 l1 ɡ o,i d a l ɡ o,i.dal.ɡo,idalɡo
+47510,47511,hidra,222,0.479884,iDra,VCCV,1,9,61.578402,,i1 d ɾ a,i d ɾ a,i.dɾa,idɾa
+47511,47512,hidrante,89,0.192386,iDrante,VCCVCCV,2,3,0.028822,,i d1 ɾ1 a1 n1 t e,i d ɾ a n t e,i.dɾan.te,idɾante
+47512,47513,hidrantes,24,0.051879,iDrantes,VCCVCCVC,2,2,0.100517,,i d1 ɾ1 a1 n1 t e s,i d ɾ a n t e s,i.dɾan.tes,idɾantes
+47513,47514,hidras,4,0.008647,iDras,VCCVC,1,10,9.975105,,i1 d ɾ a s,i d ɾ a s,i.dɾas,idɾas
+47514,47515,hidrata,16,0.034586,iDrata,VCCVCV,2,7,0.050644,,i d1 ɾ1 a1 t a,i d ɾ a t a,i.dɾa.ta,idɾata
+47515,47516,hidratación,121,0.261558,iDratasjon,VCCVCVCVVC,4,0,0.0,,i d ɾ a t a s1 i1 o1 n1,i d ɾ a t a s i o n,i.dɾa.ta.sion,idɾatasion
+47516,47517,hidratada,68,0.146992,iDrataDa,VCCVCVCV,3,4,0.073496,,i d ɾ a t1 a1 d a,i d ɾ a t a d a,i.dɾa.ta.da,idɾatada
+47517,47518,hidratado,122,0.26372,iDrataDo,VCCVCVCV,3,2,0.097274,,i d ɾ a t1 a1 d o,i d ɾ a t a d o,i.dɾa.ta.do,idɾatado
+47518,47519,hidratados,22,0.047556,iDrataDos,VCCVCVCVC,3,3,0.099435,,i d ɾ a t1 a1 d o s,i d ɾ a t a d o s,i.dɾa.ta.dos,idɾatados
+47519,47520,hidratando,38,0.082142,iDratando,VCCVCVCCV,3,0,0.0,,i d ɾ a t1 a1 n1 d o,i d ɾ a t a n d o,i.dɾa.tan.do,idɾatando
+47520,47521,hidratante,220,0.475561,iDratante,VCCVCVCCV,3,4,0.073496,,i d ɾ a t1 a1 n1 t e,i d ɾ a t a n t e,i.dɾa.tan.te,idɾatante
+47521,47522,hidratantes,16,0.034586,iDratantes,VCCVCVCCVC,3,1,0.475561,,i d ɾ a t1 a1 n1 t e s,i d ɾ a t a n t e s,i.dɾa.tan.tes,idɾatantes
+47522,47523,hidratarse,68,0.146992,iDratarse,VCCVCVCCV,3,1,0.159961,,i d ɾ a t1 a1 ɾ1 s e,i d ɾ a t a ɾ s e,i.dɾa.taɾ.se,idɾataɾse
+47523,47524,hidratarte,74,0.159961,iDratarte,VCCVCVCCV,3,4,0.180497,,i d ɾ a t1 a1 ɾ1 t e,i d ɾ a t a ɾ t e,i.dɾa.taɾ.te,idɾataɾte
+47524,47525,hidrátate,44,0.095112,iDratate,VCCVCVCV,2,3,0.213282,,i d1 ɾ1 a1 t a t e,i d ɾ a t a t e,i.dɾa.ta.te,idɾatate
+47525,47526,hidrato,100,0.216164,iDrato,VCCVCV,2,4,0.072955,,i d1 ɾ1 a1 t o,i d ɾ a t o,i.dɾa.to,idɾato
+47526,47527,hidratos,103,0.222649,iDratos,VCCVCVC,2,4,0.060526,,i d1 ɾ1 a1 t o s,i d ɾ a t o s,i.dɾa.tos,idɾatos
+47527,47528,hidráulica,451,0.9749,iDraulika,VCCVVCVCV,2,2,0.504743,,i d1 ɾ1 a1 u1 l i k a,i d ɾ a u l i k a,i.dɾau.li.ka,idɾaulika
+47528,47529,hidráulicas,78,0.168608,iDraulikas,VCCVVCVCVC,2,2,0.692806,,i d1 ɾ1 a1 u1 l i k a s,i d ɾ a u l i k a s,i.dɾau.li.kas,idɾaulikas
+47529,47530,hidráulico,389,0.840878,iDrauliko,VCCVVCVCV,2,2,0.692806,,i d1 ɾ1 a1 u1 l i k o,i d ɾ a u l i k o,i.dɾau.li.ko,idɾauliko
+47530,47531,hidráulicos,190,0.410712,iDraulikos,VCCVVCVCVC,2,2,0.504743,,i d1 ɾ1 a1 u1 l i k o s,i d ɾ a u l i k o s,i.dɾau.li.kos,idɾaulikos
+47531,47532,hídrica,5,0.010808,iDrika,VCCVCV,1,1,0.010808,,i1 d ɾ i k a,i d ɾ i k a,i.dɾi.ka,idɾika
+47532,47533,hidroavión,174,0.376125,iDroaBjon,VCCVVCVVC,4,0,0.0,,i d ɾ o a b1 j1 o1 n1,i d ɾ o a b j o n,i.dɾo.a.bjon,idɾoabjon
+47533,47534,hidrocarburo,26,0.056203,iDrokarBuro,VCCVCVCCVCV,4,1,0.242104,,i d ɾ o k a ɾ b1 u1 ɾ o,i d ɾ o k a ɾ b u ɾ o,i.dɾo.kaɾ.bu.ɾo,idɾokaɾbuɾo
+47534,47535,hidrocarburos,112,0.242104,iDrokarBuros,VCCVCVCCVCVC,4,1,0.056203,,i d ɾ o k a ɾ b1 u1 ɾ o s,i d ɾ o k a ɾ b u ɾ o s,i.dɾo.kaɾ.bu.ɾos,idɾokaɾbuɾos
+47535,47536,hidroeléctrica,107,0.231295,iDroelektrika,VCCVVCVCCCVCV,4,2,0.031344,,i d ɾ o e l1 e1 k1 t ɾ i k a,i d ɾ o e l e k t ɾ i k a,i.dɾo.e.lek.tɾi.ka,idɾoelektɾika
+47536,47537,hidrofobia,36,0.077819,iDrofoBja,VCCVCVCVV,3,0,0.0,,i d ɾ o f1 o1 b j a,i d ɾ o f o b j a,i.dɾo.fo.bja,idɾofobja
+47537,47538,hidrógeno,1741,3.763415,iDroxeno,VCCVCVCV,2,1,0.006485,,i d1 ɾ1 o1 x e n o,i d ɾ o x e n o,i.dɾo.xe.no,idɾoxeno
+47538,47539,hidromasaje,115,0.248589,iDromasaxe,VCCVCVCVCV,4,1,0.030263,,i d ɾ o m a s1 a1 x e,i d ɾ o m a s a x e,i.dɾo.ma.sa.xe,idɾomasaxe
+47539,47540,hidromasajes,14,0.030263,iDromasaxes,VCCVCVCVCVC,4,1,0.248589,,i d ɾ o m a s1 a1 x e s,i d ɾ o m a s a x e s,i.dɾo.ma.sa.xes,idɾomasaxes
+47540,47541,hidropónica,53,0.114567,iDroponika,VCCVCVCVCV,3,2,0.103759,,i d ɾ o p1 o1 n i k a,i d ɾ o p o n i k a,i.dɾo.po.ni.ka,idɾoponika
+47541,47542,hidroterapia,72,0.155638,iDroterapja,VCCVCVCVCVV,4,0,0.0,,i d ɾ o t e ɾ1 a1 p j a,i d ɾ o t e ɾ a p j a,i.dɾo.te.ɾa.pja,idɾoteɾapja
+47542,47543,hidróxido,181,0.391257,iDroGsiDo,VCCVCCVCV,2,2,0.008647,,i d1 ɾ1 o1 k s i d o,i d ɾ o k s i d o,i.dɾo.ksi.do,idɾoksido
 47543,47544,hiede,98,0.211841,HeDe,CVCV,1,23,3.764449,,ʝ1 e1 d e,ʝ e d e,ʝe.de,ʝede
 47544,47545,hiedra,661,1.428844,HeDra,CVCCV,1,9,0.109523,,ʝ1 e1 d ɾ a,ʝ e d ɾ a,ʝe.dɾa,ʝedɾa
 47545,47546,hiel,129,0.278852,Hel,CVC,1,19,1462.351482,,ʝ1 e1 l1,ʝ e l,ʝel,ʝel
@@ -47572,43 +47572,43 @@
 47570,47571,hierva,370,0.799807,HerBa,CVCCV,1,14,0.659763,,ʝ1 e1 ɾ1 b a,ʝ e ɾ b a,ʝeɾ.ba,ʝeɾba
 47571,47572,hierve,771,1.666625,HerBe,CVCCV,1,11,2.905637,,ʝ1 e1 ɾ1 b e,ʝ e ɾ b e,ʝeɾ.be,ʝeɾbe
 47572,47573,hierven,116,0.25075,HerBen,CVCCVC,1,6,0.569953,,ʝ1 e1 ɾ1 b e n,ʝ e ɾ b e n,ʝeɾ.ben,ʝeɾben
-47573,47574,hígado,7326,15.836176,iGaDo,VCVCV,1,4,0.820342,,ʝ1 ɡ a d o,ʝ ɡ a d o,ʝ.ɡa.do,ʝɡado
-47574,47575,hígados,273,0.590128,iGaDos,VCVCVC,1,4,4.168183,,ʝ1 ɡ a d o s,ʝ ɡ a d o s,ʝ.ɡa.dos,ʝɡados
-47575,47576,higiene,1547,3.344057,ixjene,VCVVCV,2,1,0.004323,,ʝ x1 i1 e1 n e,ʝ x i e n e,ʝ.xie.ne,ʝxiene
-47576,47577,higiénica,83,0.179416,ixjenika,VCVVCVCV,2,2,1.993032,,ʝ x1 i1 e1 n i k a,ʝ x i e n i k a,ʝ.xie.ni.ka,ʝxienika
-47577,47578,higiénicas,36,0.077819,ixjenikas,VCVVCVCVC,2,3,0.100156,,ʝ x1 i1 e1 n i k a s,ʝ x i e n i k a s,ʝ.xie.ni.kas,ʝxienikas
-47578,47579,higiénico,1808,3.908245,ixjeniko,VCVVCVCV,2,2,0.148073,,ʝ x1 i1 e1 n i k o,ʝ x i e n i k o,ʝ.xie.ni.ko,ʝxieniko
-47579,47580,higiénicos,54,0.116729,ixjenikos,VCVVCVCVC,2,2,1.993032,,ʝ x1 i1 e1 n i k o s,ʝ x i e n i k o s,ʝ.xie.ni.kos,ʝxienikos
-47580,47581,higienista,137,0.296145,ixjenista,VCVVCVCCV,3,1,0.030263,,ʝ x i e n1 i1 s1 t a,ʝ x i e n i s t a,ʝ.xie.nis.ta,ʝxienista
-47581,47582,higo,334,0.721988,iGo,VCV,1,30,74.253852,,ʝ1 ɡ o,ʝ ɡ o,ʝ.ɡo,ʝɡo
-47582,47583,higos,545,1.178094,iGos,VCVC,1,11,20.963783,,ʝ1 ɡ o s,ʝ ɡ o s,ʝ.ɡos,ʝɡos
-47583,47584,higuera,184,0.397742,iGera,VCVCV,2,4,1.58178,,ʝ ɡ1 e1 ɾ a,ʝ ɡ e ɾ a,ʝ.ɡe.ɾa,ʝɡeɾa
-47584,47585,higueras,55,0.11889,iGeras,VCVCVC,2,4,0.428545,,ʝ ɡ1 e1 ɾ a s,ʝ ɡ e ɾ a s,ʝ.ɡe.ɾas,ʝɡeɾas
-47585,47586,hija,125908,272.167785,ixa,VCV,1,26,45.359773,,ʝ1 x a,ʝ x a,ʝ.xa,ʝxa
-47586,47587,hijas,10363,22.401077,ixas,VCVC,1,20,30.069495,,ʝ1 x a s,ʝ x a s,ʝ.xas,ʝxas
-47587,47588,hijastra,549,1.18674,ixastra,VCVCCCV,2,2,0.557704,,ʝ x1 a1 s1 t ɾ a,ʝ x a s t ɾ a,ʝ.xas.tɾa,ʝxastɾa
-47588,47589,hijastro,498,1.076497,ixastro,VCVCCCV,2,2,0.703613,,ʝ x1 a1 s1 t ɾ o,ʝ x a s t ɾ o,ʝ.xas.tɾo,ʝxastɾo
-47589,47590,hijastros,102,0.220487,ixastros,VCVCCCVC,2,2,0.557704,,ʝ x1 a1 s1 t ɾ o s,ʝ x a s t ɾ o s,ʝ.xas.tɾos,ʝxastɾos
-47590,47591,hijita,1859,4.018489,ixita,VCVCV,2,8,1.165394,,ʝ x1 i1 t a,ʝ x i t a,ʝ.xi.ta,ʝxita
-47591,47592,hijitas,56,0.121052,ixitas,VCVCVC,2,8,0.717665,,ʝ x1 i1 t a s,ʝ x i t a s,ʝ.xi.tas,ʝxitas
-47592,47593,hijito,1616,3.49321,ixito,VCVCV,2,12,0.631019,,ʝ x1 i1 t o,ʝ x i t o,ʝ.xi.to,ʝxito
-47593,47594,hijitos,193,0.417197,ixitos,VCVCVC,2,5,1.40031,,ʝ x1 i1 t o s,ʝ x i t o s,ʝ.xi.tos,ʝxitos
-47594,47595,hijo,311843,674.092343,ixo,VCV,1,27,79.682298,,ʝ1 x o,ʝ x o,ʝ.xo,ʝxo
-47595,47596,hijos,96864,209.38511,ixos,VCVC,1,14,71.404223,,ʝ1 x o s,ʝ x o s,ʝ.xos,ʝxos
-47596,47597,hila,60,0.129698,ila,VCV,1,56,424.703535,,ʝ1 l a,ʝ l a,ʝ.la,ʝla
-47597,47598,hilachas,13,0.028101,ilaCas,VCVCVC,2,3,0.012249,,ʝ l1 a1 t ͡ ʃ a s,ʝ l a t ͡ ʃ a s,ʝ.la.t͡ʃas,ʝlat͡ʃas
-47598,47599,hilado,77,0.166446,ilaDo,VCVCV,2,12,34.327926,,ʝ l1 a1 d o,ʝ l a d o,ʝ.la.do,ʝlado
-47599,47600,hilan,14,0.030263,ilan,VCVC,1,28,11.897204,,ʝ1 l a n,ʝ l a n,ʝ.lan,ʝlan
-47600,47601,hilandería,22,0.047556,ilanderia,VCVCCVCVV,4,2,0.027021,,ʝ l a n d e ɾ1 i1 a,ʝ l a n d e ɾ i a,ʝ.lan.de.ɾi.a,ʝlandeɾia
-47601,47602,hilando,26,0.056203,ilando,VCVCCV,2,9,0.981385,,ʝ l1 a1 n1 d o,ʝ l a n d o,ʝ.lan.do,ʝlando
-47602,47603,hilar,117,0.252912,ilar,VCVC,2,17,0.499212,,ʝ l1 a1 ɾ1,ʝ l a ɾ,ʝ.laɾ,ʝlaɾ
-47603,47604,hilarante,454,0.981385,ilarante,VCVCVCCV,3,1,0.092951,,ʝ l a ɾ1 a1 n1 t e,ʝ l a ɾ a n t e,ʝ.la.ɾan.te,ʝlaɾante
-47604,47605,hilera,566,1.223488,ilera,VCVCV,2,8,0.253182,,ʝ l1 e1 ɾ a,ʝ l e ɾ a,ʝ.le.ɾa,ʝleɾa
-47605,47606,hileras,256,0.55338,ileras,VCVCVC,2,5,0.338513,,ʝ l1 e1 ɾ a s,ʝ l e ɾ a s,ʝ.le.ɾas,ʝleɾas
-47606,47607,hiles,16,0.034586,iles,VCVC,1,41,24.942849,,ʝ1 l e s,ʝ l e s,ʝ.les,ʝles
-47607,47608,hilo,4800,10.375873,ilo,VCV,1,45,349.138362,,ʝ1 l o,ʝ l o,ʝ.lo,ʝlo
-47608,47609,hilos,1851,4.001196,ilos,VCVC,1,28,278.723345,,ʝ1 l o s,ʝ l o s,ʝ.los,ʝlos
-47609,47610,himen,164,0.354509,imen,VCVC,1,15,2.820796,,ʝ1 m e n,ʝ m e n,ʝ.men,ʝmen
+47573,47574,hígado,7326,15.836176,iGaDo,VCVCV,1,4,0.820342,,i1 ɡ a d o,i ɡ a d o,i.ɡa.do,iɡado
+47574,47575,hígados,273,0.590128,iGaDos,VCVCVC,1,4,4.168183,,i1 ɡ a d o s,i ɡ a d o s,i.ɡa.dos,iɡados
+47575,47576,higiene,1547,3.344057,ixjene,VCVVCV,2,1,0.004323,,i x1 i1 e1 n e,i x i e n e,i.xie.ne,ixiene
+47576,47577,higiénica,83,0.179416,ixjenika,VCVVCVCV,2,2,1.993032,,i x1 i1 e1 n i k a,i x i e n i k a,i.xie.ni.ka,ixienika
+47577,47578,higiénicas,36,0.077819,ixjenikas,VCVVCVCVC,2,3,0.100156,,i x1 i1 e1 n i k a s,i x i e n i k a s,i.xie.ni.kas,ixienikas
+47578,47579,higiénico,1808,3.908245,ixjeniko,VCVVCVCV,2,2,0.148073,,i x1 i1 e1 n i k o,i x i e n i k o,i.xie.ni.ko,ixieniko
+47579,47580,higiénicos,54,0.116729,ixjenikos,VCVVCVCVC,2,2,1.993032,,i x1 i1 e1 n i k o s,i x i e n i k o s,i.xie.ni.kos,ixienikos
+47580,47581,higienista,137,0.296145,ixjenista,VCVVCVCCV,3,1,0.030263,,i x i e n1 i1 s1 t a,i x i e n i s t a,i.xie.nis.ta,ixienista
+47581,47582,higo,334,0.721988,iGo,VCV,1,30,74.253852,,i1 ɡ o,i ɡ o,i.ɡo,iɡo
+47582,47583,higos,545,1.178094,iGos,VCVC,1,11,20.963783,,i1 ɡ o s,i ɡ o s,i.ɡos,iɡos
+47583,47584,higuera,184,0.397742,iGera,VCVCV,2,4,1.58178,,i ɡ1 e1 ɾ a,i ɡ e ɾ a,i.ɡe.ɾa,iɡeɾa
+47584,47585,higueras,55,0.11889,iGeras,VCVCVC,2,4,0.428545,,i ɡ1 e1 ɾ a s,i ɡ e ɾ a s,i.ɡe.ɾas,iɡeɾas
+47585,47586,hija,125908,272.167785,ixa,VCV,1,26,45.359773,,i1 x a,i x a,i.xa,ixa
+47586,47587,hijas,10363,22.401077,ixas,VCVC,1,20,30.069495,,i1 x a s,i x a s,i.xas,ixas
+47587,47588,hijastra,549,1.18674,ixastra,VCVCCCV,2,2,0.557704,,i x1 a1 s1 t ɾ a,i x a s t ɾ a,i.xas.tɾa,ixastɾa
+47588,47589,hijastro,498,1.076497,ixastro,VCVCCCV,2,2,0.703613,,i x1 a1 s1 t ɾ o,i x a s t ɾ o,i.xas.tɾo,ixastɾo
+47589,47590,hijastros,102,0.220487,ixastros,VCVCCCVC,2,2,0.557704,,i x1 a1 s1 t ɾ o s,i x a s t ɾ o s,i.xas.tɾos,ixastɾos
+47590,47591,hijita,1859,4.018489,ixita,VCVCV,2,8,1.165394,,i x1 i1 t a,i x i t a,i.xi.ta,ixita
+47591,47592,hijitas,56,0.121052,ixitas,VCVCVC,2,8,0.717665,,i x1 i1 t a s,i x i t a s,i.xi.tas,ixitas
+47592,47593,hijito,1616,3.49321,ixito,VCVCV,2,12,0.631019,,i x1 i1 t o,i x i t o,i.xi.to,ixito
+47593,47594,hijitos,193,0.417197,ixitos,VCVCVC,2,5,1.40031,,i x1 i1 t o s,i x i t o s,i.xi.tos,ixitos
+47594,47595,hijo,311843,674.092343,ixo,VCV,1,27,79.682298,,i1 x o,i x o,i.xo,ixo
+47595,47596,hijos,96864,209.38511,ixos,VCVC,1,14,71.404223,,i1 x o s,i x o s,i.xos,ixos
+47596,47597,hila,60,0.129698,ila,VCV,1,56,424.703535,,i1 l a,i l a,i.la,ila
+47597,47598,hilachas,13,0.028101,ilaCas,VCVCVC,2,3,0.012249,,i l1 a1 t ͡ ʃ a s,i l a t ͡ ʃ a s,i.la.t͡ʃas,ilat͡ʃas
+47598,47599,hilado,77,0.166446,ilaDo,VCVCV,2,12,34.327926,,i l1 a1 d o,i l a d o,i.la.do,ilado
+47599,47600,hilan,14,0.030263,ilan,VCVC,1,28,11.897204,,i1 l a n,i l a n,i.lan,ilan
+47600,47601,hilandería,22,0.047556,ilanderia,VCVCCVCVV,4,2,0.027021,,i l a n d e ɾ1 i1 a,i l a n d e ɾ i a,i.lan.de.ɾi.a,ilandeɾia
+47601,47602,hilando,26,0.056203,ilando,VCVCCV,2,9,0.981385,,i l1 a1 n1 d o,i l a n d o,i.lan.do,ilando
+47602,47603,hilar,117,0.252912,ilar,VCVC,2,17,0.499212,,i l1 a1 ɾ1,i l a ɾ,i.laɾ,ilaɾ
+47603,47604,hilarante,454,0.981385,ilarante,VCVCVCCV,3,1,0.092951,,i l a ɾ1 a1 n1 t e,i l a ɾ a n t e,i.la.ɾan.te,ilaɾante
+47604,47605,hilera,566,1.223488,ilera,VCVCV,2,8,0.253182,,i l1 e1 ɾ a,i l e ɾ a,i.le.ɾa,ileɾa
+47605,47606,hileras,256,0.55338,ileras,VCVCVC,2,5,0.338513,,i l1 e1 ɾ a s,i l e ɾ a s,i.le.ɾas,ileɾas
+47606,47607,hiles,16,0.034586,iles,VCVC,1,41,24.942849,,i1 l e s,i l e s,i.les,iles
+47607,47608,hilo,4800,10.375873,ilo,VCV,1,45,349.138362,,i1 l o,i l o,i.lo,ilo
+47608,47609,hilos,1851,4.001196,ilos,VCVC,1,28,278.723345,,i1 l o s,i l o s,i.los,ilos
+47609,47610,himen,164,0.354509,imen,VCVC,1,15,2.820796,,i1 m e n,i m e n,i.men,imen
 47610,47611,himno,2034,4.396776,imno,VCCV,1,4,0.418818,,ʝ1 m1 n o,ʝ m n o,ʝm.no,ʝmno
 47611,47612,himnos,629,1.359672,imnos,VCCVC,1,3,55.804902,,ʝ1 m1 n o s,ʝ m n o s,ʝm.nos,ʝmnos
 47612,47613,hinca,37,0.079981,iNka,VCCV,1,15,0.440398,,ʝ1 n1 k a,ʝ n k a,ʝn.ka,ʝnka
@@ -47653,47 +47653,47 @@
 47651,47652,hindú,1628,3.51915,indu,VCCV,2,5,0.264152,,ʝ n d1 u1,ʝ n d u,ʝn.du,ʝndu
 47652,47653,hindúes,968,2.092468,indues,VCCVVC,2,3,0.015132,,ʝ n d1 u1 e s,ʝ n d u e s,ʝn.du.es,ʝndues
 47653,47654,hinduísmo,3,0.006485,indwizmo,VCCVVCCV,2,0,0.0,,ʝ n d1 u1 i s m o,ʝ n d u i s m o,ʝn.du.is.mo,ʝnduismo
-47654,47655,hinojo,154,0.332893,inoxo,VCVCV,2,3,3.078176,,ʝ n1 o1 x o,ʝ n o x o,ʝ.no.xo,ʝnoxo
-47655,47656,hiper,201,0.43449,iper,VCVC,2,6,1.824785,,ʝ p1 e1 ɾ1,ʝ p e ɾ,ʝ.peɾ,ʝpeɾ
-47656,47657,hiperactiva,108,0.233457,iperaktiBa,VCVCVCCVCV,4,2,0.21076,,ʝ p e ɾ a k t1 i1 b a,ʝ p e ɾ a k t i b a,ʝ.pe.ɾak.ti.ba,ʝpeɾaktiba
-47657,47658,hiperactivas,8,0.017293,iperaktiBas,VCVCVCCVCVC,4,2,0.158881,,ʝ p e ɾ a k t1 i1 b a s,ʝ p e ɾ a k t i b a s,ʝ.pe.ɾak.ti.bas,ʝpeɾaktibas
-47658,47659,hiperactividad,130,0.281013,iperaktiBiDaD,VCVCVCCVCVCVC,6,0,0.0,,ʝ p e ɾ a k t i b i d1 a1 d1,ʝ p e ɾ a k t i b i d a d,ʝ.pe.ɾak.ti.bi.dad,ʝpeɾaktibidad
-47659,47660,hiperactivo,187,0.404227,iperaktiBo,VCVCVCCVCV,4,2,0.158881,,ʝ p e ɾ a k t1 i1 b o,ʝ p e ɾ a k t i b o,ʝ.pe.ɾak.ti.bo,ʝpeɾaktibo
-47660,47661,hiperactivos,39,0.084304,iperaktiBos,VCVCVCCVCVC,4,2,0.21076,,ʝ p e ɾ a k t1 i1 b o s,ʝ p e ɾ a k t i b o s,ʝ.pe.ɾak.ti.bos,ʝpeɾaktibos
-47661,47662,hiperbárica,114,0.246427,iperBarika,VCVCCVCVCV,3,0,0.0,,ʝ p e ɾ b1 a1 ɾ i k a,ʝ p e ɾ b a ɾ i k a,ʝ.peɾ.ba.ɾi.ka,ʝpeɾbaɾika
-47662,47663,hipérbole,56,0.121052,iperBole,VCVCCVCV,2,2,0.039991,,ʝ p1 e1 ɾ1 b o l e,ʝ p e ɾ b o l e,ʝ.peɾ.bo.le,ʝpeɾbole
-47663,47664,hiperbólico,13,0.028101,iperBoliko,VCVCCVCVCV,3,1,0.032425,,ʝ p e ɾ b1 o1 l i k o,ʝ p e ɾ b o l i k o,ʝ.peɾ.bo.li.ko,ʝpeɾboliko
-47664,47665,hiperespacial,164,0.354509,iperespasjal,VCVCVCCVCVVC,5,0,0.0,,ʝ p e ɾ e s p a s1 i1 a1 l1,ʝ p e ɾ e s p a s i a l,ʝ.pe.ɾes.pa.sial,ʝpeɾespasial
-47665,47666,hiperespaciales,37,0.079981,iperespasjales,VCVCVCCVCVVCVC,5,0,0.0,,ʝ p e ɾ e s p a s1 i1 a1 l e s,ʝ p e ɾ e s p a s i a l e s,ʝ.pe.ɾes.pa.sia.les,ʝpeɾespasiales
-47666,47667,hiperespacio,1095,2.366996,iperespasjo,VCVCVCCVCVV,4,0,0.0,,ʝ p e ɾ e s p1 a1 s i o,ʝ p e ɾ e s p a s i o,ʝ.pe.ɾes.pa.sio,ʝpeɾespasio
-47667,47668,hiperlanzamiento,28,0.060526,iperlansamjento,VCVCCVCCVCVVCCV,5,0,0.0,,ʝ p e ɾ l a n s a m1 j1 e1 n1 t o,ʝ p e ɾ l a n s a m j e n t o,ʝ.peɾ.lan.sa.mjen.to,ʝpeɾlansamjento
-47668,47669,hipermercado,84,0.181578,ipermerkaDo,VCVCCVCCVCV,4,0,0.0,,ʝ p e ɾ m e ɾ k1 a1 d o,ʝ p e ɾ m e ɾ k a d o,ʝ.peɾ.meɾ.ka.do,ʝpeɾmeɾkado
-47669,47670,hipermetropía,29,0.062688,ipermetropia,VCVCCVCCVCVV,5,0,0.0,,ʝ p e ɾ m e t ɾ o p1 i1 a,ʝ p e ɾ m e t ɾ o p i a,ʝ.peɾ.me.tɾo.pi.a,ʝpeɾmetɾopia
-47670,47671,hipermotor,290,0.626876,ipermotor,VCVCCVCVC,4,0,0.0,,ʝ p e ɾ m o t1 o1 ɾ1,ʝ p e ɾ m o t o ɾ,ʝ.peɾ.mo.toɾ,ʝpeɾmotoɾ
-47671,47672,hipermotores,47,0.101597,ipermotores,VCVCCVCVCVC,4,0,0.0,,ʝ p e ɾ m o t1 o1 ɾ e s,ʝ p e ɾ m o t o ɾ e s,ʝ.peɾ.mo.to.ɾes,ʝpeɾmotoɾes
-47672,47673,hiperplasia,10,0.021616,iperplasja,VCVCCCVCVV,3,0,0.0,,ʝ p e ɾ p1 l1 a1 s j a,ʝ p e ɾ p l a s j a,ʝ.peɾ.pla.sja,ʝpeɾplasja
-47673,47674,hipersensibilidad,52,0.112405,ipersensiBiliDaD,VCVCCVCCVCVCVCVC,7,0,0.0,,ʝ p e ɾ s e n s i b i l i d1 a1 d1,ʝ p e ɾ s e n s i b i l i d a d,ʝ.peɾ.sen.si.bi.li.dad,ʝpeɾsensibilidad
-47674,47675,hipersensible,143,0.309115,ipersensiBle,VCVCCVCCVCCV,4,1,0.036748,,ʝ p e ɾ s e n s1 i1 b l e,ʝ p e ɾ s e n s i b l e,ʝ.peɾ.sen.si.ble,ʝpeɾsensible
-47675,47676,hipersensibles,17,0.036748,ipersensiBles,VCVCCVCCVCCVC,4,1,0.309115,,ʝ p e ɾ s e n s1 i1 b l e s,ʝ p e ɾ s e n s i b l e s,ʝ.peɾ.sen.si.bles,ʝpeɾsensibles
-47676,47677,hipersexualidad,19,0.041071,iperseGswaliDaD,VCVCCVCCVVCVCVC,6,0,0.0,,ʝ p e ɾ s e k s w a l i d1 a1 d1,ʝ p e ɾ s e k s w a l i d a d,ʝ.peɾ.se.kswa.li.dad,ʝpeɾsekswalidad
-47677,47678,hipersomnia,8,0.017293,ipersomnja,VCVCCVCCVV,3,0,0.0,,ʝ p e ɾ s1 o1 m1 n j a,ʝ p e ɾ s o m n j a,ʝ.peɾ.som.nja,ʝpeɾsomnja
-47678,47679,hipersónica,6,0.01297,ipersonika,VCVCCVCVCV,3,1,0.02594,,ʝ p e ɾ s1 o1 n i k a,ʝ p e ɾ s o n i k a,ʝ.peɾ.so.ni.ka,ʝpeɾsonika
-47679,47680,hipersónico,12,0.02594,ipersoniko,VCVCCVCVCV,3,2,0.014051,,ʝ p e ɾ s1 o1 n i k o,ʝ p e ɾ s o n i k o,ʝ.peɾ.so.ni.ko,ʝpeɾsoniko
-47680,47681,hipertensa,49,0.10592,ipertensa,VCVCCVCCV,3,2,0.088628,,ʝ p e ɾ t1 e1 n1 s a,ʝ p e ɾ t e n s a,ʝ.peɾ.ten.sa,ʝpeɾtensa
-47681,47682,hipertensión,431,0.931667,ipertensjon,VCVCCVCCVVC,4,0,0.0,,ʝ p e ɾ t e n s1 j1 o1 n1,ʝ p e ɾ t e n s j o n,ʝ.peɾ.ten.sjon,ʝpeɾtensjon
-47682,47683,hipertenso,68,0.146992,ipertenso,VCVCCVCCV,3,2,0.061607,,ʝ p e ɾ t1 e1 n1 s o,ʝ p e ɾ t e n s o,ʝ.peɾ.ten.so,ʝpeɾtenso
-47683,47684,hipertiroidismo,40,0.086466,ipertiroiDizmo,VCVCCVCVVCVCCV,5,0,0.0,,ʝ p e ɾ t i ɾ o i d1 i1 s1 m o,ʝ p e ɾ t i ɾ o i d i s m o,ʝ.peɾ.ti.ɾoi.dis.mo,ʝpeɾtiɾoidismo
-47684,47685,hipertrofia,44,0.095112,ipertrofja,VCVCCCVCVV,3,0,0.0,,ʝ p e ɾ t1 ɾ1 o1 f j a,ʝ p e ɾ t ɾ o f j a,ʝ.peɾ.tɾo.fja,ʝpeɾtɾofja
-47685,47686,hipertrófica,64,0.138345,ipertrofika,VCVCCCVCVCV,3,1,0.004323,,ʝ p e ɾ t1 ɾ1 o1 f i k a,ʝ p e ɾ t ɾ o f i k a,ʝ.peɾ.tɾo.fi.ka,ʝpeɾtɾofika
-47686,47687,hipertrófico,2,0.004323,ipertrofiko,VCVCCCVCVCV,3,1,0.138345,,ʝ p e ɾ t1 ɾ1 o1 f i k o,ʝ p e ɾ t ɾ o f i k o,ʝ.peɾ.tɾo.fi.ko,ʝpeɾtɾofiko
-47687,47688,hipervelocidad,159,0.343701,iperBelosiDaD,VCVCCVCVCVCVC,6,0,0.0,,ʝ p e ɾ b e l o s i d1 a1 d1,ʝ p e ɾ b e l o s i d a d,ʝ.peɾ.be.lo.si.dad,ʝpeɾbelosidad
-47688,47689,hiperventilación,68,0.146992,iperBentilasjon,VCVCCVCCVCVCVVC,6,0,0.0,,ʝ p e ɾ b e n t i l a s1 i1 o1 n1,ʝ p e ɾ b e n t i l a s i o n,ʝ.peɾ.ben.ti.la.sion,ʝpeɾbentilasion
-47689,47690,hiperventilando,117,0.252912,iperBentilando,VCVCCVCCVCVCCV,5,0,0.0,,ʝ p e ɾ b e n t i l1 a1 n1 d o,ʝ p e ɾ b e n t i l a n d o,ʝ.peɾ.ben.ti.lan.do,ʝpeɾbentilando
-47690,47691,hiperventilar,48,0.103759,iperBentilar,VCVCCVCCVCVC,5,1,0.015131,,ʝ p e ɾ b e n t i l1 a1 ɾ1,ʝ p e ɾ b e n t i l a ɾ,ʝ.peɾ.ben.ti.laɾ,ʝpeɾbentilaɾ
-47691,47692,hiperventilas,7,0.015131,iperBentilas,VCVCCVCCVCVC,4,1,0.103759,,ʝ p e ɾ b e n t1 i1 l a s,ʝ p e ɾ b e n t i l a s,ʝ.peɾ.ben.ti.las,ʝpeɾbentilas
+47654,47655,hinojo,154,0.332893,inoxo,VCVCV,2,3,3.078176,,i n1 o1 x o,i n o x o,i.no.xo,inoxo
+47655,47656,hiper,201,0.43449,iper,VCVC,2,6,1.824785,,i p1 e1 ɾ1,i p e ɾ,i.peɾ,ipeɾ
+47656,47657,hiperactiva,108,0.233457,iperaktiBa,VCVCVCCVCV,4,2,0.21076,,i p e ɾ a k t1 i1 b a,i p e ɾ a k t i b a,i.pe.ɾak.ti.ba,ipeɾaktiba
+47657,47658,hiperactivas,8,0.017293,iperaktiBas,VCVCVCCVCVC,4,2,0.158881,,i p e ɾ a k t1 i1 b a s,i p e ɾ a k t i b a s,i.pe.ɾak.ti.bas,ipeɾaktibas
+47658,47659,hiperactividad,130,0.281013,iperaktiBiDaD,VCVCVCCVCVCVC,6,0,0.0,,i p e ɾ a k t i b i d1 a1 d1,i p e ɾ a k t i b i d a d,i.pe.ɾak.ti.bi.dad,ipeɾaktibidad
+47659,47660,hiperactivo,187,0.404227,iperaktiBo,VCVCVCCVCV,4,2,0.158881,,i p e ɾ a k t1 i1 b o,i p e ɾ a k t i b o,i.pe.ɾak.ti.bo,ipeɾaktibo
+47660,47661,hiperactivos,39,0.084304,iperaktiBos,VCVCVCCVCVC,4,2,0.21076,,i p e ɾ a k t1 i1 b o s,i p e ɾ a k t i b o s,i.pe.ɾak.ti.bos,ipeɾaktibos
+47661,47662,hiperbárica,114,0.246427,iperBarika,VCVCCVCVCV,3,0,0.0,,i p e ɾ b1 a1 ɾ i k a,i p e ɾ b a ɾ i k a,i.peɾ.ba.ɾi.ka,ipeɾbaɾika
+47662,47663,hipérbole,56,0.121052,iperBole,VCVCCVCV,2,2,0.039991,,i p1 e1 ɾ1 b o l e,i p e ɾ b o l e,i.peɾ.bo.le,ipeɾbole
+47663,47664,hiperbólico,13,0.028101,iperBoliko,VCVCCVCVCV,3,1,0.032425,,i p e ɾ b1 o1 l i k o,i p e ɾ b o l i k o,i.peɾ.bo.li.ko,ipeɾboliko
+47664,47665,hiperespacial,164,0.354509,iperespasjal,VCVCVCCVCVVC,5,0,0.0,,i p e ɾ e s p a s1 i1 a1 l1,i p e ɾ e s p a s i a l,i.pe.ɾes.pa.sial,ipeɾespasial
+47665,47666,hiperespaciales,37,0.079981,iperespasjales,VCVCVCCVCVVCVC,5,0,0.0,,i p e ɾ e s p a s1 i1 a1 l e s,i p e ɾ e s p a s i a l e s,i.pe.ɾes.pa.sia.les,ipeɾespasiales
+47666,47667,hiperespacio,1095,2.366996,iperespasjo,VCVCVCCVCVV,4,0,0.0,,i p e ɾ e s p1 a1 s i o,i p e ɾ e s p a s i o,i.pe.ɾes.pa.sio,ipeɾespasio
+47667,47668,hiperlanzamiento,28,0.060526,iperlansamjento,VCVCCVCCVCVVCCV,5,0,0.0,,i p e ɾ l a n s a m1 j1 e1 n1 t o,i p e ɾ l a n s a m j e n t o,i.peɾ.lan.sa.mjen.to,ipeɾlansamjento
+47668,47669,hipermercado,84,0.181578,ipermerkaDo,VCVCCVCCVCV,4,0,0.0,,i p e ɾ m e ɾ k1 a1 d o,i p e ɾ m e ɾ k a d o,i.peɾ.meɾ.ka.do,ipeɾmeɾkado
+47669,47670,hipermetropía,29,0.062688,ipermetropia,VCVCCVCCVCVV,5,0,0.0,,i p e ɾ m e t ɾ o p1 i1 a,i p e ɾ m e t ɾ o p i a,i.peɾ.me.tɾo.pi.a,ipeɾmetɾopia
+47670,47671,hipermotor,290,0.626876,ipermotor,VCVCCVCVC,4,0,0.0,,i p e ɾ m o t1 o1 ɾ1,i p e ɾ m o t o ɾ,i.peɾ.mo.toɾ,ipeɾmotoɾ
+47671,47672,hipermotores,47,0.101597,ipermotores,VCVCCVCVCVC,4,0,0.0,,i p e ɾ m o t1 o1 ɾ e s,i p e ɾ m o t o ɾ e s,i.peɾ.mo.to.ɾes,ipeɾmotoɾes
+47672,47673,hiperplasia,10,0.021616,iperplasja,VCVCCCVCVV,3,0,0.0,,i p e ɾ p1 l1 a1 s j a,i p e ɾ p l a s j a,i.peɾ.pla.sja,ipeɾplasja
+47673,47674,hipersensibilidad,52,0.112405,ipersensiBiliDaD,VCVCCVCCVCVCVCVC,7,0,0.0,,i p e ɾ s e n s i b i l i d1 a1 d1,i p e ɾ s e n s i b i l i d a d,i.peɾ.sen.si.bi.li.dad,ipeɾsensibilidad
+47674,47675,hipersensible,143,0.309115,ipersensiBle,VCVCCVCCVCCV,4,1,0.036748,,i p e ɾ s e n s1 i1 b l e,i p e ɾ s e n s i b l e,i.peɾ.sen.si.ble,ipeɾsensible
+47675,47676,hipersensibles,17,0.036748,ipersensiBles,VCVCCVCCVCCVC,4,1,0.309115,,i p e ɾ s e n s1 i1 b l e s,i p e ɾ s e n s i b l e s,i.peɾ.sen.si.bles,ipeɾsensibles
+47676,47677,hipersexualidad,19,0.041071,iperseGswaliDaD,VCVCCVCCVVCVCVC,6,0,0.0,,i p e ɾ s e k s w a l i d1 a1 d1,i p e ɾ s e k s w a l i d a d,i.peɾ.se.kswa.li.dad,ipeɾsekswalidad
+47677,47678,hipersomnia,8,0.017293,ipersomnja,VCVCCVCCVV,3,0,0.0,,i p e ɾ s1 o1 m1 n j a,i p e ɾ s o m n j a,i.peɾ.som.nja,ipeɾsomnja
+47678,47679,hipersónica,6,0.01297,ipersonika,VCVCCVCVCV,3,1,0.02594,,i p e ɾ s1 o1 n i k a,i p e ɾ s o n i k a,i.peɾ.so.ni.ka,ipeɾsonika
+47679,47680,hipersónico,12,0.02594,ipersoniko,VCVCCVCVCV,3,2,0.014051,,i p e ɾ s1 o1 n i k o,i p e ɾ s o n i k o,i.peɾ.so.ni.ko,ipeɾsoniko
+47680,47681,hipertensa,49,0.10592,ipertensa,VCVCCVCCV,3,2,0.088628,,i p e ɾ t1 e1 n1 s a,i p e ɾ t e n s a,i.peɾ.ten.sa,ipeɾtensa
+47681,47682,hipertensión,431,0.931667,ipertensjon,VCVCCVCCVVC,4,0,0.0,,i p e ɾ t e n s1 j1 o1 n1,i p e ɾ t e n s j o n,i.peɾ.ten.sjon,ipeɾtensjon
+47682,47683,hipertenso,68,0.146992,ipertenso,VCVCCVCCV,3,2,0.061607,,i p e ɾ t1 e1 n1 s o,i p e ɾ t e n s o,i.peɾ.ten.so,ipeɾtenso
+47683,47684,hipertiroidismo,40,0.086466,ipertiroiDizmo,VCVCCVCVVCVCCV,5,0,0.0,,i p e ɾ t i ɾ o i d1 i1 s1 m o,i p e ɾ t i ɾ o i d i s m o,i.peɾ.ti.ɾoi.dis.mo,ipeɾtiɾoidismo
+47684,47685,hipertrofia,44,0.095112,ipertrofja,VCVCCCVCVV,3,0,0.0,,i p e ɾ t1 ɾ1 o1 f j a,i p e ɾ t ɾ o f j a,i.peɾ.tɾo.fja,ipeɾtɾofja
+47685,47686,hipertrófica,64,0.138345,ipertrofika,VCVCCCVCVCV,3,1,0.004323,,i p e ɾ t1 ɾ1 o1 f i k a,i p e ɾ t ɾ o f i k a,i.peɾ.tɾo.fi.ka,ipeɾtɾofika
+47686,47687,hipertrófico,2,0.004323,ipertrofiko,VCVCCCVCVCV,3,1,0.138345,,i p e ɾ t1 ɾ1 o1 f i k o,i p e ɾ t ɾ o f i k o,i.peɾ.tɾo.fi.ko,ipeɾtɾofiko
+47687,47688,hipervelocidad,159,0.343701,iperBelosiDaD,VCVCCVCVCVCVC,6,0,0.0,,i p e ɾ b e l o s i d1 a1 d1,i p e ɾ b e l o s i d a d,i.peɾ.be.lo.si.dad,ipeɾbelosidad
+47688,47689,hiperventilación,68,0.146992,iperBentilasjon,VCVCCVCCVCVCVVC,6,0,0.0,,i p e ɾ b e n t i l a s1 i1 o1 n1,i p e ɾ b e n t i l a s i o n,i.peɾ.ben.ti.la.sion,ipeɾbentilasion
+47689,47690,hiperventilando,117,0.252912,iperBentilando,VCVCCVCCVCVCCV,5,0,0.0,,i p e ɾ b e n t i l1 a1 n1 d o,i p e ɾ b e n t i l a n d o,i.peɾ.ben.ti.lan.do,ipeɾbentilando
+47690,47691,hiperventilar,48,0.103759,iperBentilar,VCVCCVCCVCVC,5,1,0.015131,,i p e ɾ b e n t i l1 a1 ɾ1,i p e ɾ b e n t i l a ɾ,i.peɾ.ben.ti.laɾ,ipeɾbentilaɾ
+47691,47692,hiperventilas,7,0.015131,iperBentilas,VCVCCVCCVCVC,4,1,0.103759,,i p e ɾ b e n t1 i1 l a s,i p e ɾ b e n t i l a s,i.peɾ.ben.ti.las,ipeɾbentilas
 47692,47693,hiphop,6,0.01297,ipop,VCVC,2,5,2.754794,,ʝ p o1 p1,ʝ p o p,ʝp.op,ʝpop
-47693,47694,hípica,106,0.229134,ipika,VCVCV,1,5,2.57581,,ʝ1 p i k a,ʝ p i k a,ʝ.pi.ka,ʝpika
-47694,47695,hípicos,18,0.03891,ipikos,VCVCVC,1,5,0.771273,,ʝ1 p i k o s,ʝ p i k o s,ʝ.pi.kos,ʝpikos
+47693,47694,hípica,106,0.229134,ipika,VCVCV,1,5,2.57581,,i1 p i k a,i p i k a,i.pi.ka,ipika
+47694,47695,hípicos,18,0.03891,ipikos,VCVCVC,1,5,0.771273,,i1 p i k o s,i p i k o s,i.pi.kos,ipikos
 47695,47696,hipnosis,1389,3.002518,ipnosis,VCCVCVC,2,0,0.0,,ʝ p n1 o1 s i s,ʝ p n o s i s,ʝp.no.sis,ʝpnosis
 47696,47697,hipnoterapeuta,52,0.112405,ipnoterapeuta,VCCVCVCVCVVCV,5,0,0.0,,ʝ p n o t e ɾ a p1 e1 u1 t a,ʝ p n o t e ɾ a p e u t a,ʝp.no.te.ɾa.peu.ta,ʝpnoteɾapeuta
 47697,47698,hipnoterapia,86,0.185901,ipnoterapja,VCCVCVCVCVV,4,0,0.0,,ʝ p n o t e ɾ1 a1 p j a,ʝ p n o t e ɾ a p j a,ʝp.no.te.ɾa.pja,ʝpnoteɾapja
@@ -47720,82 +47720,82 @@
 47718,47719,hipnotizaron,45,0.097274,ipnotisaron,VCCVCVCVCVC,4,2,0.010809,,ʝ p n o t i s1 a1 ɾ o n,ʝ p n o t i s a ɾ o n,ʝp.no.ti.sa.ɾon,ʝpnotisaɾon
 47719,47720,hipnotizaste,58,0.125375,ipnotisaste,VCCVCVCVCCV,4,2,0.143749,,ʝ p n o t i s1 a1 s1 t e,ʝ p n o t i s a s t e,ʝp.no.ti.sas.te,ʝpnotisaste
 47720,47721,hipnotizó,133,0.287498,ipnotiso,VCCVCVCV,4,4,0.256695,,ʝ p n o t i s1 o1,ʝ p n o t i s o,ʝp.no.ti.so,ʝpnotiso
-47721,47722,hipo,1048,2.265399,ipo,VCV,1,24,88.465573,,ʝ1 p o,ʝ p o,ʝ.po,ʝpo
-47722,47723,hipoalergénica,30,0.064849,ipoalerxenika,VCVVCVCCVCVCV,5,2,0.060526,,ʝ p o a l e ɾ x1 e1 n i k a,ʝ p o a l e ɾ x e n i k a,ʝ.po.a.leɾ.xe.ni.ka,ʝpoaleɾxenika
-47723,47724,hipoalergénicas,27,0.058364,ipoalerxenikas,VCVVCVCCVCVCVC,5,2,0.042152,,ʝ p o a l e ɾ x1 e1 n i k a s,ʝ p o a l e ɾ x e n i k a s,ʝ.po.a.leɾ.xe.ni.kas,ʝpoaleɾxenikas
-47724,47725,hipoalergénico,29,0.062688,ipoalerxeniko,VCVVCVCCVCVCV,5,2,0.042152,,ʝ p o a l e ɾ x1 e1 n i k o,ʝ p o a l e ɾ x e n i k o,ʝ.po.a.leɾ.xe.ni.ko,ʝpoaleɾxeniko
-47725,47726,hipoalergénicos,9,0.019455,ipoalerxenikos,VCVVCVCCVCVCVC,5,2,0.060526,,ʝ p o a l e ɾ x1 e1 n i k o s,ʝ p o a l e ɾ x e n i k o s,ʝ.po.a.leɾ.xe.ni.kos,ʝpoaleɾxenikos
-47726,47727,hipocampo,226,0.488531,ipokampo,VCVCVCCV,3,1,0.047556,,ʝ p o k1 a1 m1 p o,ʝ p o k a m p o,ʝ.po.kam.po,ʝpokampo
-47727,47728,hipocondría,44,0.095112,ipokondria,VCVCVCCCVV,4,0,0.0,,ʝ p o k o n d1 ɾ1 i1 a,ʝ p o k o n d ɾ i a,ʝ.po.kon.dɾi.a,ʝpokondɾia
-47728,47729,hipocondríaca,86,0.185901,ipokondriaka,VCVCVCCCVVCV,4,1,0.298306,,ʝ p o k o n d1 ɾ1 i1 a k a,ʝ p o k o n d ɾ i a k a,ʝ.po.kon.dɾi.a.ka,ʝpokondɾiaka
-47729,47730,hipocondríaco,138,0.298306,ipokondriako,VCVCVCCCVVCV,4,3,0.113126,,ʝ p o k o n d1 ɾ1 i1 a k o,ʝ p o k o n d ɾ i a k o,ʝ.po.kon.dɾi.a.ko,ʝpokondɾiako
-47730,47731,hipocondríacos,45,0.097274,ipokondriakos,VCVCVCCCVVCVC,4,1,0.298306,,ʝ p o k o n d1 ɾ1 i1 a k o s,ʝ p o k o n d ɾ i a k o s,ʝ.po.kon.dɾi.a.kos,ʝpokondɾiakos
-47731,47732,hipocrático,139,0.300468,ipokratiko,VCVCCVCVCV,3,1,0.002162,,ʝ p o k1 ɾ1 a1 t i k o,ʝ p o k ɾ a t i k o,ʝ.po.kɾa.ti.ko,ʝpokɾatiko
-47732,47733,hipocresía,1107,2.392936,ipokresia,VCVCCVCVV,4,1,0.159961,,ʝ p o k ɾ e s1 i1 a,ʝ p o k ɾ e s i a,ʝ.po.kɾe.si.a,ʝpokɾesia
-47733,47734,hipocresías,74,0.159961,ipokresias,VCVCCVCVVC,4,1,2.392936,,ʝ p o k ɾ e s1 i1 a s,ʝ p o k ɾ e s i a s,ʝ.po.kɾe.si.as,ʝpokɾesias
-47734,47735,hipócrita,2916,6.303343,ipokrita,VCVCCVCV,2,1,1.926021,,ʝ p1 o1 k ɾ i t a,ʝ p o k ɾ i t a,ʝ.po.kɾi.ta,ʝpokɾita
-47735,47736,hipócritas,891,1.926021,ipokritas,VCVCCVCVC,2,1,6.303343,,ʝ p1 o1 k ɾ i t a s,ʝ p o k ɾ i t a s,ʝ.po.kɾi.tas,ʝpokɾitas
-47736,47737,hipodérmica,160,0.345862,ipoDermika,VCVCVCCVCV,3,2,0.070253,,ʝ p o d1 e1 ɾ1 m i k a,ʝ p o d e ɾ m i k a,ʝ.po.deɾ.mi.ka,ʝpodeɾmika
-47737,47738,hipodérmicas,60,0.129698,ipoDermikas,VCVCVCCVCVC,3,2,0.179416,,ʝ p o d1 e1 ɾ1 m i k a s,ʝ p o d e ɾ m i k a s,ʝ.po.deɾ.mi.kas,ʝpodeɾmikas
-47738,47739,hipódromo,853,1.843879,ipoDromo,VCVCCVCV,2,1,0.060526,,ʝ p1 o1 d ɾ o m o,ʝ p o d ɾ o m o,ʝ.po.dɾo.mo,ʝpodɾomo
-47739,47740,hipófisis,32,0.069172,ipofisis,VCVCVCVC,2,1,0.032425,,ʝ p1 o1 f i s i s,ʝ p o f i s i s,ʝ.po.fi.sis,ʝpofisis
-47740,47741,hipogloso,19,0.041071,ipoGloso,VCVCCVCV,3,0,0.0,,ʝ p o ɡ1 l1 o1 s o,ʝ p o ɡ l o s o,ʝ.po.ɡlo.so,ʝpoɡloso
-47741,47742,hipoglucemia,128,0.27669,ipoGlusemja,VCVCCVCVCVV,4,0,0.0,,ʝ p o ɡ l u s1 e1 m j a,ʝ p o ɡ l u s e m j a,ʝ.po.ɡlu.se.mja,ʝpoɡlusemja
-47742,47743,hipoglucémica,21,0.045394,ipoGlusemika,VCVCCVCVCVCV,4,1,0.03891,,ʝ p o ɡ l u s1 e1 m i k a,ʝ p o ɡ l u s e m i k a,ʝ.po.ɡlu.se.mi.ka,ʝpoɡlusemika
-47743,47744,hipoglucémico,18,0.03891,ipoGlusemiko,VCVCCVCVCVCV,4,1,0.045394,,ʝ p o ɡ l u s1 e1 m i k o,ʝ p o ɡ l u s e m i k o,ʝ.po.ɡlu.se.mi.ko,ʝpoɡlusemiko
-47744,47745,hipopótamo,602,1.301307,ipopotamo,VCVCVCVCV,3,1,0.486369,,ʝ p o p1 o1 t a m o,ʝ p o p o t a m o,ʝ.po.po.ta.mo,ʝpopotamo
-47745,47746,hipopótamos,225,0.486369,ipopotamos,VCVCVCVCVC,3,1,1.301307,,ʝ p o p1 o1 t a m o s,ʝ p o p o t a m o s,ʝ.po.po.ta.mos,ʝpopotamos
-47746,47747,hipotalámica,15,0.032425,ipotalamika,VCVCVCVCVCV,4,1,0.041071,,ʝ p o t a l1 a1 m i k a,ʝ p o t a l a m i k a,ʝ.po.ta.la.mi.ka,ʝpotalamika
-47747,47748,hipotalámico,19,0.041071,ipotalamiko,VCVCVCVCVCV,4,1,0.032425,,ʝ p o t a l1 a1 m i k o,ʝ p o t a l a m i k o,ʝ.po.ta.la.mi.ko,ʝpotalamiko
-47748,47749,hipotálamo,229,0.495016,ipotalamo,VCVCVCVCV,3,1,0.019455,,ʝ p o t1 a1 l a m o,ʝ p o t a l a m o,ʝ.po.ta.la.mo,ʝpotalamo
-47749,47750,hipoteca,3059,6.612457,ipoteka,VCVCVCV,3,7,0.316526,,ʝ p o t1 e1 k a,ʝ p o t e k a,ʝ.po.te.ka,ʝpoteka
-47750,47751,hipotecada,96,0.207517,ipotekaDa,VCVCVCVCV,4,3,0.139066,,ʝ p o t e k1 a1 d a,ʝ p o t e k a d a,ʝ.po.te.ka.da,ʝpotekada
-47751,47752,hipotecado,165,0.356671,ipotekaDo,VCVCVCVCV,4,2,0.119971,,ʝ p o t e k1 a1 d o,ʝ p o t e k a d o,ʝ.po.te.ka.do,ʝpotekado
-47752,47753,hipotecamos,6,0.01297,ipotekamos,VCVCVCVCVC,4,1,0.032425,,ʝ p o t e k1 a1 m o s,ʝ p o t e k a m o s,ʝ.po.te.ka.mos,ʝpotekamos
-47753,47754,hipotecan,6,0.01297,ipotekan,VCVCVCVC,3,4,2.162721,,ʝ p o t1 e1 k a n,ʝ p o t e k a n,ʝ.po.te.kan,ʝpotekan
-47754,47755,hipotecando,19,0.041071,ipotekando,VCVCVCVCCV,4,0,0.0,,ʝ p o t e k1 a1 n1 d o,ʝ p o t e k a n d o,ʝ.po.te.kan.do,ʝpotekando
-47755,47756,hipotecar,213,0.460429,ipotekar,VCVCVCVC,4,6,1.374083,,ʝ p o t e k1 a1 ɾ1,ʝ p o t e k a ɾ,ʝ.po.te.kaɾ,ʝpotekaɾ
-47756,47757,hipotecaria,125,0.270205,ipotekarja,VCVCVCVCVV,4,5,0.100733,,ʝ p o t e k1 a1 ɾ j a,ʝ p o t e k a ɾ j a,ʝ.po.te.ka.ɾja,ʝpotekaɾja
-47757,47758,hipotecarias,53,0.114567,ipotekarjas,VCVCVCVCVVC,4,3,0.146271,,ʝ p o t e k1 a1 ɾ j a s,ʝ p o t e k a ɾ j a s,ʝ.po.te.ka.ɾjas,ʝpotekaɾjas
-47758,47759,hipotecario,134,0.28966,ipotekarjo,VCVCVCVCVV,4,3,0.155638,,ʝ p o t e k1 a1 ɾ j o,ʝ p o t e k a ɾ j o,ʝ.po.te.ka.ɾjo,ʝpotekaɾjo
-47759,47760,hipotecarios,77,0.166446,ipotekarjos,VCVCVCVCVVC,4,2,0.202114,,ʝ p o t e k1 a1 ɾ j o s,ʝ p o t e k a ɾ j o s,ʝ.po.te.ka.ɾjos,ʝpotekaɾjos
-47760,47761,hipotecas,724,1.565027,ipotekas,VCVCVCVC,3,4,1.778489,,ʝ p o t1 e1 k a s,ʝ p o t e k a s,ʝ.po.te.kas,ʝpotekas
-47761,47762,hipotecó,38,0.082142,ipoteko,VCVCVCV,4,3,2.232254,,ʝ p o t e k1 o1,ʝ p o t e k o,ʝ.po.te.ko,ʝpoteko
-47762,47763,hipotensión,83,0.179416,ipotensjon,VCVCVCCVVC,4,0,0.0,,ʝ p o t e n s1 j1 o1 n1,ʝ p o t e n s j o n,ʝ.po.ten.sjon,ʝpotensjon
-47763,47764,hipotenso,72,0.155638,ipotenso,VCVCVCCV,3,0,0.0,,ʝ p o t1 e1 n1 s o,ʝ p o t e n s o,ʝ.po.ten.so,ʝpotenso
-47764,47765,hipotequé,30,0.064849,ipoteke,VCVCVCV,4,5,1.349296,,ʝ p o t e k1 e,ʝ p o t e k e,ʝ.po.te.k.e,ʝpoteke
-47765,47766,hipotermia,588,1.271044,ipotermja,VCVCVCCVV,3,1,0.002162,,ʝ p o t1 e1 ɾ1 m j a,ʝ p o t e ɾ m j a,ʝ.po.teɾ.mja,ʝpoteɾmja
-47766,47767,hipotérmico,63,0.136183,ipotermiko,VCVCVCCVCV,3,3,0.010088,,ʝ p o t1 e1 ɾ1 m i k o,ʝ p o t e ɾ m i k o,ʝ.po.teɾ.mi.ko,ʝpoteɾmiko
-47767,47768,hipotérmicos,6,0.01297,ipotermikos,VCVCVCCVCVC,3,2,0.074577,,ʝ p o t1 e1 ɾ1 m i k o s,ʝ p o t e ɾ m i k o s,ʝ.po.teɾ.mi.kos,ʝpoteɾmikos
-47768,47769,hipótesis,1978,4.275724,ipotesis,VCVCVCVC,2,0,0.0,,ʝ p1 o1 t e s i s,ʝ p o t e s i s,ʝ.po.te.sis,ʝpotesis
-47769,47770,hipotética,351,0.758736,ipotetika,VCVCVCVCV,3,2,0.495016,,ʝ p o t1 e1 t i k a,ʝ p o t e t i k a,ʝ.po.te.ti.ka,ʝpotetika
-47770,47771,hipotéticamente,892,1.928183,ipotetikamente,VCVCVCVCVCVCCV,3,0,0.0,,ʝ p o t1 e1 t i k a m e n t e,ʝ p o t e t i k a m e n t e,ʝ.po.te.ti.ka.men.te,ʝpotetikamente
-47771,47772,hipotéticas,54,0.116729,ipotetikas,VCVCVCVCVC,3,2,0.424763,,ʝ p o t1 e1 t i k a s,ʝ p o t e t i k a s,ʝ.po.te.ti.kas,ʝpotetikas
-47772,47773,hipotético,404,0.873303,ipotetiko,VCVCVCVCV,3,2,0.424763,,ʝ p o t1 e1 t i k o,ʝ p o t e t i k o,ʝ.po.te.ti.ko,ʝpotetiko
-47773,47774,hipotéticos,42,0.090789,ipotetikos,VCVCVCVCVC,3,2,0.495016,,ʝ p o t1 e1 t i k o s,ʝ p o t e t i k o s,ʝ.po.te.ti.kos,ʝpotetikos
-47774,47775,hipotiroidismo,65,0.140507,ipotiroiDizmo,VCVCVCVVCVCCV,5,0,0.0,,ʝ p o t i ɾ o i d1 i1 s1 m o,ʝ p o t i ɾ o i d i s m o,ʝ.po.ti.ɾoi.dis.mo,ʝpotiɾoidismo
-47775,47776,hipoxia,137,0.296145,ipoGsja,VCVCCVV,2,0,0.0,,ʝ p1 o1 k s j a,ʝ p o k s j a,ʝ.po.ksja,ʝpoksja
-47776,47777,hipóxica,25,0.054041,ipoGsika,VCVCCVCV,2,2,0.054041,,ʝ p1 o1 k s i k a,ʝ p o k s i k a,ʝ.po.ksi.ka,ʝpoksika
-47777,47778,hipóxicas,1,0.002162,ipoGsikas,VCVCCVCVC,2,1,0.054041,,ʝ p1 o1 k s i k a s,ʝ p o k s i k a s,ʝ.po.ksi.kas,ʝpoksikas
-47778,47779,hipóxico,49,0.10592,ipoGsiko,VCVCCVCV,2,1,0.054041,,ʝ p1 o1 k s i k o,ʝ p o k s i k o,ʝ.po.ksi.ko,ʝpoksiko
+47721,47722,hipo,1048,2.265399,ipo,VCV,1,24,88.465573,,i1 p o,i p o,i.po,ipo
+47722,47723,hipoalergénica,30,0.064849,ipoalerxenika,VCVVCVCCVCVCV,5,2,0.060526,,i p o a l e ɾ x1 e1 n i k a,i p o a l e ɾ x e n i k a,i.po.a.leɾ.xe.ni.ka,ipoaleɾxenika
+47723,47724,hipoalergénicas,27,0.058364,ipoalerxenikas,VCVVCVCCVCVCVC,5,2,0.042152,,i p o a l e ɾ x1 e1 n i k a s,i p o a l e ɾ x e n i k a s,i.po.a.leɾ.xe.ni.kas,ipoaleɾxenikas
+47724,47725,hipoalergénico,29,0.062688,ipoalerxeniko,VCVVCVCCVCVCV,5,2,0.042152,,i p o a l e ɾ x1 e1 n i k o,i p o a l e ɾ x e n i k o,i.po.a.leɾ.xe.ni.ko,ipoaleɾxeniko
+47725,47726,hipoalergénicos,9,0.019455,ipoalerxenikos,VCVVCVCCVCVCVC,5,2,0.060526,,i p o a l e ɾ x1 e1 n i k o s,i p o a l e ɾ x e n i k o s,i.po.a.leɾ.xe.ni.kos,ipoaleɾxenikos
+47726,47727,hipocampo,226,0.488531,ipokampo,VCVCVCCV,3,1,0.047556,,i p o k1 a1 m1 p o,i p o k a m p o,i.po.kam.po,ipokampo
+47727,47728,hipocondría,44,0.095112,ipokondria,VCVCVCCCVV,4,0,0.0,,i p o k o n d1 ɾ1 i1 a,i p o k o n d ɾ i a,i.po.kon.dɾi.a,ipokondɾia
+47728,47729,hipocondríaca,86,0.185901,ipokondriaka,VCVCVCCCVVCV,4,1,0.298306,,i p o k o n d1 ɾ1 i1 a k a,i p o k o n d ɾ i a k a,i.po.kon.dɾi.a.ka,ipokondɾiaka
+47729,47730,hipocondríaco,138,0.298306,ipokondriako,VCVCVCCCVVCV,4,3,0.113126,,i p o k o n d1 ɾ1 i1 a k o,i p o k o n d ɾ i a k o,i.po.kon.dɾi.a.ko,ipokondɾiako
+47730,47731,hipocondríacos,45,0.097274,ipokondriakos,VCVCVCCCVVCVC,4,1,0.298306,,i p o k o n d1 ɾ1 i1 a k o s,i p o k o n d ɾ i a k o s,i.po.kon.dɾi.a.kos,ipokondɾiakos
+47731,47732,hipocrático,139,0.300468,ipokratiko,VCVCCVCVCV,3,1,0.002162,,i p o k1 ɾ1 a1 t i k o,i p o k ɾ a t i k o,i.po.kɾa.ti.ko,ipokɾatiko
+47732,47733,hipocresía,1107,2.392936,ipokresia,VCVCCVCVV,4,1,0.159961,,i p o k ɾ e s1 i1 a,i p o k ɾ e s i a,i.po.kɾe.si.a,ipokɾesia
+47733,47734,hipocresías,74,0.159961,ipokresias,VCVCCVCVVC,4,1,2.392936,,i p o k ɾ e s1 i1 a s,i p o k ɾ e s i a s,i.po.kɾe.si.as,ipokɾesias
+47734,47735,hipócrita,2916,6.303343,ipokrita,VCVCCVCV,2,1,1.926021,,i p1 o1 k ɾ i t a,i p o k ɾ i t a,i.po.kɾi.ta,ipokɾita
+47735,47736,hipócritas,891,1.926021,ipokritas,VCVCCVCVC,2,1,6.303343,,i p1 o1 k ɾ i t a s,i p o k ɾ i t a s,i.po.kɾi.tas,ipokɾitas
+47736,47737,hipodérmica,160,0.345862,ipoDermika,VCVCVCCVCV,3,2,0.070253,,i p o d1 e1 ɾ1 m i k a,i p o d e ɾ m i k a,i.po.deɾ.mi.ka,ipodeɾmika
+47737,47738,hipodérmicas,60,0.129698,ipoDermikas,VCVCVCCVCVC,3,2,0.179416,,i p o d1 e1 ɾ1 m i k a s,i p o d e ɾ m i k a s,i.po.deɾ.mi.kas,ipodeɾmikas
+47738,47739,hipódromo,853,1.843879,ipoDromo,VCVCCVCV,2,1,0.060526,,i p1 o1 d ɾ o m o,i p o d ɾ o m o,i.po.dɾo.mo,ipodɾomo
+47739,47740,hipófisis,32,0.069172,ipofisis,VCVCVCVC,2,1,0.032425,,i p1 o1 f i s i s,i p o f i s i s,i.po.fi.sis,ipofisis
+47740,47741,hipogloso,19,0.041071,ipoGloso,VCVCCVCV,3,0,0.0,,i p o ɡ1 l1 o1 s o,i p o ɡ l o s o,i.po.ɡlo.so,ipoɡloso
+47741,47742,hipoglucemia,128,0.27669,ipoGlusemja,VCVCCVCVCVV,4,0,0.0,,i p o ɡ l u s1 e1 m j a,i p o ɡ l u s e m j a,i.po.ɡlu.se.mja,ipoɡlusemja
+47742,47743,hipoglucémica,21,0.045394,ipoGlusemika,VCVCCVCVCVCV,4,1,0.03891,,i p o ɡ l u s1 e1 m i k a,i p o ɡ l u s e m i k a,i.po.ɡlu.se.mi.ka,ipoɡlusemika
+47743,47744,hipoglucémico,18,0.03891,ipoGlusemiko,VCVCCVCVCVCV,4,1,0.045394,,i p o ɡ l u s1 e1 m i k o,i p o ɡ l u s e m i k o,i.po.ɡlu.se.mi.ko,ipoɡlusemiko
+47744,47745,hipopótamo,602,1.301307,ipopotamo,VCVCVCVCV,3,1,0.486369,,i p o p1 o1 t a m o,i p o p o t a m o,i.po.po.ta.mo,ipopotamo
+47745,47746,hipopótamos,225,0.486369,ipopotamos,VCVCVCVCVC,3,1,1.301307,,i p o p1 o1 t a m o s,i p o p o t a m o s,i.po.po.ta.mos,ipopotamos
+47746,47747,hipotalámica,15,0.032425,ipotalamika,VCVCVCVCVCV,4,1,0.041071,,i p o t a l1 a1 m i k a,i p o t a l a m i k a,i.po.ta.la.mi.ka,ipotalamika
+47747,47748,hipotalámico,19,0.041071,ipotalamiko,VCVCVCVCVCV,4,1,0.032425,,i p o t a l1 a1 m i k o,i p o t a l a m i k o,i.po.ta.la.mi.ko,ipotalamiko
+47748,47749,hipotálamo,229,0.495016,ipotalamo,VCVCVCVCV,3,1,0.019455,,i p o t1 a1 l a m o,i p o t a l a m o,i.po.ta.la.mo,ipotalamo
+47749,47750,hipoteca,3059,6.612457,ipoteka,VCVCVCV,3,7,0.316526,,i p o t1 e1 k a,i p o t e k a,i.po.te.ka,ipoteka
+47750,47751,hipotecada,96,0.207517,ipotekaDa,VCVCVCVCV,4,3,0.139066,,i p o t e k1 a1 d a,i p o t e k a d a,i.po.te.ka.da,ipotekada
+47751,47752,hipotecado,165,0.356671,ipotekaDo,VCVCVCVCV,4,2,0.119971,,i p o t e k1 a1 d o,i p o t e k a d o,i.po.te.ka.do,ipotekado
+47752,47753,hipotecamos,6,0.01297,ipotekamos,VCVCVCVCVC,4,1,0.032425,,i p o t e k1 a1 m o s,i p o t e k a m o s,i.po.te.ka.mos,ipotekamos
+47753,47754,hipotecan,6,0.01297,ipotekan,VCVCVCVC,3,4,2.162721,,i p o t1 e1 k a n,i p o t e k a n,i.po.te.kan,ipotekan
+47754,47755,hipotecando,19,0.041071,ipotekando,VCVCVCVCCV,4,0,0.0,,i p o t e k1 a1 n1 d o,i p o t e k a n d o,i.po.te.kan.do,ipotekando
+47755,47756,hipotecar,213,0.460429,ipotekar,VCVCVCVC,4,6,1.374083,,i p o t e k1 a1 ɾ1,i p o t e k a ɾ,i.po.te.kaɾ,ipotekaɾ
+47756,47757,hipotecaria,125,0.270205,ipotekarja,VCVCVCVCVV,4,5,0.100733,,i p o t e k1 a1 ɾ j a,i p o t e k a ɾ j a,i.po.te.ka.ɾja,ipotekaɾja
+47757,47758,hipotecarias,53,0.114567,ipotekarjas,VCVCVCVCVVC,4,3,0.146271,,i p o t e k1 a1 ɾ j a s,i p o t e k a ɾ j a s,i.po.te.ka.ɾjas,ipotekaɾjas
+47758,47759,hipotecario,134,0.28966,ipotekarjo,VCVCVCVCVV,4,3,0.155638,,i p o t e k1 a1 ɾ j o,i p o t e k a ɾ j o,i.po.te.ka.ɾjo,ipotekaɾjo
+47759,47760,hipotecarios,77,0.166446,ipotekarjos,VCVCVCVCVVC,4,2,0.202114,,i p o t e k1 a1 ɾ j o s,i p o t e k a ɾ j o s,i.po.te.ka.ɾjos,ipotekaɾjos
+47760,47761,hipotecas,724,1.565027,ipotekas,VCVCVCVC,3,4,1.778489,,i p o t1 e1 k a s,i p o t e k a s,i.po.te.kas,ipotekas
+47761,47762,hipotecó,38,0.082142,ipoteko,VCVCVCV,4,3,2.232254,,i p o t e k1 o1,i p o t e k o,i.po.te.ko,ipoteko
+47762,47763,hipotensión,83,0.179416,ipotensjon,VCVCVCCVVC,4,0,0.0,,i p o t e n s1 j1 o1 n1,i p o t e n s j o n,i.po.ten.sjon,ipotensjon
+47763,47764,hipotenso,72,0.155638,ipotenso,VCVCVCCV,3,0,0.0,,i p o t1 e1 n1 s o,i p o t e n s o,i.po.ten.so,ipotenso
+47764,47765,hipotequé,30,0.064849,ipoteke,VCVCVCV,4,5,1.349296,,i p o t e k1 e,i p o t e k e,i.po.te.k.e,ipoteke
+47765,47766,hipotermia,588,1.271044,ipotermja,VCVCVCCVV,3,1,0.002162,,i p o t1 e1 ɾ1 m j a,i p o t e ɾ m j a,i.po.teɾ.mja,ipoteɾmja
+47766,47767,hipotérmico,63,0.136183,ipotermiko,VCVCVCCVCV,3,3,0.010088,,i p o t1 e1 ɾ1 m i k o,i p o t e ɾ m i k o,i.po.teɾ.mi.ko,ipoteɾmiko
+47767,47768,hipotérmicos,6,0.01297,ipotermikos,VCVCVCCVCVC,3,2,0.074577,,i p o t1 e1 ɾ1 m i k o s,i p o t e ɾ m i k o s,i.po.teɾ.mi.kos,ipoteɾmikos
+47768,47769,hipótesis,1978,4.275724,ipotesis,VCVCVCVC,2,0,0.0,,i p1 o1 t e s i s,i p o t e s i s,i.po.te.sis,ipotesis
+47769,47770,hipotética,351,0.758736,ipotetika,VCVCVCVCV,3,2,0.495016,,i p o t1 e1 t i k a,i p o t e t i k a,i.po.te.ti.ka,ipotetika
+47770,47771,hipotéticamente,892,1.928183,ipotetikamente,VCVCVCVCVCVCCV,3,0,0.0,,i p o t1 e1 t i k a m e n t e,i p o t e t i k a m e n t e,i.po.te.ti.ka.men.te,ipotetikamente
+47771,47772,hipotéticas,54,0.116729,ipotetikas,VCVCVCVCVC,3,2,0.424763,,i p o t1 e1 t i k a s,i p o t e t i k a s,i.po.te.ti.kas,ipotetikas
+47772,47773,hipotético,404,0.873303,ipotetiko,VCVCVCVCV,3,2,0.424763,,i p o t1 e1 t i k o,i p o t e t i k o,i.po.te.ti.ko,ipotetiko
+47773,47774,hipotéticos,42,0.090789,ipotetikos,VCVCVCVCVC,3,2,0.495016,,i p o t1 e1 t i k o s,i p o t e t i k o s,i.po.te.ti.kos,ipotetikos
+47774,47775,hipotiroidismo,65,0.140507,ipotiroiDizmo,VCVCVCVVCVCCV,5,0,0.0,,i p o t i ɾ o i d1 i1 s1 m o,i p o t i ɾ o i d i s m o,i.po.ti.ɾoi.dis.mo,ipotiɾoidismo
+47775,47776,hipoxia,137,0.296145,ipoGsja,VCVCCVV,2,0,0.0,,i p1 o1 k s j a,i p o k s j a,i.po.ksja,ipoksja
+47776,47777,hipóxica,25,0.054041,ipoGsika,VCVCCVCV,2,2,0.054041,,i p1 o1 k s i k a,i p o k s i k a,i.po.ksi.ka,ipoksika
+47777,47778,hipóxicas,1,0.002162,ipoGsikas,VCVCCVCVC,2,1,0.054041,,i p1 o1 k s i k a s,i p o k s i k a s,i.po.ksi.kas,ipoksikas
+47778,47779,hipóxico,49,0.10592,ipoGsiko,VCVCCVCV,2,1,0.054041,,i p1 o1 k s i k o,i p o k s i k o,i.po.ksi.ko,ipoksiko
 47779,47780,hippie,1442,3.117085,ippje,VCCVV,1,1,2.392936,,ʝ1 p1 p j e,ʝ p p j e,ʝp.pje,ʝppje
 47780,47781,hippies,1107,2.392936,ippjes,VCCVVC,1,1,3.117085,,ʝ1 p1 p j e s,ʝ p p j e s,ʝp.pjes,ʝppjes
-47781,47782,hiriendo,436,0.942475,irjendo,VCVVCCV,2,3,1.358951,,ʝ ɾ1 j1 e1 n1 d o,ʝ ɾ j e n d o,ʝ.ɾjen.do,ʝɾjendo
-47782,47783,hiriéndolo,16,0.034586,irjendolo,VCVVCCVCV,2,5,0.019023,,ʝ ɾ1 j1 e1 n1 d o l o,ʝ ɾ j e n d o l o,ʝ.ɾjen.do.lo,ʝɾjendolo
-47783,47784,hiriéndote,26,0.056203,irjendote,VCVVCCVCV,2,4,0.047556,,ʝ ɾ1 j1 e1 n1 d o t e,ʝ ɾ j e n d o t e,ʝ.ɾjen.do.te,ʝɾjendote
-47784,47785,hiriente,270,0.583643,irjente,VCVVCCV,2,4,2.755551,,ʝ ɾ1 j1 e1 n1 t e,ʝ ɾ j e n t e,ʝ.ɾjen.te,ʝɾjente
-47785,47786,hirientes,112,0.242104,irjentes,VCVVCCVC,2,3,0.230575,,ʝ ɾ1 j1 e1 n1 t e s,ʝ ɾ j e n t e s,ʝ.ɾjen.tes,ʝɾjentes
-47786,47787,hiriera,124,0.268043,irjera,VCVVCV,2,5,8.61673,,ʝ ɾ1 j1 e1 ɾ a,ʝ ɾ j e ɾ a,ʝ.ɾje.ɾa,ʝɾjeɾa
-47787,47788,hirieran,111,0.239942,irjeran,VCVVCVC,2,6,2.09499,,ʝ ɾ1 j1 e1 ɾ a n,ʝ ɾ j e ɾ a n,ʝ.ɾje.ɾan,ʝɾjeɾan
-47788,47789,hirieras,30,0.064849,irjeras,VCVVCVC,2,6,2.631797,,ʝ ɾ1 j1 e1 ɾ a s,ʝ ɾ j e ɾ a s,ʝ.ɾje.ɾas,ʝɾjeɾas
-47789,47790,hirieron,2139,4.623748,irjeron,VCVVCVC,2,5,20.258459,,ʝ ɾ1 j1 e1 ɾ o n,ʝ ɾ j e ɾ o n,ʝ.ɾje.ɾon,ʝɾjeɾon
-47790,47791,hiriese,36,0.077819,irjese,VCVVCV,2,6,0.702893,,ʝ ɾ1 j1 e1 s e,ʝ ɾ j e s e,ʝ.ɾje.se,ʝɾjese
-47791,47792,hirió,2049,4.429201,irjo,VCVV,2,16,0.774273,,ʝ ɾ1 j1 o1,ʝ ɾ j o,ʝ.ɾjo,ʝɾjo
+47781,47782,hiriendo,436,0.942475,irjendo,VCVVCCV,2,3,1.358951,,i ɾ1 j1 e1 n1 d o,i ɾ j e n d o,i.ɾjen.do,iɾjendo
+47782,47783,hiriéndolo,16,0.034586,irjendolo,VCVVCCVCV,2,5,0.019023,,i ɾ1 j1 e1 n1 d o l o,i ɾ j e n d o l o,i.ɾjen.do.lo,iɾjendolo
+47783,47784,hiriéndote,26,0.056203,irjendote,VCVVCCVCV,2,4,0.047556,,i ɾ1 j1 e1 n1 d o t e,i ɾ j e n d o t e,i.ɾjen.do.te,iɾjendote
+47784,47785,hiriente,270,0.583643,irjente,VCVVCCV,2,4,2.755551,,i ɾ1 j1 e1 n1 t e,i ɾ j e n t e,i.ɾjen.te,iɾjente
+47785,47786,hirientes,112,0.242104,irjentes,VCVVCCVC,2,3,0.230575,,i ɾ1 j1 e1 n1 t e s,i ɾ j e n t e s,i.ɾjen.tes,iɾjentes
+47786,47787,hiriera,124,0.268043,irjera,VCVVCV,2,5,8.61673,,i ɾ1 j1 e1 ɾ a,i ɾ j e ɾ a,i.ɾje.ɾa,iɾjeɾa
+47787,47788,hirieran,111,0.239942,irjeran,VCVVCVC,2,6,2.09499,,i ɾ1 j1 e1 ɾ a n,i ɾ j e ɾ a n,i.ɾje.ɾan,iɾjeɾan
+47788,47789,hirieras,30,0.064849,irjeras,VCVVCVC,2,6,2.631797,,i ɾ1 j1 e1 ɾ a s,i ɾ j e ɾ a s,i.ɾje.ɾas,iɾjeɾas
+47789,47790,hirieron,2139,4.623748,irjeron,VCVVCVC,2,5,20.258459,,i ɾ1 j1 e1 ɾ o n,i ɾ j e ɾ o n,i.ɾje.ɾon,iɾjeɾon
+47790,47791,hiriese,36,0.077819,irjese,VCVVCV,2,6,0.702893,,i ɾ1 j1 e1 s e,i ɾ j e s e,i.ɾje.se,iɾjese
+47791,47792,hirió,2049,4.429201,irjo,VCVV,2,16,0.774273,,i ɾ1 j1 o1,i ɾ j o,i.ɾjo,iɾjo
 47792,47793,hirviendo,1698,3.670465,irBjendo,VCCVVCCV,2,4,1.454243,,ʝ ɾ b1 j1 e1 n1 d o,ʝ ɾ b j e n d o,ʝɾ.bjen.do,ʝɾbjendo
 47793,47794,hirviente,135,0.291821,irBjente,VCCVVCCV,2,4,2.261616,,ʝ ɾ b1 j1 e1 n1 t e,ʝ ɾ b j e n t e,ʝɾ.bjen.te,ʝɾbjente
 47794,47795,hirviera,39,0.084304,irBjera,VCCVVCV,2,4,0.35559,,ʝ ɾ b1 j1 e1 ɾ a,ʝ ɾ b j e ɾ a,ʝɾ.bje.ɾa,ʝɾbjeɾa
-47795,47796,hisopo,140,0.30263,isopo,VCVCV,2,3,0.10592,,ʝ s1 o1 p o,ʝ s o p o,ʝ.so.po,ʝsopo
-47796,47797,hisopos,87,0.188063,isopos,VCVCVC,2,2,0.152396,,ʝ s1 o1 p o s,ʝ s o p o s,ʝ.so.pos,ʝsopos
+47795,47796,hisopo,140,0.30263,isopo,VCVCV,2,3,0.10592,,i s1 o1 p o,i s o p o,i.so.po,isopo
+47796,47797,hisopos,87,0.188063,isopos,VCVCVC,2,2,0.152396,,i s1 o1 p o s,i s o p o s,i.so.pos,isopos
 47797,47798,hispana,175,0.378287,ispana,VCCVCV,2,3,0.559144,,ʝ s p1 a1 n a,ʝ s p a n a,ʝs.pa.na,ʝspana
 47798,47799,hispanas,59,0.127537,ispanas,VCCVCVC,2,2,0.736039,,ʝ s p1 a1 n a s,ʝ s p a n a s,ʝs.pa.nas,ʝspanas
 47799,47800,hispania,80,0.172931,ispanja,VCCVCVV,2,1,0.378287,,ʝ s p1 a1 n j a,ʝ s p a n j a,ʝs.pa.nja,ʝspanja
@@ -47829,9 +47829,9 @@
 47827,47828,historieta,510,1.102436,istorjeta,VCCVCVVCV,3,1,2.760414,,ʝ s t o ɾ1 j1 e1 t a,ʝ s t o ɾ j e t a,ʝs.to.ɾje.ta,ʝstoɾjeta
 47828,47829,historietas,1277,2.760414,istorjetas,VCCVCVVCVC,3,1,1.102436,,ʝ s t o ɾ1 j1 e1 t a s,ʝ s t o ɾ j e t a s,ʝs.to.ɾje.tas,ʝstoɾjetas
 47829,47830,hit,1047,2.263237,iD,VC,1,39,475.978746,,ʝ1 t1,ʝ t,ʝt,ʝt
-47830,47831,hito,384,0.83007,ito,VCV,1,45,36.638551,,ʝ1 t o,ʝ t o,ʝ.to,ʝto
+47830,47831,hito,384,0.83007,ito,VCV,1,45,36.638551,,i1 t o,i t o,i.to,ito
 47831,47832,hits,350,0.756574,iDs,VCC,1,21,21.547538,,ʝ1 t1 s1,ʝ t s,ʝts,ʝts
-47832,47833,hizo,199378,430.983486,iso,VCV,1,50,128.776425,,ʝ1 s o,ʝ s o,ʝ.so,ʝso
+47832,47833,hizo,199378,430.983486,iso,VCV,1,50,128.776425,,i1 s o,i s o,i.so,iso
 47833,47834,hobbies,326,0.704695,oBBjes,VCCVVC,1,7,0.678446,,o1 b1 b j e s,o b b j e s,ob.bjes,obbjes
 47834,47835,hobby,1522,3.290016,oBBi,VCCV,1,6,12.847348,,o1 b1 b i,o b b i,ob.bi,obbi
 47835,47836,hoc,135,0.291821,ok,VC,1,28,149.533463,,o1 k1,o k,ok,ok
@@ -48189,20 +48189,20 @@
 48187,48188,hoyuelo,137,0.296145,oHuelo,VCVVCV,2,2,0.475561,,o i1 w1 e1 l o,o i w e l o,o.iwe.lo,oiwelo
 48188,48189,hoyuelos,374,0.808453,oHuelos,VCVVCVC,2,2,0.1578,,o i1 w1 e1 l o s,o i w e l o s,o.iwe.los,oiwelos
 48189,48190,hoz,271,0.585804,os,VC,1,61,544.184008,,o1 s1,o s,os,os
-48190,48191,hubiera,112134,242.393354,uBjera,VCVVCV,2,6,23.058576,,w b1 j1 e1 ɾ a,w b j e ɾ a,w.bje.ɾa,wbjeɾa
-48191,48192,hubierais,417,0.901404,uBjerais,VCVVCVVC,2,4,11.490198,,w b1 j1 e1 ɾ a i s,w b j e ɾ a i s,w.bje.ɾais,wbjeɾais
-48192,48193,hubiéramos,6132,13.255177,uBjeramos,VCVVCVCVC,2,4,2.263237,,w b1 j1 e1 ɾ a m o s,w b j e ɾ a m o s,w.bje.ɾa.mos,wbjeɾamos
-48193,48194,hubieran,13502,29.186465,uBjeran,VCVVCVC,2,7,42.544166,,w b1 j1 e1 ɾ a n,w b j e ɾ a n,w.bje.ɾan,wbjeɾan
-48194,48195,hubieras,21057,45.517656,uBjeras,VCVVCVC,2,8,36.649528,,w b1 j1 e1 ɾ a s,w b j e ɾ a s,w.bje.ɾas,wbjeɾas
-48195,48196,hubiere,54,0.116729,uBjere,VCVVCV,2,5,60.182655,,w b1 j1 e1 ɾ e,w b j e ɾ e,w.bje.ɾe,wbjeɾe
-48196,48197,hubieron,749,1.619068,uBjeron,VCVVCVC,2,5,13.439781,,w b1 j1 e1 ɾ o n,w b j e ɾ o n,w.bje.ɾon,wbjeɾon
-48197,48198,hubiese,27042,58.455072,uBjese,VCVVCV,2,7,3.483946,,w b1 j1 e1 s e,w b j e s e,w.bje.se,wbjese
-48198,48199,hubieseis,145,0.313438,uBjeseis,VCVVCVVC,2,4,2.25351,,w b1 j1 e1 s e i s,w b j e s e i s,w.bje.seis,wbjeseis
-48199,48200,hubiesemos,237,0.512309,uBjesemos,VCVVCVCVC,3,4,0.348024,,w b j e s1 e1 m o s,w b j e s e m o s,w.bje.se.mos,wbjesemos
-48200,48201,hubiésemos,1836,3.968771,uBjesemos,VCVVCVCVC,2,4,0.348024,,w b1 j1 e1 s e m o s,w b j e s e m o s,w.bje.se.mos,wbjesemos
-48201,48202,hubiesen,3106,6.714054,uBjesen,VCVVCVC,2,6,11.392924,,w b1 j1 e1 s e n,w b j e s e n,w.bje.sen,wbjesen
-48202,48203,hubieses,4127,8.921089,uBjeses,VCVVCVC,2,7,9.647091,,w b1 j1 e1 s e s,w b j e s e s,w.bje.ses,wbjeses
-48203,48204,hubo,47144,101.908362,uBo,VCV,1,31,40.946415,,w1 b o,w b o,w.bo,wbo
+48190,48191,hubiera,112134,242.393354,uBjera,VCVVCV,2,6,23.058576,,u b1 j1 e1 ɾ a,u b j e ɾ a,u.bje.ɾa,ubjeɾa
+48191,48192,hubierais,417,0.901404,uBjerais,VCVVCVVC,2,4,11.490198,,u b1 j1 e1 ɾ a i s,u b j e ɾ a i s,u.bje.ɾais,ubjeɾais
+48192,48193,hubiéramos,6132,13.255177,uBjeramos,VCVVCVCVC,2,4,2.263237,,u b1 j1 e1 ɾ a m o s,u b j e ɾ a m o s,u.bje.ɾa.mos,ubjeɾamos
+48193,48194,hubieran,13502,29.186465,uBjeran,VCVVCVC,2,7,42.544166,,u b1 j1 e1 ɾ a n,u b j e ɾ a n,u.bje.ɾan,ubjeɾan
+48194,48195,hubieras,21057,45.517656,uBjeras,VCVVCVC,2,8,36.649528,,u b1 j1 e1 ɾ a s,u b j e ɾ a s,u.bje.ɾas,ubjeɾas
+48195,48196,hubiere,54,0.116729,uBjere,VCVVCV,2,5,60.182655,,u b1 j1 e1 ɾ e,u b j e ɾ e,u.bje.ɾe,ubjeɾe
+48196,48197,hubieron,749,1.619068,uBjeron,VCVVCVC,2,5,13.439781,,u b1 j1 e1 ɾ o n,u b j e ɾ o n,u.bje.ɾon,ubjeɾon
+48197,48198,hubiese,27042,58.455072,uBjese,VCVVCV,2,7,3.483946,,u b1 j1 e1 s e,u b j e s e,u.bje.se,ubjese
+48198,48199,hubieseis,145,0.313438,uBjeseis,VCVVCVVC,2,4,2.25351,,u b1 j1 e1 s e i s,u b j e s e i s,u.bje.seis,ubjeseis
+48199,48200,hubiesemos,237,0.512309,uBjesemos,VCVVCVCVC,3,4,0.348024,,u b j e s1 e1 m o s,u b j e s e m o s,u.bje.se.mos,ubjesemos
+48200,48201,hubiésemos,1836,3.968771,uBjesemos,VCVVCVCVC,2,4,0.348024,,u b1 j1 e1 s e m o s,u b j e s e m o s,u.bje.se.mos,ubjesemos
+48201,48202,hubiesen,3106,6.714054,uBjesen,VCVVCVC,2,6,11.392924,,u b1 j1 e1 s e n,u b j e s e n,u.bje.sen,ubjesen
+48202,48203,hubieses,4127,8.921089,uBjeses,VCVVCVC,2,7,9.647091,,u b1 j1 e1 s e s,u b j e s e s,u.bje.ses,ubjeses
+48203,48204,hubo,47144,101.908362,uBo,VCV,1,31,40.946415,,u1 b o,u b o,u.bo,ubo
 48204,48205,hueca,1553,3.357027,Gueka,CVVCV,1,9,3.039746,,w1 e1 k a,w e k a,we.ka,weka
 48205,48206,huecas,372,0.80413,Guekas,CVVCVC,1,7,7.440983,,w1 e1 k a s,w e k a s,we.kas,wekas
 48206,48207,hueco,4923,10.641754,Gueko,CVVCV,1,10,5.889389,,w1 e1 k o,w e k o,we.ko,weko
@@ -48258,131 +48258,131 @@
 48256,48257,huevona,15,0.032425,GueBona,CVVCVCV,2,1,0.670108,,w e b1 o1 n a,w e b o n a,we.bo.na,webona
 48257,48258,huevones,73,0.1578,GueBones,CVVCVCVC,2,0,0.0,,w e b1 o1 n e s,w e b o n e s,we.bo.nes,webones
 48258,48259,huevos,22242,48.0792,GueBos,CVVCVC,1,7,8.431632,,w1 e1 b o s,w e b o s,we.bos,webos
-48259,48260,hugo,4520,9.770613,uGo,VCV,1,27,53.886086,,w1 ɡ o,w ɡ o,w.ɡo,wɡo
-48260,48261,huí,1212,2.619908,wi,VV,1,53,798.123624,,w1 i,w i,w.i,wi
-48261,48262,huía,651,1.407228,wia,VVV,1,25,50.23496,,w1 i a,w i a,w.i.a,wia
-48262,48263,huíamos,52,0.112405,wiamos,VVVCVC,1,3,0.757295,,w1 i a m o s,w i a m o s,w.i.a.mos,wiamos
-48263,48264,huían,219,0.473399,wian,VVVC,1,13,1.584815,,w1 i a n,w i a n,w.i.an,wian
-48264,48265,huías,138,0.298306,wias,VVVC,1,20,31.345943,,w1 i a s,w i a s,w.i.as,wias
+48259,48260,hugo,4520,9.770613,uGo,VCV,1,27,53.886086,,u1 ɡ o,u ɡ o,u.ɡo,uɡo
+48260,48261,huí,1212,2.619908,wi,VV,1,53,798.123624,,u1 i,u i,u.i,ui
+48261,48262,huía,651,1.407228,wia,VVV,1,25,50.23496,,u1 i a,u i a,u.i.a,uia
+48262,48263,huíamos,52,0.112405,wiamos,VVVCVC,1,3,0.757295,,u1 i a m o s,u i a m o s,u.i.a.mos,uiamos
+48263,48264,huían,219,0.473399,wian,VVVC,1,13,1.584815,,u1 i a n,u i a n,u.i.an,uian
+48264,48265,huías,138,0.298306,wias,VVVC,1,20,31.345943,,u1 i a s,u i a s,u.i.as,uias
 48265,48266,huid,213,0.460429,wiD,VVC,1,27,7.332363,,w1 i1 d1,w i d,wid,wid
-48266,48267,huida,1425,3.080337,wiDa,VVCV,1,19,61.769208,,w1 i d a,w i d a,w.i.da,wida
-48267,48268,huidas,122,0.26372,wiDas,VVCVC,1,13,7.848749,,w1 i d a s,w i d a s,w.i.das,widas
+48266,48267,huida,1425,3.080337,wiDa,VVCV,1,19,61.769208,,u1 i d a,u i d a,u.i.da,uida
+48267,48268,huidas,122,0.26372,wiDas,VVCVC,1,13,7.848749,,u1 i d a s,u i d a s,u.i.das,uidas
 48268,48269,huidizo,45,0.097274,wiDiso,VVCVCV,2,2,0.036748,,w i d1 i1 s o,w i d i s o,wi.di.so,widiso
-48269,48270,huido,2831,6.119603,wiDo,VVCV,1,16,69.843538,,w1 i d o,w i d o,w.i.do,wido
-48270,48271,huimos,742,1.603937,wimos,VVCVC,1,9,13.728336,,w1 i m o s,w i m o s,w.i.mos,wimos
-48271,48272,huir,15300,33.073094,wir,VVC,1,17,63.185504,,w1 i ɾ,w i ɾ,w.iɾ,wiɾ
-48272,48273,huirá,307,0.663624,wira,VVCV,2,25,42.604025,,w i1 ɾ a,w i ɾ a,w.i.ɾa,wiɾa
+48269,48270,huido,2831,6.119603,wiDo,VVCV,1,16,69.843538,,u1 i d o,u i d o,u.i.do,uido
+48270,48271,huimos,742,1.603937,wimos,VVCVC,1,9,13.728336,,u1 i m o s,u i m o s,u.i.mos,uimos
+48271,48272,huir,15300,33.073094,wir,VVC,1,17,63.185504,,u1 i ɾ,u i ɾ,u.iɾ,uiɾ
+48272,48273,huirá,307,0.663624,wira,VVCV,2,25,42.604025,,u i1 ɾ a,u i ɾ a,u.i.ɾa,uiɾa
 48273,48274,huirán,189,0.40855,wiran,VVCVC,2,13,4.648025,,w i ɾ1 a1 n1,w i ɾ a n,wi.ɾan,wiɾan
-48274,48275,huirás,150,0.324246,wiras,VVCVC,2,17,7.416206,,w i1 ɾ a s,w i ɾ a s,w.i.ɾas,wiɾas
-48275,48276,huiré,305,0.6593,wire,VVCV,2,28,24.594678,,w i1 ɾ e,w i ɾ e,w.i.ɾe,wiɾe
-48276,48277,huiremos,245,0.529602,wiremos,VVCVCVC,2,8,12.094376,,w i1 ɾ e m o s,w i ɾ e m o s,w.i.ɾe.mos,wiɾemos
-48277,48278,huiría,269,0.581481,wiria,VVCVV,2,6,19.635979,,u ʝ1 ɾ i a,u ʝ ɾ i a,u.ʝ.ɾi.a,uʝɾia
-48278,48279,huiríamos,39,0.084304,wiriamos,VVCVVCVC,2,3,2.037706,,u ʝ1 ɾ i a m o s,u ʝ ɾ i a m o s,u.ʝ.ɾi.a.mos,uʝɾiamos
-48279,48280,huirían,46,0.099435,wirian,VVCVVC,2,6,1.470636,,u ʝ1 ɾ i a n,u ʝ ɾ i a n,u.ʝ.ɾi.an,uʝɾian
-48280,48281,huirías,71,0.153476,wirias,VVCVVC,2,7,2.922537,,u ʝ1 ɾ i a s,u ʝ ɾ i a s,u.ʝ.ɾi.as,uʝɾias
-48281,48282,huiste,992,2.144347,wiste,VVCCV,1,13,26.838092,,w1 i s t e,w i s t e,w.is.te,wiste
-48282,48283,huíste,96,0.207517,wiste,VVCCV,1,13,26.838092,,w1 i s t e,w i s t e,w.is.te,wiste
-48283,48284,hule,492,1.063527,ule,VCV,1,26,140.49314,,w1 l e,w l e,w.le,wle
-48284,48285,humana,23960,51.792898,umana,VCVCV,2,11,8.567759,,w m1 a1 n a,w m a n a,w.ma.na,wmana
-48285,48286,humanamente,470,1.015971,umanamente,VCVCVCVCCV,4,0,0.0,,w m a n a m1 e1 n1 t e,w m a n a m e n t e,w.ma.na.men.te,wmanamente
-48286,48287,humanas,4129,8.925412,umanas,VCVCVC,2,7,17.204494,,w m1 a1 n a s,w m a n a s,w.ma.nas,wmanas
-48287,48288,humanidad,14566,31.48645,umaniDaD,VCVCVCVC,4,0,0.0,,w m a n i d1 a1 d1,w m a n i d a d,w.ma.ni.dad,wmanidad
-48288,48289,humanidades,84,0.181578,umaniDaDes,VCVCVCVCVC,4,0,0.0,,w m a n i d1 a1 d e s,w m a n i d a d e s,w.ma.ni.da.des,wmanidades
-48289,48290,humanismo,116,0.25075,umanizmo,VCVCVCCV,3,0,0.0,,w m a n1 i1 s1 m o,w m a n i s m o,w.ma.nis.mo,wmanismo
-48290,48291,humanista,154,0.332893,umanista,VCVCVCCV,3,2,0.092951,,w m a n1 i1 s1 t a,w m a n i s t a,w.ma.nis.ta,wmanista
-48291,48292,humanistas,56,0.121052,umanistas,VCVCVCCVC,3,2,0.169689,,w m a n1 i1 s1 t a s,w m a n i s t a s,w.ma.nis.tas,wmanistas
-48292,48293,humanitaria,493,1.065689,umanitarja,VCVCVCVCVV,4,2,0.905727,,w m a n i t1 a1 ɾ j a,w m a n i t a ɾ j a,w.ma.ni.ta.ɾja,wmanitaɾja
-48293,48294,humanitarias,197,0.425843,umanitarjas,VCVCVCVCVVC,4,2,0.770625,,w m a n i t1 a1 ɾ j a s,w m a n i t a ɾ j a s,w.ma.ni.ta.ɾjas,wmanitaɾjas
-48294,48295,humanitario,641,1.385611,umanitarjo,VCVCVCVCVV,4,2,0.770625,,w m a n i t1 a1 ɾ j o,w m a n i t a ɾ j o,w.ma.ni.ta.ɾjo,wmanitaɾjo
-48295,48296,humanitarios,220,0.475561,umanitarjos,VCVCVCVCVVC,4,2,0.905727,,w m a n i t1 a1 ɾ j o s,w m a n i t a ɾ j o s,w.ma.ni.ta.ɾjos,wmanitaɾjos
-48296,48297,humano,38092,82.341196,umano,VCVCV,2,17,23.946141,,w m1 a1 n o,w m a n o,w.ma.no,wmano
-48297,48298,humanoide,447,0.966253,umanoiDe,VCVCVVCV,3,1,0.892757,,w m a n1 o1 i1 d e,w m a n o i d e,w.ma.noi.de,wmanoide
-48298,48299,humanoides,413,0.892757,umanoiDes,VCVCVVCVC,3,1,0.966253,,w m a n1 o1 i1 d e s,w m a n o i d e s,w.ma.noi.des,wmanoides
-48299,48300,humanos,31659,68.435365,umanos,VCVCVC,2,9,42.012437,,w m1 a1 n o s,w m a n o s,w.ma.nos,wmanos
+48274,48275,huirás,150,0.324246,wiras,VVCVC,2,17,7.416206,,u i1 ɾ a s,u i ɾ a s,u.i.ɾas,uiɾas
+48275,48276,huiré,305,0.6593,wire,VVCV,2,28,24.594678,,u i1 ɾ e,u i ɾ e,u.i.ɾe,uiɾe
+48276,48277,huiremos,245,0.529602,wiremos,VVCVCVC,2,8,12.094376,,u i1 ɾ e m o s,u i ɾ e m o s,u.i.ɾe.mos,uiɾemos
+48277,48278,huiría,269,0.581481,wiria,VVCVV,2,6,19.635979,,u i1 ɾ i a,u i ɾ i a,u.i.ɾi.a,uiɾia
+48278,48279,huiríamos,39,0.084304,wiriamos,VVCVVCVC,2,3,2.037706,,u i1 ɾ i a m o s,u i ɾ i a m o s,u.i.ɾi.a.mos,uiɾiamos
+48279,48280,huirían,46,0.099435,wirian,VVCVVC,2,6,1.470636,,u i1 ɾ i a n,u i ɾ i a n,u.i.ɾi.an,uiɾian
+48280,48281,huirías,71,0.153476,wirias,VVCVVC,2,7,2.922537,,u i1 ɾ i a s,u i ɾ i a s,u.i.ɾi.as,uiɾias
+48281,48282,huiste,992,2.144347,wiste,VVCCV,1,13,26.838092,,u1 i s t e,u i s t e,u.is.te,uiste
+48282,48283,huíste,96,0.207517,wiste,VVCCV,1,13,26.838092,,u1 i s t e,u i s t e,u.is.te,uiste
+48283,48284,hule,492,1.063527,ule,VCV,1,26,140.49314,,u1 l e,u l e,u.le,ule
+48284,48285,humana,23960,51.792898,umana,VCVCV,2,11,8.567759,,u m1 a1 n a,u m a n a,u.ma.na,umana
+48285,48286,humanamente,470,1.015971,umanamente,VCVCVCVCCV,4,0,0.0,,u m a n a m1 e1 n1 t e,u m a n a m e n t e,u.ma.na.men.te,umanamente
+48286,48287,humanas,4129,8.925412,umanas,VCVCVC,2,7,17.204494,,u m1 a1 n a s,u m a n a s,u.ma.nas,umanas
+48287,48288,humanidad,14566,31.48645,umaniDaD,VCVCVCVC,4,0,0.0,,u m a n i d1 a1 d1,u m a n i d a d,u.ma.ni.dad,umanidad
+48288,48289,humanidades,84,0.181578,umaniDaDes,VCVCVCVCVC,4,0,0.0,,u m a n i d1 a1 d e s,u m a n i d a d e s,u.ma.ni.da.des,umanidades
+48289,48290,humanismo,116,0.25075,umanizmo,VCVCVCCV,3,0,0.0,,u m a n1 i1 s1 m o,u m a n i s m o,u.ma.nis.mo,umanismo
+48290,48291,humanista,154,0.332893,umanista,VCVCVCCV,3,2,0.092951,,u m a n1 i1 s1 t a,u m a n i s t a,u.ma.nis.ta,umanista
+48291,48292,humanistas,56,0.121052,umanistas,VCVCVCCVC,3,2,0.169689,,u m a n1 i1 s1 t a s,u m a n i s t a s,u.ma.nis.tas,umanistas
+48292,48293,humanitaria,493,1.065689,umanitarja,VCVCVCVCVV,4,2,0.905727,,u m a n i t1 a1 ɾ j a,u m a n i t a ɾ j a,u.ma.ni.ta.ɾja,umanitaɾja
+48293,48294,humanitarias,197,0.425843,umanitarjas,VCVCVCVCVVC,4,2,0.770625,,u m a n i t1 a1 ɾ j a s,u m a n i t a ɾ j a s,u.ma.ni.ta.ɾjas,umanitaɾjas
+48294,48295,humanitario,641,1.385611,umanitarjo,VCVCVCVCVV,4,2,0.770625,,u m a n i t1 a1 ɾ j o,u m a n i t a ɾ j o,u.ma.ni.ta.ɾjo,umanitaɾjo
+48295,48296,humanitarios,220,0.475561,umanitarjos,VCVCVCVCVVC,4,2,0.905727,,u m a n i t1 a1 ɾ j o s,u m a n i t a ɾ j o s,u.ma.ni.ta.ɾjos,umanitaɾjos
+48296,48297,humano,38092,82.341196,umano,VCVCV,2,17,23.946141,,u m1 a1 n o,u m a n o,u.ma.no,umano
+48297,48298,humanoide,447,0.966253,umanoiDe,VCVCVVCV,3,1,0.892757,,u m a n1 o1 i1 d e,u m a n o i d e,u.ma.noi.de,umanoide
+48298,48299,humanoides,413,0.892757,umanoiDes,VCVCVVCVC,3,1,0.966253,,u m a n1 o1 i1 d e s,u m a n o i d e s,u.ma.noi.des,umanoides
+48299,48300,humanos,31659,68.435365,umanos,VCVCVC,2,9,42.012437,,u m1 a1 n o s,u m a n o s,u.ma.nos,umanos
 48300,48301,humberto,111,0.239942,umBerto,VCCVCCV,2,1,0.101597,,w m b1 e1 ɾ1 t o,w m b e ɾ t o,wm.beɾ.to,wmbeɾto
-48301,48302,humeaba,22,0.047556,umeaBa,VCVVCV,3,4,0.097274,,w m e a1 b a,w m e a b a,w.me.a.ba,wmeaba
-48302,48303,humeando,101,0.218326,umeando,VCVVCCV,3,3,1.570071,,w m e a1 n1 d o,w m e a n d o,w.me.an.do,wmeando
-48303,48304,humeante,553,1.195387,umeante,VCVVCCV,3,2,0.268043,,w m e a1 n1 t e,w m e a n t e,w.me.an.te,wmeante
-48304,48305,humeantes,246,0.531763,umeantes,VCVVCCVC,3,1,1.195387,,w m e a1 n1 t e s,w m e a n t e s,w.me.an.tes,wmeantes
-48305,48306,humear,26,0.056203,umear,VCVVC,3,6,1.724989,,w m e a1 ɾ1,w m e a ɾ,w.me.aɾ,wmeaɾ
-48306,48307,humectante,147,0.317761,umektante,VCVCCVCCV,3,0,0.0,,w m e k t1 a1 n1 t e,w m e k t a n t e,w.mek.tan.te,wmektante
-48307,48308,húmeda,1835,3.96661,umeDa,VCVCV,1,8,1.553139,,w1 m e d a,w m e d a,w.me.da,wmeda
-48308,48309,humedad,2555,5.522991,umeDaD,VCVCVC,3,3,1.741561,,w m e d1 a1 d1,w m e d a d,w.me.dad,wmedad
-48309,48310,húmedas,580,1.253751,umeDas,VCVCVC,1,7,1.550205,,w1 m e d a s,w m e d a s,w.me.das,wmedas
-48310,48311,humedece,94,0.203194,umeDese,VCVCVCV,3,4,0.109163,,w m e d1 e1 s e,w m e d e s e,w.me.de.se,wmedese
-48311,48312,humedecedor,3,0.006485,umeDeseDor,VCVCVCVCVC,5,0,0.0,,w m e d e s e d1 o1 ɾ1,w m e d e s e d o ɾ,w.me.de.se.doɾ,wmedesedoɾ
-48312,48313,humedecen,89,0.192386,umeDesen,VCVCVCVC,3,3,0.14555,,w m e d1 e1 s e n,w m e d e s e n,w.me.de.sen,wmedesen
-48313,48314,humedecer,96,0.207517,umeDeser,VCVCVCVC,4,5,0.088195,,w m e d e s1 e1 ɾ1,w m e d e s e ɾ,w.me.de.seɾ,wmedeseɾ
-48314,48315,humedecías,2,0.004323,umeDesias,VCVCVCVVC,4,4,0.008106,,w m e d e s1 i1 a s,w m e d e s i a s,w.me.de.si.as,wmedesias
-48315,48316,humedecidas,7,0.015131,umeDesiDas,VCVCVCVCVC,4,3,0.01297,,w m e d e s1 i1 d a s,w m e d e s i d a s,w.me.de.si.das,wmedesidas
-48316,48317,humedecido,31,0.067011,umeDesiDo,VCVCVCVCV,4,2,0.017293,,w m e d e s1 i1 d o,w m e d e s i d o,w.me.de.si.do,wmedesido
-48317,48318,humedeciendo,13,0.028101,umeDesjendo,VCVCVCVVCCV,4,0,0.0,,w m e d e s1 i1 e1 n1 d o,w m e d e s i e n d o,w.me.de.sien.do,wmedesiendo
-48318,48319,humedeciéndose,4,0.008647,umeDesjendose,VCVCVCVVCCVCV,4,1,0.004323,,w m e d e s1 i1 e1 n1 d o s e,w m e d e s i e n d o s e,w.me.de.sien.do.se,wmedesiendose
-48319,48320,humedecieron,9,0.019455,umeDesjeron,VCVCVCVVCVC,4,1,0.002162,,w m e d e s1 i1 e1 ɾ o n,w m e d e s i e ɾ o n,w.me.de.sie.ɾon,wmedesieɾon
-48320,48321,humedezca,37,0.079981,umeDeska,VCVCVCCV,3,4,0.015672,,w m e d1 e1 s1 k a,w m e d e s k a,w.me.des.ka,wmedeska
-48321,48322,húmedo,2461,5.319796,umeDo,VCVCV,1,9,0.670349,,w1 m e d o,w m e d o,w.me.do,wmedo
-48322,48323,húmedos,611,1.320762,umeDos,VCVCVC,1,5,1.330273,,w1 m e d o s,w m e d o s,w.me.dos,wmedos
-48323,48324,húmero,201,0.43449,umero,VCVCV,1,16,15.981546,,w1 m e ɾ o,w m e ɾ o,w.me.ɾo,wmeɾo
-48324,48325,humidificador,88,0.190224,umiDifikaDor,VCVCVCVCVCVC,6,2,0.011889,,w m i d i f i k a d1 o1 ɾ1,w m i d i f i k a d o ɾ,w.mi.di.fi.ka.doɾ,wmidifikadoɾ
-48325,48326,humidificadores,12,0.02594,umiDifikaDores,VCVCVCVCVCVCVC,6,0,0.0,,w m i d i f i k a d1 o1 ɾ e s,w m i d i f i k a d o ɾ e s,w.mi.di.fi.ka.do.ɾes,wmidifikadoɾes
-48326,48327,humildad,1848,3.994711,umildaD,VCVCCVC,3,0,0.0,,w m i l d1 a1 d1,w m i l d a d,w.mil.dad,wmildad
-48327,48328,humilde,5303,11.463178,umilde,VCVCCV,2,1,2.42536,,w m1 i1 l1 d e,w m i l d e,w.mil.de,wmilde
-48328,48329,humildemente,1074,2.321601,umildemente,VCVCCVCVCCV,4,0,0.0,,w m i l d e m1 e1 n1 t e,w m i l d e m e n t e,w.mil.de.men.te,wmildemente
-48329,48330,humildes,1122,2.42536,umildes,VCVCCVC,2,1,11.463178,,w m1 i1 l1 d e s,w m i l d e s,w.mil.des,wmildes
-48330,48331,humilla,307,0.663624,umiLa,VCVCV,2,10,1.216571,,w m1 i1 ʝ a,w m i ʝ a,w.mi.ʝa,wmiʝa
-48331,48332,humillaban,23,0.049718,umiLaBan,VCVCVCVC,3,4,0.042152,,w m i ʝ1 a1 b a n,w m i ʝ a b a n,w.mi.ʝa.ban,wmiʝaban
-48332,48333,humillación,2755,5.955319,umiLasjon,VCVCVCVVC,4,0,0.0,,w m i ʝ a s1 i1 o1 n1,w m i ʝ a s i o n,w.mi.ʝa.sion,wmiʝasion
-48333,48334,humillaciones,296,0.639845,umiLasjones,VCVCVCVVCVC,4,0,0.0,,w m i ʝ a s1 i1 o1 n e s,w m i ʝ a s i o n e s,w.mi.ʝa.sio.nes,wmiʝasiones
-48334,48335,humillada,757,1.636362,umiLaDa,VCVCVCV,3,7,0.633978,,w m i ʝ1 a1 d a,w m i ʝ a d a,w.mi.ʝa.da,wmiʝada
-48335,48336,humilladas,53,0.114567,umiLaDas,VCVCVCVC,3,5,0.474696,,w m i ʝ1 a1 d a s,w m i ʝ a d a s,w.mi.ʝa.das,wmiʝadas
-48336,48337,humilladlo,2,0.004323,umiLaDlo,VCVCVCCV,3,4,1.19971,,w m i ʝ1 a1 d1 l o,w m i ʝ a d l o,w.mi.ʝad.lo,wmiʝadlo
-48337,48338,humillado,1870,4.042267,umiLaDo,VCVCVCV,3,6,0.38153,,w m i ʝ1 a1 d o,w m i ʝ a d o,w.mi.ʝa.do,wmiʝado
-48338,48339,humillados,287,0.620391,umiLaDos,VCVCVCVC,3,7,0.615141,,w m i ʝ1 a1 d o s,w m i ʝ a d o s,w.mi.ʝa.dos,wmiʝados
-48339,48340,humillamos,35,0.075657,umiLamos,VCVCVCVC,3,5,0.138345,,w m i ʝ1 a1 m o s,w m i ʝ a m o s,w.mi.ʝa.mos,wmiʝamos
-48340,48341,humillan,139,0.300468,umiLan,VCVCVC,2,7,0.401756,,w m1 i1 ʝ a n,w m i ʝ a n,w.mi.ʝan,wmiʝan
-48341,48342,humillando,192,0.415035,umiLando,VCVCVCCV,3,0,0.0,,w m i ʝ1 a1 n1 d o,w m i ʝ a n d o,w.mi.ʝan.do,wmiʝando
-48342,48343,humillándome,110,0.23778,umiLandome,VCVCVCCVCV,3,3,0.095112,,w m i ʝ1 a1 n1 d o m e,w m i ʝ a n d o m e,w.mi.ʝan.do.me,wmiʝandome
-48343,48344,humillándote,70,0.151315,umiLandote,VCVCVCCVCV,3,3,0.123934,,w m i ʝ1 a1 n1 d o t e,w m i ʝ a n d o t e,w.mi.ʝan.do.te,wmiʝandote
-48344,48345,humillante,2501,5.406262,umiLante,VCVCVCCV,3,4,0.572835,,w m i ʝ1 a1 n1 t e,w m i ʝ a n t e,w.mi.ʝan.te,wmiʝante
-48345,48346,humillantes,148,0.319923,umiLantes,VCVCVCCVC,3,1,5.406262,,w m i ʝ1 a1 n1 t e s,w m i ʝ a n t e s,w.mi.ʝan.tes,wmiʝantes
-48346,48347,humillar,611,1.320762,umiLar,VCVCVC,3,9,0.34274,,w m i ʝ1 a1 ɾ1,w m i ʝ a ɾ,w.mi.ʝaɾ,wmiʝaɾ
-48347,48348,humillara,25,0.054041,umiLara,VCVCVCV,3,12,0.314699,,w m i ʝ1 a1 ɾ a,w m i ʝ a ɾ a,w.mi.ʝa.ɾa,wmiʝaɾa
-48348,48349,humillará,50,0.108082,umiLara,VCVCVCV,4,12,0.314699,,w m i ʝ a ɾ1 a1,w m i ʝ a ɾ a,w.mi.ʝa.ɾa,wmiʝaɾa
-48349,48350,humillarán,22,0.047556,umiLaran,VCVCVCVC,4,7,0.099436,,w m i ʝ a ɾ1 a1 n1,w m i ʝ a ɾ a n,w.mi.ʝa.ɾan,wmiʝaɾan
-48350,48351,humillaras,26,0.056203,umiLaras,VCVCVCVC,3,9,0.046115,,w m i ʝ1 a1 ɾ a s,w m i ʝ a ɾ a s,w.mi.ʝa.ɾas,wmiʝaɾas
-48351,48352,humillarás,24,0.051879,umiLaras,VCVCVCVC,4,9,0.046115,,w m i ʝ a ɾ1 a1 s1,w m i ʝ a ɾ a s,w.mi.ʝa.ɾas,wmiʝaɾas
-48352,48353,humillaré,40,0.086466,umiLare,VCVCVCV,4,11,0.659497,,w m i ʝ a ɾ1 e1,w m i ʝ a ɾ e,w.mi.ʝa.ɾe,wmiʝaɾe
-48353,48354,humillaría,45,0.097274,umiLaria,VCVCVCVV,4,5,0.105056,,w m i ʝ a ɾ1 i1 a,w m i ʝ a ɾ i a,w.mi.ʝa.ɾi.a,wmiʝaɾia
-48354,48355,humillarían,15,0.032425,umiLarian,VCVCVCVVC,4,4,0.044854,,w m i ʝ a ɾ1 i1 a n,w m i ʝ a ɾ i a n,w.mi.ʝa.ɾi.an,wmiʝaɾian
-48355,48356,humillarla,151,0.326408,umiLarla,VCVCVCCV,3,7,0.172931,,w m i ʝ1 a1 ɾ1 l a,w m i ʝ a ɾ l a,w.mi.ʝaɾ.la,wmiʝaɾla
-48356,48357,humillarlas,10,0.021616,umiLarlas,VCVCVCCVC,3,6,0.115648,,w m i ʝ1 a1 ɾ1 l a s,w m i ʝ a ɾ l a s,w.mi.ʝaɾ.las,wmiʝaɾlas
-48357,48358,humillarlo,338,0.730634,umiLarlo,VCVCVCCV,3,5,0.143965,,w m i ʝ1 a1 ɾ1 l o,w m i ʝ a ɾ l o,w.mi.ʝaɾ.lo,wmiʝaɾlo
-48358,48359,humillarlos,100,0.216164,umiLarlos,VCVCVCCVC,3,6,0.22409,,w m i ʝ1 a1 ɾ1 l o s,w m i ʝ a ɾ l o s,w.mi.ʝaɾ.los,wmiʝaɾlos
-48359,48360,humillarme,1718,3.713698,umiLarme,VCVCVCCV,3,7,0.300468,,w m i ʝ1 a1 ɾ1 m e,w m i ʝ a ɾ m e,w.mi.ʝaɾ.me,wmiʝaɾme
-48360,48361,humillarnos,236,0.510147,umiLarnos,VCVCVCCVC,3,2,0.121052,,w m i ʝ1 a1 ɾ1 n o s,w m i ʝ a ɾ n o s,w.mi.ʝaɾ.nos,wmiʝaɾnos
-48361,48362,humillaron,159,0.343701,umiLaron,VCVCVCVC,3,3,0.034586,,w m i ʝ1 a1 ɾ o n,w m i ʝ a ɾ o n,w.mi.ʝa.ɾon,wmiʝaɾon
-48362,48363,humillarse,208,0.449621,umiLarse,VCVCVCCV,3,6,0.886273,,w m i ʝ1 a1 ɾ1 s e,w m i ʝ a ɾ s e,w.mi.ʝaɾ.se,wmiʝaɾse
-48363,48364,humillarte,618,1.335894,umiLarte,VCVCVCCV,3,8,1.307792,,w m i ʝ1 a1 ɾ1 t e,w m i ʝ a ɾ t e,w.mi.ʝaɾ.te,wmiʝaɾte
-48364,48365,humillas,155,0.335054,umiLas,VCVCVC,2,9,3.9803,,w m1 i1 ʝ a s,w m i ʝ a s,w.mi.ʝas,wmiʝas
-48365,48366,humillaste,273,0.590128,umiLaste,VCVCVCCV,3,4,1.699589,,w m i ʝ1 a1 s1 t e,w m i ʝ a s t e,w.mi.ʝas.te,wmiʝaste
-48366,48367,humille,181,0.391257,umiLe,VCVCV,2,6,0.505824,,w m1 i1 ʝ e,w m i ʝ e,w.mi.ʝe,wmiʝe
-48367,48368,humillé,91,0.196709,umiLe,VCVCV,3,6,0.505824,,w m i ʝ1 e1,w m i ʝ e,w.mi.ʝe,wmiʝe
-48368,48369,humillen,201,0.43449,umiLen,VCVCVC,2,4,0.297226,,w m1 i1 ʝ e n,w m i ʝ e n,w.mi.ʝen,wmiʝen
-48369,48370,humíllense,4,0.008647,umiLense,VCVCVCCV,2,1,0.02594,,w m1 i1 ʝ e n s e,w m i ʝ e n s e,w.mi.ʝen.se,wmiʝense
-48370,48371,humilles,139,0.300468,umiLes,VCVCVC,2,6,0.232016,,w m1 i1 ʝ e s,w m i ʝ e s,w.mi.ʝes,wmiʝes
-48371,48372,humillo,99,0.214002,umiLo,VCVCV,2,4,0.31668,,w m1 i1 ʝ o,w m i ʝ o,w.mi.ʝo,wmiʝo
-48372,48373,humilló,405,0.875464,umiLo,VCVCV,3,4,0.31668,,w m i ʝ1 o1,w m i ʝ o,w.mi.ʝo,wmiʝo
+48301,48302,humeaba,22,0.047556,umeaBa,VCVVCV,3,4,0.097274,,u m e a1 b a,u m e a b a,u.me.a.ba,umeaba
+48302,48303,humeando,101,0.218326,umeando,VCVVCCV,3,3,1.570071,,u m e a1 n1 d o,u m e a n d o,u.me.an.do,umeando
+48303,48304,humeante,553,1.195387,umeante,VCVVCCV,3,2,0.268043,,u m e a1 n1 t e,u m e a n t e,u.me.an.te,umeante
+48304,48305,humeantes,246,0.531763,umeantes,VCVVCCVC,3,1,1.195387,,u m e a1 n1 t e s,u m e a n t e s,u.me.an.tes,umeantes
+48305,48306,humear,26,0.056203,umear,VCVVC,3,6,1.724989,,u m e a1 ɾ1,u m e a ɾ,u.me.aɾ,umeaɾ
+48306,48307,humectante,147,0.317761,umektante,VCVCCVCCV,3,0,0.0,,u m e k t1 a1 n1 t e,u m e k t a n t e,u.mek.tan.te,umektante
+48307,48308,húmeda,1835,3.96661,umeDa,VCVCV,1,8,1.553139,,u1 m e d a,u m e d a,u.me.da,umeda
+48308,48309,humedad,2555,5.522991,umeDaD,VCVCVC,3,3,1.741561,,u m e d1 a1 d1,u m e d a d,u.me.dad,umedad
+48309,48310,húmedas,580,1.253751,umeDas,VCVCVC,1,7,1.550205,,u1 m e d a s,u m e d a s,u.me.das,umedas
+48310,48311,humedece,94,0.203194,umeDese,VCVCVCV,3,4,0.109163,,u m e d1 e1 s e,u m e d e s e,u.me.de.se,umedese
+48311,48312,humedecedor,3,0.006485,umeDeseDor,VCVCVCVCVC,5,0,0.0,,u m e d e s e d1 o1 ɾ1,u m e d e s e d o ɾ,u.me.de.se.doɾ,umedesedoɾ
+48312,48313,humedecen,89,0.192386,umeDesen,VCVCVCVC,3,3,0.14555,,u m e d1 e1 s e n,u m e d e s e n,u.me.de.sen,umedesen
+48313,48314,humedecer,96,0.207517,umeDeser,VCVCVCVC,4,5,0.088195,,u m e d e s1 e1 ɾ1,u m e d e s e ɾ,u.me.de.seɾ,umedeseɾ
+48314,48315,humedecías,2,0.004323,umeDesias,VCVCVCVVC,4,4,0.008106,,u m e d e s1 i1 a s,u m e d e s i a s,u.me.de.si.as,umedesias
+48315,48316,humedecidas,7,0.015131,umeDesiDas,VCVCVCVCVC,4,3,0.01297,,u m e d e s1 i1 d a s,u m e d e s i d a s,u.me.de.si.das,umedesidas
+48316,48317,humedecido,31,0.067011,umeDesiDo,VCVCVCVCV,4,2,0.017293,,u m e d e s1 i1 d o,u m e d e s i d o,u.me.de.si.do,umedesido
+48317,48318,humedeciendo,13,0.028101,umeDesjendo,VCVCVCVVCCV,4,0,0.0,,u m e d e s1 i1 e1 n1 d o,u m e d e s i e n d o,u.me.de.sien.do,umedesiendo
+48318,48319,humedeciéndose,4,0.008647,umeDesjendose,VCVCVCVVCCVCV,4,1,0.004323,,u m e d e s1 i1 e1 n1 d o s e,u m e d e s i e n d o s e,u.me.de.sien.do.se,umedesiendose
+48319,48320,humedecieron,9,0.019455,umeDesjeron,VCVCVCVVCVC,4,1,0.002162,,u m e d e s1 i1 e1 ɾ o n,u m e d e s i e ɾ o n,u.me.de.sie.ɾon,umedesieɾon
+48320,48321,humedezca,37,0.079981,umeDeska,VCVCVCCV,3,4,0.015672,,u m e d1 e1 s1 k a,u m e d e s k a,u.me.des.ka,umedeska
+48321,48322,húmedo,2461,5.319796,umeDo,VCVCV,1,9,0.670349,,u1 m e d o,u m e d o,u.me.do,umedo
+48322,48323,húmedos,611,1.320762,umeDos,VCVCVC,1,5,1.330273,,u1 m e d o s,u m e d o s,u.me.dos,umedos
+48323,48324,húmero,201,0.43449,umero,VCVCV,1,16,15.981546,,u1 m e ɾ o,u m e ɾ o,u.me.ɾo,umeɾo
+48324,48325,humidificador,88,0.190224,umiDifikaDor,VCVCVCVCVCVC,6,2,0.011889,,u m i d i f i k a d1 o1 ɾ1,u m i d i f i k a d o ɾ,u.mi.di.fi.ka.doɾ,umidifikadoɾ
+48325,48326,humidificadores,12,0.02594,umiDifikaDores,VCVCVCVCVCVCVC,6,0,0.0,,u m i d i f i k a d1 o1 ɾ e s,u m i d i f i k a d o ɾ e s,u.mi.di.fi.ka.do.ɾes,umidifikadoɾes
+48326,48327,humildad,1848,3.994711,umildaD,VCVCCVC,3,0,0.0,,u m i l d1 a1 d1,u m i l d a d,u.mil.dad,umildad
+48327,48328,humilde,5303,11.463178,umilde,VCVCCV,2,1,2.42536,,u m1 i1 l1 d e,u m i l d e,u.mil.de,umilde
+48328,48329,humildemente,1074,2.321601,umildemente,VCVCCVCVCCV,4,0,0.0,,u m i l d e m1 e1 n1 t e,u m i l d e m e n t e,u.mil.de.men.te,umildemente
+48329,48330,humildes,1122,2.42536,umildes,VCVCCVC,2,1,11.463178,,u m1 i1 l1 d e s,u m i l d e s,u.mil.des,umildes
+48330,48331,humilla,307,0.663624,umiLa,VCVCV,2,10,1.216571,,u m1 i1 ʝ a,u m i ʝ a,u.mi.ʝa,umiʝa
+48331,48332,humillaban,23,0.049718,umiLaBan,VCVCVCVC,3,4,0.042152,,u m i ʝ1 a1 b a n,u m i ʝ a b a n,u.mi.ʝa.ban,umiʝaban
+48332,48333,humillación,2755,5.955319,umiLasjon,VCVCVCVVC,4,0,0.0,,u m i ʝ a s1 i1 o1 n1,u m i ʝ a s i o n,u.mi.ʝa.sion,umiʝasion
+48333,48334,humillaciones,296,0.639845,umiLasjones,VCVCVCVVCVC,4,0,0.0,,u m i ʝ a s1 i1 o1 n e s,u m i ʝ a s i o n e s,u.mi.ʝa.sio.nes,umiʝasiones
+48334,48335,humillada,757,1.636362,umiLaDa,VCVCVCV,3,7,0.633978,,u m i ʝ1 a1 d a,u m i ʝ a d a,u.mi.ʝa.da,umiʝada
+48335,48336,humilladas,53,0.114567,umiLaDas,VCVCVCVC,3,5,0.474696,,u m i ʝ1 a1 d a s,u m i ʝ a d a s,u.mi.ʝa.das,umiʝadas
+48336,48337,humilladlo,2,0.004323,umiLaDlo,VCVCVCCV,3,4,1.19971,,u m i ʝ1 a1 d1 l o,u m i ʝ a d l o,u.mi.ʝad.lo,umiʝadlo
+48337,48338,humillado,1870,4.042267,umiLaDo,VCVCVCV,3,6,0.38153,,u m i ʝ1 a1 d o,u m i ʝ a d o,u.mi.ʝa.do,umiʝado
+48338,48339,humillados,287,0.620391,umiLaDos,VCVCVCVC,3,7,0.615141,,u m i ʝ1 a1 d o s,u m i ʝ a d o s,u.mi.ʝa.dos,umiʝados
+48339,48340,humillamos,35,0.075657,umiLamos,VCVCVCVC,3,5,0.138345,,u m i ʝ1 a1 m o s,u m i ʝ a m o s,u.mi.ʝa.mos,umiʝamos
+48340,48341,humillan,139,0.300468,umiLan,VCVCVC,2,7,0.401756,,u m1 i1 ʝ a n,u m i ʝ a n,u.mi.ʝan,umiʝan
+48341,48342,humillando,192,0.415035,umiLando,VCVCVCCV,3,0,0.0,,u m i ʝ1 a1 n1 d o,u m i ʝ a n d o,u.mi.ʝan.do,umiʝando
+48342,48343,humillándome,110,0.23778,umiLandome,VCVCVCCVCV,3,3,0.095112,,u m i ʝ1 a1 n1 d o m e,u m i ʝ a n d o m e,u.mi.ʝan.do.me,umiʝandome
+48343,48344,humillándote,70,0.151315,umiLandote,VCVCVCCVCV,3,3,0.123934,,u m i ʝ1 a1 n1 d o t e,u m i ʝ a n d o t e,u.mi.ʝan.do.te,umiʝandote
+48344,48345,humillante,2501,5.406262,umiLante,VCVCVCCV,3,4,0.572835,,u m i ʝ1 a1 n1 t e,u m i ʝ a n t e,u.mi.ʝan.te,umiʝante
+48345,48346,humillantes,148,0.319923,umiLantes,VCVCVCCVC,3,1,5.406262,,u m i ʝ1 a1 n1 t e s,u m i ʝ a n t e s,u.mi.ʝan.tes,umiʝantes
+48346,48347,humillar,611,1.320762,umiLar,VCVCVC,3,9,0.34274,,u m i ʝ1 a1 ɾ1,u m i ʝ a ɾ,u.mi.ʝaɾ,umiʝaɾ
+48347,48348,humillara,25,0.054041,umiLara,VCVCVCV,3,12,0.314699,,u m i ʝ1 a1 ɾ a,u m i ʝ a ɾ a,u.mi.ʝa.ɾa,umiʝaɾa
+48348,48349,humillará,50,0.108082,umiLara,VCVCVCV,4,12,0.314699,,u m i ʝ a ɾ1 a1,u m i ʝ a ɾ a,u.mi.ʝa.ɾa,umiʝaɾa
+48349,48350,humillarán,22,0.047556,umiLaran,VCVCVCVC,4,7,0.099436,,u m i ʝ a ɾ1 a1 n1,u m i ʝ a ɾ a n,u.mi.ʝa.ɾan,umiʝaɾan
+48350,48351,humillaras,26,0.056203,umiLaras,VCVCVCVC,3,9,0.046115,,u m i ʝ1 a1 ɾ a s,u m i ʝ a ɾ a s,u.mi.ʝa.ɾas,umiʝaɾas
+48351,48352,humillarás,24,0.051879,umiLaras,VCVCVCVC,4,9,0.046115,,u m i ʝ a ɾ1 a1 s1,u m i ʝ a ɾ a s,u.mi.ʝa.ɾas,umiʝaɾas
+48352,48353,humillaré,40,0.086466,umiLare,VCVCVCV,4,11,0.659497,,u m i ʝ a ɾ1 e1,u m i ʝ a ɾ e,u.mi.ʝa.ɾe,umiʝaɾe
+48353,48354,humillaría,45,0.097274,umiLaria,VCVCVCVV,4,5,0.105056,,u m i ʝ a ɾ1 i1 a,u m i ʝ a ɾ i a,u.mi.ʝa.ɾi.a,umiʝaɾia
+48354,48355,humillarían,15,0.032425,umiLarian,VCVCVCVVC,4,4,0.044854,,u m i ʝ a ɾ1 i1 a n,u m i ʝ a ɾ i a n,u.mi.ʝa.ɾi.an,umiʝaɾian
+48355,48356,humillarla,151,0.326408,umiLarla,VCVCVCCV,3,7,0.172931,,u m i ʝ1 a1 ɾ1 l a,u m i ʝ a ɾ l a,u.mi.ʝaɾ.la,umiʝaɾla
+48356,48357,humillarlas,10,0.021616,umiLarlas,VCVCVCCVC,3,6,0.115648,,u m i ʝ1 a1 ɾ1 l a s,u m i ʝ a ɾ l a s,u.mi.ʝaɾ.las,umiʝaɾlas
+48357,48358,humillarlo,338,0.730634,umiLarlo,VCVCVCCV,3,5,0.143965,,u m i ʝ1 a1 ɾ1 l o,u m i ʝ a ɾ l o,u.mi.ʝaɾ.lo,umiʝaɾlo
+48358,48359,humillarlos,100,0.216164,umiLarlos,VCVCVCCVC,3,6,0.22409,,u m i ʝ1 a1 ɾ1 l o s,u m i ʝ a ɾ l o s,u.mi.ʝaɾ.los,umiʝaɾlos
+48359,48360,humillarme,1718,3.713698,umiLarme,VCVCVCCV,3,7,0.300468,,u m i ʝ1 a1 ɾ1 m e,u m i ʝ a ɾ m e,u.mi.ʝaɾ.me,umiʝaɾme
+48360,48361,humillarnos,236,0.510147,umiLarnos,VCVCVCCVC,3,2,0.121052,,u m i ʝ1 a1 ɾ1 n o s,u m i ʝ a ɾ n o s,u.mi.ʝaɾ.nos,umiʝaɾnos
+48361,48362,humillaron,159,0.343701,umiLaron,VCVCVCVC,3,3,0.034586,,u m i ʝ1 a1 ɾ o n,u m i ʝ a ɾ o n,u.mi.ʝa.ɾon,umiʝaɾon
+48362,48363,humillarse,208,0.449621,umiLarse,VCVCVCCV,3,6,0.886273,,u m i ʝ1 a1 ɾ1 s e,u m i ʝ a ɾ s e,u.mi.ʝaɾ.se,umiʝaɾse
+48363,48364,humillarte,618,1.335894,umiLarte,VCVCVCCV,3,8,1.307792,,u m i ʝ1 a1 ɾ1 t e,u m i ʝ a ɾ t e,u.mi.ʝaɾ.te,umiʝaɾte
+48364,48365,humillas,155,0.335054,umiLas,VCVCVC,2,9,3.9803,,u m1 i1 ʝ a s,u m i ʝ a s,u.mi.ʝas,umiʝas
+48365,48366,humillaste,273,0.590128,umiLaste,VCVCVCCV,3,4,1.699589,,u m i ʝ1 a1 s1 t e,u m i ʝ a s t e,u.mi.ʝas.te,umiʝaste
+48366,48367,humille,181,0.391257,umiLe,VCVCV,2,6,0.505824,,u m1 i1 ʝ e,u m i ʝ e,u.mi.ʝe,umiʝe
+48367,48368,humillé,91,0.196709,umiLe,VCVCV,3,6,0.505824,,u m i ʝ1 e1,u m i ʝ e,u.mi.ʝe,umiʝe
+48368,48369,humillen,201,0.43449,umiLen,VCVCVC,2,4,0.297226,,u m1 i1 ʝ e n,u m i ʝ e n,u.mi.ʝen,umiʝen
+48369,48370,humíllense,4,0.008647,umiLense,VCVCVCCV,2,1,0.02594,,u m1 i1 ʝ e n s e,u m i ʝ e n s e,u.mi.ʝen.se,umiʝense
+48370,48371,humilles,139,0.300468,umiLes,VCVCVC,2,6,0.232016,,u m1 i1 ʝ e s,u m i ʝ e s,u.mi.ʝes,umiʝes
+48371,48372,humillo,99,0.214002,umiLo,VCVCV,2,4,0.31668,,u m1 i1 ʝ o,u m i ʝ o,u.mi.ʝo,umiʝo
+48372,48373,humilló,405,0.875464,umiLo,VCVCV,3,4,0.31668,,u m i ʝ1 o1,u m i ʝ o,u.mi.ʝo,umiʝo
 48373,48374,hummus,226,0.488531,ummus,VCCVC,1,2,0.195629,,w1 m1 m u s,w m m u s,wm.mus,wmmus
-48374,48375,humo,13404,28.974624,umo,VCV,1,38,39.624399,,w1 m o,w m o,w.mo,wmo
-48375,48376,humor,20972,45.333917,umor,VCVC,2,6,80.413013,,w m1 o1 ɾ1,w m o ɾ,w.moɾ,wmoɾ
-48376,48377,humores,120,0.259397,umores,VCVCVC,2,4,7.123145,,w m1 o1 ɾ e s,w m o ɾ e s,w.mo.ɾes,wmoɾes
-48377,48378,humorista,337,0.728473,umorista,VCVCVCCV,3,1,0.138345,,w m o ɾ1 i1 s1 t a,w m o ɾ i s t a,w.mo.ɾis.ta,wmoɾista
-48378,48379,humoristas,64,0.138345,umoristas,VCVCVCCVC,3,1,0.728473,,w m o ɾ1 i1 s1 t a s,w m o ɾ i s t a s,w.mo.ɾis.tas,wmoɾistas
-48379,48380,humorísticas,15,0.032425,umoristikas,VCVCVCCVCVC,3,2,0.06485,,w m o ɾ1 i1 s1 t i k a s,w m o ɾ i s t i k a s,w.mo.ɾis.ti.kas,wmoɾistikas
-48380,48381,humorístico,60,0.129698,umoristiko,VCVCVCCVCV,3,2,0.06485,,w m o ɾ1 i1 s1 t i k o,w m o ɾ i s t i k o,w.mo.ɾis.ti.ko,wmoɾistiko
-48381,48382,humorísticos,23,0.049718,umoristikos,VCVCVCCVCVC,3,2,0.081062,,w m o ɾ1 i1 s1 t i k o s,w m o ɾ i s t i k o s,w.mo.ɾis.ti.kos,wmoɾistikos
-48382,48383,humos,700,1.513148,umos,VCVC,1,23,40.760262,,w1 m o s,w m o s,w.mos,wmos
-48383,48384,humus,180,0.389095,umus,VCVC,1,7,0.351421,,w1 m u s,w m u s,w.mus,wmus
+48374,48375,humo,13404,28.974624,umo,VCV,1,38,39.624399,,u1 m o,u m o,u.mo,umo
+48375,48376,humor,20972,45.333917,umor,VCVC,2,6,80.413013,,u m1 o1 ɾ1,u m o ɾ,u.moɾ,umoɾ
+48376,48377,humores,120,0.259397,umores,VCVCVC,2,4,7.123145,,u m1 o1 ɾ e s,u m o ɾ e s,u.mo.ɾes,umoɾes
+48377,48378,humorista,337,0.728473,umorista,VCVCVCCV,3,1,0.138345,,u m o ɾ1 i1 s1 t a,u m o ɾ i s t a,u.mo.ɾis.ta,umoɾista
+48378,48379,humoristas,64,0.138345,umoristas,VCVCVCCVC,3,1,0.728473,,u m o ɾ1 i1 s1 t a s,u m o ɾ i s t a s,u.mo.ɾis.tas,umoɾistas
+48379,48380,humorísticas,15,0.032425,umoristikas,VCVCVCCVCVC,3,2,0.06485,,u m o ɾ1 i1 s1 t i k a s,u m o ɾ i s t i k a s,u.mo.ɾis.ti.kas,umoɾistikas
+48380,48381,humorístico,60,0.129698,umoristiko,VCVCVCCVCV,3,2,0.06485,,u m o ɾ1 i1 s1 t i k o,u m o ɾ i s t i k o,u.mo.ɾis.ti.ko,umoɾistiko
+48381,48382,humorísticos,23,0.049718,umoristikos,VCVCVCCVCVC,3,2,0.081062,,u m o ɾ1 i1 s1 t i k o s,u m o ɾ i s t i k o s,u.mo.ɾis.ti.kos,umoɾistikos
+48382,48383,humos,700,1.513148,umos,VCVC,1,23,40.760262,,u1 m o s,u m o s,u.mos,umos
+48383,48384,humus,180,0.389095,umus,VCVC,1,7,0.351421,,u1 m u s,u m u s,u.mus,umus
 48384,48385,hunda,614,1.327247,unda,VCCV,1,21,432.109391,,w1 n1 d a,w n d a,wn.da,wnda
 48385,48386,hundamos,101,0.218326,undamos,VCCVCVC,2,7,0.685857,,w n d1 a1 m o s,w n d a m o s,wn.da.mos,wndamos
 48386,48387,hundan,150,0.324246,undan,VCCVC,1,11,1.389542,,w1 n1 d a n,w n d a n,wn.dan,wndan
@@ -48432,13 +48432,13 @@
 48430,48431,húngaro,1065,2.302147,uNgaro,VCCVCV,1,2,1.031103,,w1 n1 ɡ a ɾ o,w n ɡ a ɾ o,wn.ɡa.ɾo,wnɡaɾo
 48431,48432,húngaros,589,1.273206,uNgaros,VCCVCVC,1,2,1.205115,,w1 n1 ɡ a ɾ o s,w n ɡ a ɾ o s,wn.ɡa.ɾos,wnɡaɾos
 48432,48433,hungría,1046,2.261076,uNgria,VCCCVV,2,0,0.0,,w n ɡ1 ɾ1 i1 a,w n ɡ ɾ i a,wn.ɡɾi.a,wnɡɾia
-48433,48434,huno,201,0.43449,uno,VCV,1,40,1319.124839,,w1 n o,w n o,w.no,wno
-48434,48435,hunos,375,0.810615,unos,VCVC,1,19,176.653896,,w1 n o s,w n o s,w.nos,wnos
-48435,48436,huracán,3333,7.204747,urakan,VCVCVC,3,0,0.0,,w ɾ a k1 a1 n1,w ɾ a k a n,w.ɾa.kan,wɾakan
-48436,48437,huracanados,84,0.181578,urakanaDos,VCVCVCVCVC,4,2,0.025939,,w ɾ a k a n1 a1 d o s,w ɾ a k a n a d o s,w.ɾa.ka.na.dos,wɾakanados
-48437,48438,huracanes,791,1.709857,urakanes,VCVCVCVC,3,1,0.002162,,w ɾ a k1 a1 n e s,w ɾ a k a n e s,w.ɾa.ka.nes,wɾakanes
-48438,48439,huraña,39,0.084304,uraJa,VCVCV,2,3,5.461744,,w ɾ1 a1 ɲ a,w ɾ a ɲ a,w.ɾa.ɲa,wɾaɲa
-48439,48440,huraño,81,0.175093,uraJo,VCVCV,2,6,0.241383,,w ɾ1 a1 ɲ o,w ɾ a ɲ o,w.ɾa.ɲo,wɾaɲo
+48433,48434,huno,201,0.43449,uno,VCV,1,40,1319.124839,,u1 n o,u n o,u.no,uno
+48434,48435,hunos,375,0.810615,unos,VCVC,1,19,176.653896,,u1 n o s,u n o s,u.nos,unos
+48435,48436,huracán,3333,7.204747,urakan,VCVCVC,3,0,0.0,,u ɾ a k1 a1 n1,u ɾ a k a n,u.ɾa.kan,uɾakan
+48436,48437,huracanados,84,0.181578,urakanaDos,VCVCVCVCVC,4,2,0.025939,,u ɾ a k a n1 a1 d o s,u ɾ a k a n a d o s,u.ɾa.ka.na.dos,uɾakanados
+48437,48438,huracanes,791,1.709857,urakanes,VCVCVCVC,3,1,0.002162,,u ɾ a k1 a1 n e s,u ɾ a k a n e s,u.ɾa.ka.nes,uɾakanes
+48438,48439,huraña,39,0.084304,uraJa,VCVCV,2,3,5.461744,,u ɾ1 a1 ɲ a,u ɾ a ɲ a,u.ɾa.ɲa,uɾaɲa
+48439,48440,huraño,81,0.175093,uraJo,VCVCV,2,6,0.241383,,u ɾ1 a1 ɲ o,u ɾ a ɲ o,u.ɾa.ɲo,uɾaɲo
 48440,48441,hurga,90,0.194548,urGa,VCCV,1,23,0.208645,,w1 ɾ1 ɡ a,w ɾ ɡ a,wɾ.ɡa,wɾɡa
 48441,48442,hurgaba,36,0.077819,urGaBa,VCCVCV,2,7,0.009882,,w ɾ ɡ1 a1 b a,w ɾ ɡ a b a,wɾ.ɡa.ba,wɾɡaba
 48442,48443,hurgado,48,0.103759,urGaDo,VCCVCV,2,5,0.075225,,w ɾ ɡ1 a1 d o,w ɾ ɡ a d o,wɾ.ɡa.do,wɾɡado
@@ -48458,10 +48458,10 @@
 48456,48457,hurgué,9,0.019455,urGe,VCCV,2,12,0.168608,,w ɾ ɡ1 e1,w ɾ ɡ e,wɾ.ɡe,wɾɡe
 48457,48458,hurguen,13,0.028101,urGen,VCCVC,1,9,0.042272,,w1 ɾ1 ɡ e n,w ɾ ɡ e n,wɾ.ɡen,wɾɡen
 48458,48459,hurgues,51,0.110244,urGes,VCCVC,1,12,0.866457,,w1 ɾ1 ɡ e s,w ɾ ɡ e s,wɾ.ɡes,wɾɡes
-48459,48460,hurón,484,1.046234,uron,VCVC,2,9,0.655938,,w ɾ1 o1 n1,w ɾ o n,w.ɾon,wɾon
-48460,48461,hurones,149,0.322084,urones,VCVCVC,2,0,0.0,,w ɾ1 o1 n e s,w ɾ o n e s,w.ɾo.nes,wɾones
-48461,48462,hurra,3770,8.149383,uRa,VCV,1,32,290.053331,,w1 r a,w r a,w.ra,wra
-48462,48463,hurras,290,0.626876,uRas,VCVC,1,24,11.395986,,w1 r a s,w r a s,w.ras,wras
+48459,48460,hurón,484,1.046234,uron,VCVC,2,9,0.655938,,u ɾ1 o1 n1,u ɾ o n,u.ɾon,uɾon
+48460,48461,hurones,149,0.322084,urones,VCVCVC,2,0,0.0,,u ɾ1 o1 n e s,u ɾ o n e s,u.ɾo.nes,uɾones
+48461,48462,hurra,3770,8.149383,uRa,VCV,1,32,290.053331,,u1 r a,u r a,u.ra,ura
+48462,48463,hurras,290,0.626876,uRas,VCVC,1,24,11.395986,,u1 r a s,u r a s,u.ras,uras
 48463,48464,hurtadillas,988,2.1357,urtaDiLas,VCCVCVCVC,3,0,0.0,,w ɾ t a d1 i1 ʝ a s,w ɾ t a d i ʝ a s,wɾ.ta.di.ʝas,wɾtadiʝas
 48464,48465,hurtado,57,0.123213,urtaDo,VCCVCV,2,7,0.18374,,w ɾ t1 a1 d o,w ɾ t a d o,wɾ.ta.do,wɾtado
 48465,48466,hurtando,26,0.056203,urtando,VCCVCCV,2,3,0.704695,,w ɾ t1 a1 n1 d o,w ɾ t a n d o,wɾ.tan.do,wɾtando
@@ -48487,21 +48487,21 @@
 48485,48486,husmees,12,0.02594,uzmees,VCCVVC,2,4,0.064849,,w s m1 e1 e s,w s m e e s,ws.me.es,wsmees
 48486,48487,husmeo,44,0.095112,uzmeo,VCCVV,2,4,0.069713,,w s m1 e1 o,w s m e o,ws.me.o,wsmeo
 48487,48488,husmeó,16,0.034586,uzmeo,VCCVV,3,4,0.069713,,w s m e o1,w s m e o,ws.me.o,wsmeo
-48488,48489,huya,839,1.813616,uHa,VCV,1,38,322.258278,,w1 i a,w i a,w.ia,wia
-48489,48490,huyamos,671,1.450461,uHamos,VCVCVC,2,3,11.606566,,w i1 a1 m o s,w i a m o s,w.ia.mos,wiamos
-48490,48491,huyan,1092,2.360511,uHan,VCVC,1,10,12.053738,,w1 i a n,w i a n,w.ian,wian
-48491,48492,huyas,1020,2.204873,uHas,VCVC,1,25,14.398166,,w1 i a s,w i a s,w.ias,wias
-48492,48493,huye,4291,9.275598,uHe,VCV,1,19,27.652156,,w1 i e,w i e,w.ie,wie
-48493,48494,huyen,1438,3.108439,uHen,VCVC,1,8,4.998252,,w1 i e n,w i e n,w.ien,wien
-48494,48495,huyendo,6624,14.318704,uHendo,VCVCCV,2,3,19.709114,,w i1 e1 n1 d o,w i e n d o,w.ien.do,wiendo
-48495,48496,huyera,435,0.940313,uHera,VCVCV,2,7,0.389404,,w i1 e1 ɾ a,w i e ɾ a,w.ie.ɾa,wieɾa
-48496,48497,huyéramos,54,0.116729,uHeramos,VCVCVCVC,2,1,0.060526,,w i1 e1 ɾ a m o s,w i e ɾ a m o s,w.ie.ɾa.mos,wieɾamos
-48497,48498,huyeran,84,0.181578,uHeran,VCVCVC,2,5,1.180255,,w i1 e1 ɾ a n,w i e ɾ a n,w.ie.ɾan,wieɾan
-48498,48499,huyeras,103,0.222649,uHeras,VCVCVC,2,6,0.362435,,w i1 e1 ɾ a s,w i e ɾ a s,w.ie.ɾas,wieɾas
-48499,48500,huyeron,1614,3.488887,uHeron,VCVCVC,2,2,6.410344,,w i1 e1 ɾ o n,w i e ɾ o n,w.ie.ɾon,wieɾon
-48500,48501,huyes,1303,2.816617,uHes,VCVC,1,15,6.569945,,w1 i e s,w i e s,w.ies,wies
-48501,48502,huyo,855,1.848202,uHo,VCV,1,23,262.404785,,w1 i o,w i o,w.io,wio
-48502,48503,huyó,4721,10.205103,uHo,VCV,2,23,262.404785,,w i1 o1,w i o,w.io,wio
+48488,48489,huya,839,1.813616,uHa,VCV,1,38,322.258278,,u1 i a,u i a,u.ia,uia
+48489,48490,huyamos,671,1.450461,uHamos,VCVCVC,2,3,11.606566,,u i1 a1 m o s,u i a m o s,u.ia.mos,uiamos
+48490,48491,huyan,1092,2.360511,uHan,VCVC,1,10,12.053738,,u1 i a n,u i a n,u.ian,uian
+48491,48492,huyas,1020,2.204873,uHas,VCVC,1,25,14.398166,,u1 i a s,u i a s,u.ias,uias
+48492,48493,huye,4291,9.275598,uHe,VCV,1,19,27.652156,,u1 i e,u i e,u.ie,uie
+48493,48494,huyen,1438,3.108439,uHen,VCVC,1,8,4.998252,,u1 i e n,u i e n,u.ien,uien
+48494,48495,huyendo,6624,14.318704,uHendo,VCVCCV,2,3,19.709114,,u i1 e1 n1 d o,u i e n d o,u.ien.do,uiendo
+48495,48496,huyera,435,0.940313,uHera,VCVCV,2,7,0.389404,,u i1 e1 ɾ a,u i e ɾ a,u.ie.ɾa,uieɾa
+48496,48497,huyéramos,54,0.116729,uHeramos,VCVCVCVC,2,1,0.060526,,u i1 e1 ɾ a m o s,u i e ɾ a m o s,u.ie.ɾa.mos,uieɾamos
+48497,48498,huyeran,84,0.181578,uHeran,VCVCVC,2,5,1.180255,,u i1 e1 ɾ a n,u i e ɾ a n,u.ie.ɾan,uieɾan
+48498,48499,huyeras,103,0.222649,uHeras,VCVCVC,2,6,0.362435,,u i1 e1 ɾ a s,u i e ɾ a s,u.ie.ɾas,uieɾas
+48499,48500,huyeron,1614,3.488887,uHeron,VCVCVC,2,2,6.410344,,u i1 e1 ɾ o n,u i e ɾ o n,u.ie.ɾon,uieɾon
+48500,48501,huyes,1303,2.816617,uHes,VCVC,1,15,6.569945,,u1 i e s,u i e s,u.ies,uies
+48501,48502,huyo,855,1.848202,uHo,VCV,1,23,262.404785,,u1 i o,u i o,u.io,uio
+48502,48503,huyó,4721,10.205103,uHo,VCV,2,23,262.404785,,u i1 o1,u i o,u.io,uio
 48503,48504,i,95161,205.703836,i,V,1,65,889.935868,,i1,i,i,i
 48504,48505,iba,140029,302.692306,iBa,VCV,1,40,15.059066,,i1 b a,i b a,i.ba,iba
 48505,48506,ibais,553,1.195387,iBais,VCVVC,1,8,6.69514,,i1 b a i s,i b a i s,i.bais,ibais
@@ -51159,31 +51159,31 @@
 51157,51158,inherente,434,0.938152,inerente,VCVCVCCV,3,1,0.252912,,i n e ɾ1 e1 n1 t e,i n e ɾ e n t e,in.e.ɾen.te,ineɾente
 51158,51159,inherentemente,118,0.255074,inerentemente,VCVCVCCVCVCCV,5,0,0.0,,i n e ɾ e n t e m1 e1 n1 t e,i n e ɾ e n t e m e n t e,in.e.ɾen.te.men.te,ineɾentemente
 51159,51160,inherentes,117,0.252912,inerentes,VCVCVCCVC,3,1,0.938152,,i n e ɾ1 e1 n1 t e s,i n e ɾ e n t e s,in.e.ɾen.tes,ineɾentes
-51160,51161,inhiba,11,0.023778,iniBa,VCVCV,2,5,0.059229,,i n ʝ1 b a,i n ʝ b a,in.ʝ.ba,inʝba
-51161,51162,inhibas,11,0.023778,iniBas,VCVCVC,2,3,0.012249,,i n ʝ1 b a s,i n ʝ b a s,in.ʝ.bas,inʝbas
-51162,51163,inhibe,107,0.231295,iniBe,VCVCV,2,5,0.029398,,i n ʝ1 b e,i n ʝ b e,in.ʝ.be,inʝbe
-51163,51164,inhiben,38,0.082142,iniBen,VCVCVC,2,3,0.081422,,i n ʝ1 b e n,i n ʝ b e n,in.ʝ.ben,inʝben
-51164,51165,inhibición,168,0.363156,iniBisjon,VCVCVCVVC,4,1,0.023778,,i n ʝ b i s1 i1 o1 n1,i n ʝ b i s i o n,in.ʝ.bi.sion,inʝbision
-51165,51166,inhibiciones,356,0.769544,iniBisjones,VCVCVCVVCVC,4,0,0.0,,i n ʝ b i s1 i1 o1 n e s,i n ʝ b i s i o n e s,in.ʝ.bi.sio.nes,inʝbisiones
-51166,51167,inhibida,55,0.11889,iniBiDa,VCVCVCV,3,4,0.045935,,i n ʝ b1 i1 d a,i n ʝ b i d a,in.ʝ.bi.da,inʝbida
-51167,51168,inhibidas,16,0.034586,iniBiDas,VCVCVCVC,3,2,0.076738,,i n ʝ b1 i1 d a s,i n ʝ b i d a s,in.ʝ.bi.das,inʝbidas
-51168,51169,inhibido,54,0.116729,iniBiDo,VCVCVCV,3,3,0.385492,,i n ʝ b1 i1 d o,i n ʝ b i d o,in.ʝ.bi.do,inʝbido
-51169,51170,inhibidor,464,1.003001,iniBiDor,VCVCVCVC,4,2,0.075658,,i n ʝ b i d1 o1 ɾ1,i n ʝ b i d o ɾ,in.ʝ.bi.doɾ,inʝbidoɾ
-51170,51171,inhibidores,249,0.538248,iniBiDores,VCVCVCVCVC,4,1,0.021616,,i n ʝ b i d1 o1 ɾ e s,i n ʝ b i d o ɾ e s,in.ʝ.bi.do.ɾes,inʝbidoɾes
-51171,51172,inhibidos,16,0.034586,iniBiDos,VCVCVCVC,3,5,0.23216,,i n ʝ b1 i1 d o s,i n ʝ b i d o s,in.ʝ.bi.dos,inʝbidos
-51172,51173,inhibiéndome,4,0.008647,iniBjendome,VCVCVVCCVCV,3,1,0.004323,,i n ʝ b1 j1 e1 n1 d o m e,i n ʝ b j e n d o m e,in.ʝ.bjen.do.me,inʝbjendome
-51173,51174,inhibir,91,0.196709,iniBir,VCVCVC,3,3,0.012249,,i n ʝ b1 i1 ɾ1,i n ʝ b i ɾ,in.ʝ.biɾ,inʝbiɾ
-51174,51175,inhibirían,5,0.010808,iniBirian,VCVCVCVVC,4,2,0.019455,,i n ʝ b i ɾ1 i1 a n,i n ʝ b i ɾ i a n,in.ʝ.bi.ɾi.an,inʝbiɾian
-51175,51176,inhibirme,6,0.01297,iniBirme,VCVCVCCV,3,1,0.004323,,i n ʝ b1 i1 ɾ1 m e,i n ʝ b i ɾ m e,in.ʝ.biɾ.me,inʝbiɾme
-51176,51177,inhibitoria,108,0.233457,iniBitorja,VCVCVCVCVV,4,1,0.015131,,i n ʝ b i t1 o1 ɾ j a,i n ʝ b i t o ɾ j a,in.ʝ.bi.to.ɾja,inʝbitoɾja
+51160,51161,inhiba,11,0.023778,iniBa,VCVCV,2,5,0.059229,,i n i1 b a,i n i b a,in.i.ba,iniba
+51161,51162,inhibas,11,0.023778,iniBas,VCVCVC,2,3,0.012249,,i n i1 b a s,i n i b a s,in.i.bas,inibas
+51162,51163,inhibe,107,0.231295,iniBe,VCVCV,2,5,0.029398,,i n i1 b e,i n i b e,in.i.be,inibe
+51163,51164,inhiben,38,0.082142,iniBen,VCVCVC,2,3,0.081422,,i n i1 b e n,i n i b e n,in.i.ben,iniben
+51164,51165,inhibición,168,0.363156,iniBisjon,VCVCVCVVC,4,1,0.023778,,i n i b i s1 i1 o1 n1,i n i b i s i o n,in.i.bi.sion,inibision
+51165,51166,inhibiciones,356,0.769544,iniBisjones,VCVCVCVVCVC,4,0,0.0,,i n i b i s1 i1 o1 n e s,i n i b i s i o n e s,in.i.bi.sio.nes,inibisiones
+51166,51167,inhibida,55,0.11889,iniBiDa,VCVCVCV,3,4,0.045935,,i n i b1 i1 d a,i n i b i d a,in.i.bi.da,inibida
+51167,51168,inhibidas,16,0.034586,iniBiDas,VCVCVCVC,3,2,0.076738,,i n i b1 i1 d a s,i n i b i d a s,in.i.bi.das,inibidas
+51168,51169,inhibido,54,0.116729,iniBiDo,VCVCVCV,3,3,0.385492,,i n i b1 i1 d o,i n i b i d o,in.i.bi.do,inibido
+51169,51170,inhibidor,464,1.003001,iniBiDor,VCVCVCVC,4,2,0.075658,,i n i b i d1 o1 ɾ1,i n i b i d o ɾ,in.i.bi.doɾ,inibidoɾ
+51170,51171,inhibidores,249,0.538248,iniBiDores,VCVCVCVCVC,4,1,0.021616,,i n i b i d1 o1 ɾ e s,i n i b i d o ɾ e s,in.i.bi.do.ɾes,inibidoɾes
+51171,51172,inhibidos,16,0.034586,iniBiDos,VCVCVCVC,3,5,0.23216,,i n i b1 i1 d o s,i n i b i d o s,in.i.bi.dos,inibidos
+51172,51173,inhibiéndome,4,0.008647,iniBjendome,VCVCVVCCVCV,3,1,0.004323,,i n i b1 j1 e1 n1 d o m e,i n i b j e n d o m e,in.i.bjen.do.me,inibjendome
+51173,51174,inhibir,91,0.196709,iniBir,VCVCVC,3,3,0.012249,,i n i b1 i1 ɾ1,i n i b i ɾ,in.i.biɾ,inibiɾ
+51174,51175,inhibirían,5,0.010808,iniBirian,VCVCVCVVC,4,2,0.019455,,i n i b i ɾ1 i1 a n,i n i b i ɾ i a n,in.i.bi.ɾi.an,inibiɾian
+51175,51176,inhibirme,6,0.01297,iniBirme,VCVCVCCV,3,1,0.004323,,i n i b1 i1 ɾ1 m e,i n i b i ɾ m e,in.i.biɾ.me,inibiɾme
+51176,51177,inhibitoria,108,0.233457,iniBitorja,VCVCVCVCVV,4,1,0.015131,,i n i b i t1 o1 ɾ j a,i n i b i t o ɾ j a,in.i.bi.to.ɾja,inibitoɾja
 51177,51178,inhóspita,83,0.179416,inospita,VCVCCVCV,2,2,0.161042,,i n o1 s1 p i t a,i n o s p i t a,in.os.pi.ta,inospita
 51178,51179,inhóspitas,41,0.088627,inospitas,VCVCCVCVC,2,2,0.155638,,i n o1 s1 p i t a s,i n o s p i t a s,in.os.pi.tas,inospitas
 51179,51180,inhóspito,108,0.233457,inospito,VCVCCVCV,2,2,0.155638,,i n o1 s1 p i t o,i n o s p i t o,in.os.pi.to,inospito
 51180,51181,inhóspitos,61,0.13186,inospitos,VCVCCVCVC,2,2,0.161042,,i n o1 s1 p i t o s,i n o s p i t o s,in.os.pi.tos,inospitos
-51181,51182,inhumana,323,0.69821,inumana,VCVCVCV,3,3,0.741442,,i n w m1 a1 n a,i n w m a n a,in.w.ma.na,inwmana
-51182,51183,inhumanas,110,0.23778,inumanas,VCVCVCVC,3,3,0.386934,,i n w m1 a1 n a s,i n w m a n a s,in.w.ma.nas,inwmanas
-51183,51184,inhumano,917,1.982224,inumano,VCVCVCV,3,4,0.293983,,i n w m1 a1 n o,i n w m a n o,in.w.ma.no,inwmano
-51184,51185,inhumanos,212,0.458268,inumanos,VCVCVCVC,3,3,0.741442,,i n w m1 a1 n o s,i n w m a n o s,in.w.ma.nos,inwmanos
+51181,51182,inhumana,323,0.69821,inumana,VCVCVCV,3,3,0.741442,,i n u m1 a1 n a,i n u m a n a,in.u.ma.na,inumana
+51182,51183,inhumanas,110,0.23778,inumanas,VCVCVCVC,3,3,0.386934,,i n u m1 a1 n a s,i n u m a n a s,in.u.ma.nas,inumanas
+51183,51184,inhumano,917,1.982224,inumano,VCVCVCV,3,4,0.293983,,i n u m1 a1 n o,i n u m a n o,in.u.ma.no,inumano
+51184,51185,inhumanos,212,0.458268,inumanos,VCVCVCVC,3,3,0.741442,,i n u m1 a1 n o s,i n u m a n o s,in.u.ma.nos,inumanos
 51185,51186,inicia,1528,3.302986,inisja,VCVCVV,2,9,3.988706,,i n1 i1 s i a,i n i s i a,i.ni.sia,inisia
 51186,51187,iniciaba,70,0.151315,inisjaBa,VCVCVVCV,3,5,0.46605,,i n i s1 i1 a1 b a,i n i s i a b a,i.ni.sia.ba,inisiaba
 51187,51188,iniciaban,34,0.073496,inisjaBan,VCVCVVCVC,3,4,0.09241,,i n i s1 i1 a1 b a n,i n i s i a b a n,i.ni.sia.ban,inisiaban
@@ -57216,11 +57216,11 @@
 57214,57215,malherida,179,0.386934,maleriDa,CVCVCVCV,3,4,0.554461,,m a l e ɾ1 i1 d a,m a l e ɾ i d a,mal.e.ɾi.da,maleɾida
 57215,57216,malherido,1014,2.191903,maleriDo,CVCVCVCV,3,2,0.299388,,m a l e ɾ1 i1 d o,m a l e ɾ i d o,mal.e.ɾi.do,maleɾido
 57216,57217,malheridos,98,0.211841,maleriDos,CVCVCVCVC,3,3,0.73784,,m a l e ɾ1 i1 d o s,m a l e ɾ i d o s,mal.e.ɾi.dos,maleɾidos
-57217,57218,malhumor,135,0.291821,malumor,CVCVCVC,3,2,0.009728,,m a l w m1 o1 ɾ1,m a l w m o ɾ,mal.w.moɾ,malwmoɾ
-57218,57219,malhumorada,308,0.665785,malumoraDa,CVCVCVCVCV,4,3,0.467635,,m a l w m o ɾ1 a1 d a,m a l w m o ɾ a d a,mal.w.mo.ɾa.da,malwmoɾada
-57219,57220,malhumoradas,29,0.062688,malumoraDas,CVCVCVCVCVC,4,2,0.402065,,m a l w m o ɾ1 a1 d a s,m a l w m o ɾ a d a s,mal.w.mo.ɾa.das,malwmoɾadas
-57220,57221,malhumorado,619,1.338055,malumoraDo,CVCVCVCVCV,4,2,0.402065,,m a l w m o ɾ1 a1 d o,m a l w m o ɾ a d o,mal.w.mo.ɾa.do,malwmoɾado
-57221,57222,malhumorados,64,0.138345,malumoraDos,CVCVCVCVCVC,4,2,0.700372,,m a l w m o ɾ1 a1 d o s,m a l w m o ɾ a d o s,mal.w.mo.ɾa.dos,malwmoɾados
+57217,57218,malhumor,135,0.291821,malumor,CVCVCVC,3,2,0.009728,,m a l u m1 o1 ɾ1,m a l u m o ɾ,mal.u.moɾ,malumoɾ
+57218,57219,malhumorada,308,0.665785,malumoraDa,CVCVCVCVCV,4,3,0.467635,,m a l u m o ɾ1 a1 d a,m a l u m o ɾ a d a,mal.u.mo.ɾa.da,malumoɾada
+57219,57220,malhumoradas,29,0.062688,malumoraDas,CVCVCVCVCVC,4,2,0.402065,,m a l u m o ɾ1 a1 d a s,m a l u m o ɾ a d a s,mal.u.mo.ɾa.das,malumoɾadas
+57220,57221,malhumorado,619,1.338055,malumoraDo,CVCVCVCVCV,4,2,0.402065,,m a l u m o ɾ1 a1 d o,m a l u m o ɾ a d o,mal.u.mo.ɾa.do,malumoɾado
+57221,57222,malhumorados,64,0.138345,malumoraDos,CVCVCVCVCVC,4,2,0.700372,,m a l u m o ɾ1 a1 d o s,m a l u m o ɾ a d o s,mal.u.mo.ɾa.dos,malumoɾados
 57222,57223,malibú,1039,2.245944,maliBu,CVCVCV,3,0,0.0,,m a l i b1 u1,m a l i b u,ma.li.bu,malibu
 57223,57224,malicia,841,1.817939,malisja,CVCVCVV,2,8,2.349163,,m a l1 i1 s i a,m a l i s i a,ma.li.sia,malisia
 57224,57225,maliciosa,295,0.637684,malisjosa,CVCVCVVCV,3,2,0.599856,,m a l i s1 i1 o1 s a,m a l i s i o s a,ma.li.sio.sa,malisiosa
@@ -60139,31 +60139,31 @@
 60137,60138,inherente,434,0.938152,inerente,VCVCVCCV,3,1,0.252912,,i n e ɾ1 e1 n1 t e,i n e ɾ e n t e,in.e.ɾen.te,ineɾente
 60138,60139,inherentemente,118,0.255074,inerentemente,VCVCVCCVCVCCV,5,0,0.0,,i n e ɾ e n t e m1 e1 n1 t e,i n e ɾ e n t e m e n t e,in.e.ɾen.te.men.te,ineɾentemente
 60139,60140,inherentes,117,0.252912,inerentes,VCVCVCCVC,3,1,0.938152,,i n e ɾ1 e1 n1 t e s,i n e ɾ e n t e s,in.e.ɾen.tes,ineɾentes
-60140,60141,inhiba,11,0.023778,iniBa,VCVCV,2,5,0.059229,,i n ʝ1 b a,i n ʝ b a,in.ʝ.ba,inʝba
-60141,60142,inhibas,11,0.023778,iniBas,VCVCVC,2,3,0.012249,,i n ʝ1 b a s,i n ʝ b a s,in.ʝ.bas,inʝbas
-60142,60143,inhibe,107,0.231295,iniBe,VCVCV,2,5,0.029398,,i n ʝ1 b e,i n ʝ b e,in.ʝ.be,inʝbe
-60143,60144,inhiben,38,0.082142,iniBen,VCVCVC,2,3,0.081422,,i n ʝ1 b e n,i n ʝ b e n,in.ʝ.ben,inʝben
-60144,60145,inhibición,168,0.363156,iniBisjon,VCVCVCVVC,4,1,0.023778,,i n ʝ b i s1 i1 o1 n1,i n ʝ b i s i o n,in.ʝ.bi.sion,inʝbision
-60145,60146,inhibiciones,356,0.769544,iniBisjones,VCVCVCVVCVC,4,0,0.0,,i n ʝ b i s1 i1 o1 n e s,i n ʝ b i s i o n e s,in.ʝ.bi.sio.nes,inʝbisiones
-60146,60147,inhibida,55,0.11889,iniBiDa,VCVCVCV,3,4,0.045935,,i n ʝ b1 i1 d a,i n ʝ b i d a,in.ʝ.bi.da,inʝbida
-60147,60148,inhibidas,16,0.034586,iniBiDas,VCVCVCVC,3,2,0.076738,,i n ʝ b1 i1 d a s,i n ʝ b i d a s,in.ʝ.bi.das,inʝbidas
-60148,60149,inhibido,54,0.116729,iniBiDo,VCVCVCV,3,3,0.385492,,i n ʝ b1 i1 d o,i n ʝ b i d o,in.ʝ.bi.do,inʝbido
-60149,60150,inhibidor,464,1.003001,iniBiDor,VCVCVCVC,4,2,0.075658,,i n ʝ b i d1 o1 ɾ1,i n ʝ b i d o ɾ,in.ʝ.bi.doɾ,inʝbidoɾ
-60150,60151,inhibidores,249,0.538248,iniBiDores,VCVCVCVCVC,4,1,0.021616,,i n ʝ b i d1 o1 ɾ e s,i n ʝ b i d o ɾ e s,in.ʝ.bi.do.ɾes,inʝbidoɾes
-60151,60152,inhibidos,16,0.034586,iniBiDos,VCVCVCVC,3,5,0.23216,,i n ʝ b1 i1 d o s,i n ʝ b i d o s,in.ʝ.bi.dos,inʝbidos
-60152,60153,inhibiéndome,4,0.008647,iniBjendome,VCVCVVCCVCV,3,1,0.004323,,i n ʝ b1 j1 e1 n1 d o m e,i n ʝ b j e n d o m e,in.ʝ.bjen.do.me,inʝbjendome
-60153,60154,inhibir,91,0.196709,iniBir,VCVCVC,3,3,0.012249,,i n ʝ b1 i1 ɾ1,i n ʝ b i ɾ,in.ʝ.biɾ,inʝbiɾ
-60154,60155,inhibirían,5,0.010808,iniBirian,VCVCVCVVC,4,2,0.019455,,i n ʝ b i ɾ1 i1 a n,i n ʝ b i ɾ i a n,in.ʝ.bi.ɾi.an,inʝbiɾian
-60155,60156,inhibirme,6,0.01297,iniBirme,VCVCVCCV,3,1,0.004323,,i n ʝ b1 i1 ɾ1 m e,i n ʝ b i ɾ m e,in.ʝ.biɾ.me,inʝbiɾme
-60156,60157,inhibitoria,108,0.233457,iniBitorja,VCVCVCVCVV,4,1,0.015131,,i n ʝ b i t1 o1 ɾ j a,i n ʝ b i t o ɾ j a,in.ʝ.bi.to.ɾja,inʝbitoɾja
+60140,60141,inhiba,11,0.023778,iniBa,VCVCV,2,5,0.059229,,i n i1 b a,i n i b a,in.i.ba,iniba
+60141,60142,inhibas,11,0.023778,iniBas,VCVCVC,2,3,0.012249,,i n i1 b a s,i n i b a s,in.i.bas,inibas
+60142,60143,inhibe,107,0.231295,iniBe,VCVCV,2,5,0.029398,,i n i1 b e,i n i b e,in.i.be,inibe
+60143,60144,inhiben,38,0.082142,iniBen,VCVCVC,2,3,0.081422,,i n i1 b e n,i n i b e n,in.i.ben,iniben
+60144,60145,inhibición,168,0.363156,iniBisjon,VCVCVCVVC,4,1,0.023778,,i n i b i s1 i1 o1 n1,i n i b i s i o n,in.i.bi.sion,inibision
+60145,60146,inhibiciones,356,0.769544,iniBisjones,VCVCVCVVCVC,4,0,0.0,,i n i b i s1 i1 o1 n e s,i n i b i s i o n e s,in.i.bi.sio.nes,inibisiones
+60146,60147,inhibida,55,0.11889,iniBiDa,VCVCVCV,3,4,0.045935,,i n i b1 i1 d a,i n i b i d a,in.i.bi.da,inibida
+60147,60148,inhibidas,16,0.034586,iniBiDas,VCVCVCVC,3,2,0.076738,,i n i b1 i1 d a s,i n i b i d a s,in.i.bi.das,inibidas
+60148,60149,inhibido,54,0.116729,iniBiDo,VCVCVCV,3,3,0.385492,,i n i b1 i1 d o,i n i b i d o,in.i.bi.do,inibido
+60149,60150,inhibidor,464,1.003001,iniBiDor,VCVCVCVC,4,2,0.075658,,i n i b i d1 o1 ɾ1,i n i b i d o ɾ,in.i.bi.doɾ,inibidoɾ
+60150,60151,inhibidores,249,0.538248,iniBiDores,VCVCVCVCVC,4,1,0.021616,,i n i b i d1 o1 ɾ e s,i n i b i d o ɾ e s,in.i.bi.do.ɾes,inibidoɾes
+60151,60152,inhibidos,16,0.034586,iniBiDos,VCVCVCVC,3,5,0.23216,,i n i b1 i1 d o s,i n i b i d o s,in.i.bi.dos,inibidos
+60152,60153,inhibiéndome,4,0.008647,iniBjendome,VCVCVVCCVCV,3,1,0.004323,,i n i b1 j1 e1 n1 d o m e,i n i b j e n d o m e,in.i.bjen.do.me,inibjendome
+60153,60154,inhibir,91,0.196709,iniBir,VCVCVC,3,3,0.012249,,i n i b1 i1 ɾ1,i n i b i ɾ,in.i.biɾ,inibiɾ
+60154,60155,inhibirían,5,0.010808,iniBirian,VCVCVCVVC,4,2,0.019455,,i n i b i ɾ1 i1 a n,i n i b i ɾ i a n,in.i.bi.ɾi.an,inibiɾian
+60155,60156,inhibirme,6,0.01297,iniBirme,VCVCVCCV,3,1,0.004323,,i n i b1 i1 ɾ1 m e,i n i b i ɾ m e,in.i.biɾ.me,inibiɾme
+60156,60157,inhibitoria,108,0.233457,iniBitorja,VCVCVCVCVV,4,1,0.015131,,i n i b i t1 o1 ɾ j a,i n i b i t o ɾ j a,in.i.bi.to.ɾja,inibitoɾja
 60157,60158,inhóspita,83,0.179416,inospita,VCVCCVCV,2,2,0.161042,,i n o1 s1 p i t a,i n o s p i t a,in.os.pi.ta,inospita
 60158,60159,inhóspitas,41,0.088627,inospitas,VCVCCVCVC,2,2,0.155638,,i n o1 s1 p i t a s,i n o s p i t a s,in.os.pi.tas,inospitas
 60159,60160,inhóspito,108,0.233457,inospito,VCVCCVCV,2,2,0.155638,,i n o1 s1 p i t o,i n o s p i t o,in.os.pi.to,inospito
 60160,60161,inhóspitos,61,0.13186,inospitos,VCVCCVCVC,2,2,0.161042,,i n o1 s1 p i t o s,i n o s p i t o s,in.os.pi.tos,inospitos
-60161,60162,inhumana,323,0.69821,inumana,VCVCVCV,3,3,0.741442,,i n w m1 a1 n a,i n w m a n a,in.w.ma.na,inwmana
-60162,60163,inhumanas,110,0.23778,inumanas,VCVCVCVC,3,3,0.386934,,i n w m1 a1 n a s,i n w m a n a s,in.w.ma.nas,inwmanas
-60163,60164,inhumano,917,1.982224,inumano,VCVCVCV,3,4,0.293983,,i n w m1 a1 n o,i n w m a n o,in.w.ma.no,inwmano
-60164,60165,inhumanos,212,0.458268,inumanos,VCVCVCVC,3,3,0.741442,,i n w m1 a1 n o s,i n w m a n o s,in.w.ma.nos,inwmanos
+60161,60162,inhumana,323,0.69821,inumana,VCVCVCV,3,3,0.741442,,i n u m1 a1 n a,i n u m a n a,in.u.ma.na,inumana
+60162,60163,inhumanas,110,0.23778,inumanas,VCVCVCVC,3,3,0.386934,,i n u m1 a1 n a s,i n u m a n a s,in.u.ma.nas,inumanas
+60163,60164,inhumano,917,1.982224,inumano,VCVCVCV,3,4,0.293983,,i n u m1 a1 n o,i n u m a n o,in.u.ma.no,inumano
+60164,60165,inhumanos,212,0.458268,inumanos,VCVCVCVC,3,3,0.741442,,i n u m1 a1 n o s,i n u m a n o s,in.u.ma.nos,inumanos
 60165,60166,inicia,1528,3.302986,inisja,VCVCVV,2,9,3.988706,,i n1 i1 s i a,i n i s i a,i.ni.sia,inisia
 60166,60167,iniciaba,70,0.151315,inisjaBa,VCVCVVCV,3,5,0.46605,,i n i s1 i1 a1 b a,i n i s i a b a,i.ni.sia.ba,inisiaba
 60167,60168,iniciaban,34,0.073496,inisjaBan,VCVCVVCVC,3,4,0.09241,,i n i s1 i1 a1 b a n,i n i s i a b a n,i.ni.sia.ban,inisiaban
@@ -66196,11 +66196,11 @@
 66194,66195,malherida,179,0.386934,maleriDa,CVCVCVCV,3,4,0.554461,,m a l e ɾ1 i1 d a,m a l e ɾ i d a,mal.e.ɾi.da,maleɾida
 66195,66196,malherido,1014,2.191903,maleriDo,CVCVCVCV,3,2,0.299388,,m a l e ɾ1 i1 d o,m a l e ɾ i d o,mal.e.ɾi.do,maleɾido
 66196,66197,malheridos,98,0.211841,maleriDos,CVCVCVCVC,3,3,0.73784,,m a l e ɾ1 i1 d o s,m a l e ɾ i d o s,mal.e.ɾi.dos,maleɾidos
-66197,66198,malhumor,135,0.291821,malumor,CVCVCVC,3,2,0.009728,,m a l w m1 o1 ɾ1,m a l w m o ɾ,mal.w.moɾ,malwmoɾ
-66198,66199,malhumorada,308,0.665785,malumoraDa,CVCVCVCVCV,4,3,0.467635,,m a l w m o ɾ1 a1 d a,m a l w m o ɾ a d a,mal.w.mo.ɾa.da,malwmoɾada
-66199,66200,malhumoradas,29,0.062688,malumoraDas,CVCVCVCVCVC,4,2,0.402065,,m a l w m o ɾ1 a1 d a s,m a l w m o ɾ a d a s,mal.w.mo.ɾa.das,malwmoɾadas
-66200,66201,malhumorado,619,1.338055,malumoraDo,CVCVCVCVCV,4,2,0.402065,,m a l w m o ɾ1 a1 d o,m a l w m o ɾ a d o,mal.w.mo.ɾa.do,malwmoɾado
-66201,66202,malhumorados,64,0.138345,malumoraDos,CVCVCVCVCVC,4,2,0.700372,,m a l w m o ɾ1 a1 d o s,m a l w m o ɾ a d o s,mal.w.mo.ɾa.dos,malwmoɾados
+66197,66198,malhumor,135,0.291821,malumor,CVCVCVC,3,2,0.009728,,m a l u m1 o1 ɾ1,m a l u m o ɾ,mal.u.moɾ,malumoɾ
+66198,66199,malhumorada,308,0.665785,malumoraDa,CVCVCVCVCV,4,3,0.467635,,m a l u m o ɾ1 a1 d a,m a l u m o ɾ a d a,mal.u.mo.ɾa.da,malumoɾada
+66199,66200,malhumoradas,29,0.062688,malumoraDas,CVCVCVCVCVC,4,2,0.402065,,m a l u m o ɾ1 a1 d a s,m a l u m o ɾ a d a s,mal.u.mo.ɾa.das,malumoɾadas
+66200,66201,malhumorado,619,1.338055,malumoraDo,CVCVCVCVCV,4,2,0.402065,,m a l u m o ɾ1 a1 d o,m a l u m o ɾ a d o,mal.u.mo.ɾa.do,malumoɾado
+66201,66202,malhumorados,64,0.138345,malumoraDos,CVCVCVCVCVC,4,2,0.700372,,m a l u m o ɾ1 a1 d o s,m a l u m o ɾ a d o s,mal.u.mo.ɾa.dos,malumoɾados
 66202,66203,malibú,1039,2.245944,maliBu,CVCVCV,3,0,0.0,,m a l i b1 u1,m a l i b u,ma.li.bu,malibu
 66203,66204,malicia,841,1.817939,malisja,CVCVCVV,2,8,2.349163,,m a l1 i1 s i a,m a l i s i a,ma.li.sia,malisia
 66204,66205,maliciosa,295,0.637684,malisjosa,CVCVCVVCV,3,2,0.599856,,m a l i s1 i1 o1 s a,m a l i s i o s a,ma.li.sio.sa,malisiosa
@@ -80669,9 +80669,9 @@
 80667,80668,progreso,7520,16.255534,proGreso,CCVCCVCV,2,4,1.200251,,p ɾ o ɡ1 ɾ1 e1 s o,p ɾ o ɡ ɾ e s o,pɾo.ɡɾe.so,pɾoɡɾeso
 80668,80669,progresó,59,0.127537,proGreso,CCVCCVCV,3,4,1.200251,,p ɾ o ɡ ɾ e s1 o1,p ɾ o ɡ ɾ e s o,pɾo.ɡɾe.so,pɾoɡɾeso
 80669,80670,progresos,1729,3.737476,proGresos,CCVCCVCVC,2,4,4.127112,,p ɾ o ɡ1 ɾ1 e1 s o s,p ɾ o ɡ ɾ e s o s,pɾo.ɡɾe.sos,pɾoɡɾesos
-80670,80671,prohíba,317,0.68524,proiBa,CCVVCV,2,10,0.894271,,p ɾ o ʝ1 b a,p ɾ o ʝ b a,pɾo.ʝ.ba,pɾoʝba
-80671,80672,prohíbalo,6,0.01297,proiBalo,CCVVCVCV,2,4,0.018374,,p ɾ o ʝ1 b a l o,p ɾ o ʝ b a l o,pɾo.ʝ.ba.lo,pɾoʝbalo
-80672,80673,prohíban,74,0.159961,proiBan,CCVVCVC,2,6,0.376846,,p ɾ o ʝ1 b a n,p ɾ o ʝ b a n,pɾo.ʝ.ban,pɾoʝban
+80670,80671,prohíba,317,0.68524,proiBa,CCVVCV,2,10,0.894271,,p ɾ o i1 b a,p ɾ o i b a,pɾo.i.ba,pɾoiba
+80671,80672,prohíbalo,6,0.01297,proiBalo,CCVVCVCV,2,4,0.018374,,p ɾ o i1 b a l o,p ɾ o i b a l o,pɾo.i.ba.lo,pɾoibalo
+80672,80673,prohíban,74,0.159961,proiBan,CCVVCVC,2,6,0.376846,,p ɾ o i1 b a n,p ɾ o i b a n,pɾo.i.ban,pɾoiban
 80673,80674,prohibe,525,1.134861,proiBe,CCVVCV,1,10,1.064608,,p1 ɾ1 o1 ʝ1 b e,p ɾ o ʝ b e,pɾoʝ.be,pɾoʝbe
 80674,80675,prohiben,135,0.291821,proiBen,CCVVCVC,1,7,0.72662,,p1 ɾ1 o1 ʝ1 b e n,p ɾ o ʝ b e n,pɾoʝ.ben,pɾoʝben
 80675,80676,prohibes,52,0.112405,proiBes,CCVVCVC,1,7,0.864656,,p1 ɾ1 o1 ʝ1 b e s,p ɾ o ʝ b e s,pɾoʝ.bes,pɾoʝbes
@@ -80706,7 +80706,7 @@
 80704,80705,prohibírselo,78,0.168608,proiBirselo,CCVVCVCCVCV,2,3,0.090789,,p ɾ o ʝ b1 i1 ɾ1 s e l o,p ɾ o ʝ b i ɾ s e l o,pɾoʝ.biɾ.se.lo,pɾoʝbiɾselo
 80705,80706,prohibirte,106,0.229134,proiBirte,CCVVCVCCV,2,5,0.249453,,p ɾ o ʝ b1 i1 ɾ1 t e,p ɾ o ʝ b i ɾ t e,pɾoʝ.biɾ.te,pɾoʝbiɾte
 80706,80707,prohibiste,66,0.142668,proiBiste,CCVVCVCCV,2,1,0.229134,,p ɾ o ʝ b1 i1 s1 t e,p ɾ o ʝ b i s t e,pɾoʝ.bis.te,pɾoʝbiste
-80707,80708,prohíbo,1223,2.643686,proiBo,CCVVCV,2,9,1.33085,,p ɾ o ʝ1 b o,p ɾ o ʝ b o,pɾo.ʝ.bo,pɾoʝbo
+80707,80708,prohíbo,1223,2.643686,proiBo,CCVVCV,2,9,1.33085,,p ɾ o i1 b o,p ɾ o i b o,pɾo.i.bo,pɾoibo
 80708,80709,prójimo,1216,2.628554,proximo,CCVCVCV,1,2,0.058365,,p1 ɾ1 o1 x i m o,p ɾ o x i m o,pɾo.xi.mo,pɾoximo
 80709,80710,prójimos,48,0.103759,proximos,CCVCVCVC,1,2,1.315358,,p1 ɾ1 o1 x i m o s,p ɾ o x i m o s,pɾo.xi.mos,pɾoximos
 80710,80711,prolactina,20,0.043233,prolaktina,CCVCVCCVCV,3,0,0.0,,p ɾ o l a k t1 i1 n a,p ɾ o l a k t i n a,pɾo.lak.ti.na,pɾolaktina
@@ -85988,11 +85988,11 @@
 85986,85987,rehuido,19,0.041071,RewiDo,CVVVCV,2,7,8.44769,,ɾ e w i1 d o,ɾ e w i d o,ɾew.i.do,ɾewido
 85987,85988,rehuir,47,0.101597,Rewir,CVVVC,2,8,2.658007,,ɾ e w i1 ɾ1,ɾ e w i ɾ,ɾew.iɾ,ɾewiɾ
 85988,85989,rehuirle,24,0.051879,Rewirle,CVVVCCV,2,7,0.022234,,ɾ e w1 i1 ɾ1 l e,ɾ e w i ɾ l e,ɾe.wiɾ.le,ɾewiɾle
-85989,85990,rehúsa,741,1.601775,Reusa,CVVCV,2,15,2.018395,,ɾ e w1 s a,ɾ e w s a,ɾe.w.sa,ɾewsa
+85989,85990,rehúsa,741,1.601775,Reusa,CVVCV,2,15,2.018395,,ɾ e u1 s a,ɾ e u s a,ɾe.u.sa,ɾeusa
 85990,85991,rehusaba,105,0.226972,ReusaBa,CVVCVCV,2,7,0.253838,,ɾ e w s1 a1 b a,ɾ e w s a b a,ɾew.sa.ba,ɾewsaba
 85991,85992,rehusado,207,0.44746,ReusaDo,CVVCVCV,2,4,0.476642,,ɾ e w s1 a1 d o,ɾ e w s a d o,ɾew.sa.do,ɾewsado
 85992,85993,rehusamos,86,0.185901,Reusamos,CVVCVCVC,2,5,0.634225,,ɾ e w s1 a1 m o s,ɾ e w s a m o s,ɾew.sa.mos,ɾewsamos
-85993,85994,rehúsan,203,0.438813,Reusan,CVVCVC,2,8,0.722798,,ɾ e w1 s a n,ɾ e w s a n,ɾe.w.san,ɾewsan
+85993,85994,rehúsan,203,0.438813,Reusan,CVVCVC,2,8,0.722798,,ɾ e u1 s a n,ɾ e u s a n,ɾe.u.san,ɾeusan
 85994,85995,rehusando,66,0.142668,Reusando,CVVCVCCV,2,2,3.240299,,ɾ e w s1 a1 n1 d o,ɾ e w s a n d o,ɾew.san.do,ɾewsando
 85995,85996,rehusándose,76,0.164285,Reusandose,CVVCVCCVCV,2,1,0.021616,,ɾ e w s1 a1 n1 d o s e,ɾ e w s a n d o s e,ɾew.san.do.se,ɾewsandose
 85996,85997,rehusar,383,0.827908,Reusar,CVVCVC,2,8,2.185418,,ɾ e w s1 a1 ɾ1,ɾ e w s a ɾ,ɾew.saɾ,ɾewsaɾ
@@ -86004,14 +86004,14 @@
 86002,86003,rehusaron,167,0.360994,Reusaron,CVVCVCVC,2,4,0.063769,,ɾ e w s1 a1 ɾ o n,ɾ e w s a ɾ o n,ɾew.sa.ɾon,ɾewsaɾon
 86003,86004,rehusarse,162,0.350186,Reusarse,CVVCVCCV,2,8,0.099976,,ɾ e w s1 a1 ɾ1 s e,ɾ e w s a ɾ s e,ɾew.saɾ.se,ɾewsaɾse
 86004,86005,rehusarte,74,0.159961,Reusarte,CVVCVCCV,2,7,0.156256,,ɾ e w s1 a1 ɾ1 t e,ɾ e w s a ɾ t e,ɾew.saɾ.te,ɾewsaɾte
-86005,86006,rehúsas,220,0.475561,Reusas,CVVCVC,2,12,0.642007,,ɾ e w1 s a s,ɾ e w s a s,ɾe.w.sas,ɾewsas
+86005,86006,rehúsas,220,0.475561,Reusas,CVVCVC,2,12,0.642007,,ɾ e u1 s a s,ɾ e u s a s,ɾe.u.sas,ɾeusas
 86006,86007,rehusaste,91,0.196709,Reusaste,CVVCVCCV,2,5,0.104623,,ɾ e w s1 a1 s1 t e,ɾ e w s a s t e,ɾew.sas.te,ɾewsaste
-86007,86008,rehúsate,24,0.051879,Reusate,CVVCVCV,2,5,0.078684,,ɾ e w1 s a t e,ɾ e w s a t e,ɾe.w.sa.te,ɾewsate
+86007,86008,rehúsate,24,0.051879,Reusate,CVVCVCV,2,5,0.078684,,ɾ e u1 s a t e,ɾ e u s a t e,ɾe.u.sa.te,ɾeusate
 86008,86009,rehusé,185,0.399903,Reuse,CVVCV,2,20,1.051206,,ɾ e w s1 e1,ɾ e w s e,ɾew.se,ɾewse
-86009,86010,rehúse,60,0.129698,Reuse,CVVCV,2,20,1.051206,,ɾ e w1 s e,ɾ e w s e,ɾe.w.se,ɾewse
+86009,86010,rehúse,60,0.129698,Reuse,CVVCV,2,20,1.051206,,ɾ e u1 s e,ɾ e u s e,ɾe.u.se,ɾeuse
 86010,86011,rehusó,665,1.437491,Reuso,CVVCV,2,17,2.079116,,ɾ e w s1 o1,ɾ e w s o,ɾew.so,ɾewso
-86011,86012,rehúso,441,0.953283,Reuso,CVVCV,2,17,2.079116,,ɾ e w1 s o,ɾ e w s o,ɾe.w.so,ɾewso
-86012,86013,rehúye,28,0.060526,ReuHe,CVVCV,2,8,0.85628,,ɾ e w1 i e,ɾ e w i e,ɾe.w.ie,ɾewie
+86011,86012,rehúso,441,0.953283,Reuso,CVVCV,2,17,2.079116,,ɾ e u1 s o,ɾ e u s o,ɾe.u.so,ɾeuso
+86012,86013,rehúye,28,0.060526,ReuHe,CVVCV,2,8,0.85628,,ɾ e u1 i e,ɾ e u i e,ɾe.u.ie,ɾeuie
 86013,86014,reí,711,1.536926,Rei,CVV,2,49,17.373455,,ɾ e i1,ɾ e i,ɾe.i,ɾei
 86014,86015,reía,1690,3.653172,Reia,CVVV,2,34,10.352476,,ɾ e i1 a,ɾ e i a,ɾe.i.a,ɾeia
 86015,86016,reíamos,392,0.847363,Reiamos,CVVVCVC,2,11,0.840485,,ɾ e i1 a m o s,ɾ e i a m o s,ɾe.i.a.mos,ɾeiamos
@@ -91257,7 +91257,7 @@
 91255,91256,sartén,1226,2.650171,sarten,CVCCVC,2,6,0.837275,,s a ɾ t1 e1 n1,s a ɾ t e n,saɾ.ten,saɾten
 91256,91257,sartenes,270,0.583643,sartenes,CVCCVCVC,2,1,0.002162,,s a ɾ t1 e1 n e s,s a ɾ t e n e s,saɾ.te.nes,saɾtenes
 91257,91258,sasha,3062,6.618942,sasa,CVCV,1,63,39.418263,,s1 a1 s1 a,s a s a,sas.a,sasa
-91258,91259,sashimi,151,0.326408,sasimi,CVCVCV,2,0,0.0,,s a s ʝ1 m i,s a s ʝ m i,sas.ʝ.mi,sasʝmi
+91258,91259,sashimi,151,0.326408,sasimi,CVCVCV,2,0,0.0,,s a s i1 m i,s a s i m i,sas.i.mi,sasimi
 91259,91260,sastre,2132,4.608617,sastre,CVCCCV,1,9,0.333373,,s1 a1 s1 t ɾ e,s a s t ɾ e,sas.tɾe,sastɾe
 91260,91261,sastrería,181,0.391257,sastreria,CVCCCVCVV,3,1,0.032425,,s a s t ɾ e ɾ1 i1 a,s a s t ɾ e ɾ i a,sas.tɾe.ɾi.a,sastɾeɾia
 91261,91262,sastres,238,0.51447,sastres,CVCCCVC,1,4,1.178094,,s1 a1 s1 t ɾ e s,s a s t ɾ e s,sas.tɾes,sastɾes
@@ -95688,7 +95688,7 @@
 95686,95687,suscriptor,50,0.108082,suskriptor,CVCCCVCCVC,3,2,0.031344,,s u s k ɾ i p t1 o1 ɾ1,s u s k ɾ i p t o ɾ,sus.kɾip.toɾ,suskɾiptoɾ
 95687,95688,suscrita,30,0.064849,suskrita,CVCCCVCV,2,4,0.067551,,s u s k1 ɾ1 i1 t a,s u s k ɾ i t a,sus.kɾi.ta,suskɾita
 95688,95689,suscrito,89,0.192386,suskrito,CVCCCVCV,2,4,0.064849,,s u s k1 ɾ1 i1 t o,s u s k ɾ i t o,sus.kɾi.to,suskɾito
-95689,95690,sushi,2512,5.43004,susi,CVCV,1,20,70.410131,,s1 u1 s1 ʝ,s u s ʝ,sus.ʝ,susʝ
+95689,95690,sushi,2512,5.43004,susi,CVCV,1,20,70.410131,,s1 u1 s1 i,s u s i,sus.i,susi
 95690,95691,susodicha,61,0.13186,susoDiCa,CVCVCVCV,3,2,0.119971,,s u s o d1 i1 t ͡ ʃ a,s u s o d i t ͡ ʃ a,su.so.di.t͡ʃa,susodit͡ʃa
 95691,95692,susodichos,42,0.090789,susoDiCos,CVCVCVCVC,3,2,0.119971,,s u s o d1 i1 t ͡ ʃ o s,s u s o d i t ͡ ʃ o s,su.so.di.t͡ʃos,susodit͡ʃos
 95692,95693,suspenda,298,0.644169,suspenda,CVCCVCCV,2,7,0.499956,,s u s p1 e1 n1 d a,s u s p e n d a,sus.pen.da,suspenda
@@ -100845,8 +100845,8 @@
 100843,100844,vehemente,124,0.268043,beemente,CVVCVCCV,3,1,0.028101,,b e e m1 e1 n1 t e,b e e m e n t e,be.e.men.te,beemente
 100844,100845,vehementemente,56,0.121052,beementemente,CVVCVCCVCVCCV,5,0,0.0,,b e e m e n t e m1 e1 n1 t e,b e e m e n t e m e n t e,be.e.men.te.men.te,beementemente
 100845,100846,vehementes,13,0.028101,beementes,CVVCVCCVC,3,1,0.268043,,b e e m1 e1 n1 t e s,b e e m e n t e s,be.e.men.tes,beementes
-100846,100847,vehículo,11548,24.96262,beikulo,CVVCVCV,2,1,9.764128,,b e ʝ1 k u l o,b e ʝ k u l o,be.ʝ.ku.lo,beʝkulo
-100847,100848,vehículos,4517,9.764128,beikulos,CVVCVCVC,2,1,24.96262,,b e ʝ1 k u l o s,b e ʝ k u l o s,be.ʝ.ku.los,beʝkulos
+100846,100847,vehículo,11548,24.96262,beikulo,CVVCVCV,2,1,9.764128,,b e i1 k u l o,b e i k u l o,be.i.ku.lo,beikulo
+100847,100848,vehículos,4517,9.764128,beikulos,CVVCVCVC,2,1,24.96262,,b e i1 k u l o s,b e i k u l o s,be.i.ku.los,beikulos
 100848,100849,veía,17689,38.237252,beia,CVVV,2,37,9.474586,,b e i1 a,b e i a,be.i.a,beia
 100849,100850,veíamos,1799,3.888791,beiamos,CVVVCVC,2,12,7.998789,,b e i1 a m o s,b e i a m o s,be.i.a.mos,beiamos
 100850,100851,veían,2290,4.950156,beian,CVVVC,2,16,7.435096,,b e i1 a n,b e i a n,be.i.an,beian
