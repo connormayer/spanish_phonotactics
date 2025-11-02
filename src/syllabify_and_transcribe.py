@@ -19,9 +19,10 @@ for x in df.word:
     else:
         syl = silabeador.syllabify(x)
     trans = epi.transliterate('.'.join(syl)).split('.')
-    breakpoint()
     new_syl = []
     for syllable in trans:
+      # epitran transcribes instances of 'hi' and 'hu' as 
+      # ʝ and w for some reason...
       if syllable == 'ʝ':
         new_syl.append('i')
       elif syllable == 'w':
@@ -31,11 +32,6 @@ for x in df.word:
         
     syllabified_ipa.append(new_syl)
     
-# syllabified_ipa = [
-#     epi.transliterate('.'.join(x)).split('.') 
-#     for x in map(silabeador.syllabify, df.word)
-# ]
-
 stressed_ipa = []
 
 for i, syllables in enumerate(syllabified_ipa):
